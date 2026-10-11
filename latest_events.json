@@ -1,70 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T23:30:05+02:00",
-  "period_end": "2026-10-12T01:30:05+02:00",
-  "updated_at": "2026-10-12T01:30:05+02:00",
+  "period_start": "2026-10-11T23:40:05+02:00",
+  "period_end": "2026-10-12T01:40:05+02:00",
+  "updated_at": "2026-10-12T01:40:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T23:30:33.441+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558954989056041050/Screenshot_20261011_233005_TF1.jpg?ex=6acd5179&is=6acbfff9&hm=10d7fe4d9a6fd6abd1a7d6c44a4a0e0891e3972fb1b939047053b87b44012bce&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:33:00.000+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h30 - Le live reprend dans la cusine. Leeloo, Amel, Noemie et Isabella discutent. \nLeeloo n’a pas encore utilisé sa minute de téléphone et elle ne sait pas si elle va l'utiliser.\nElle veut prendre un peu de temps pour réfléchir car sinon, elle laissera sa minute à quelqu'un d'autre avant qu’il soit trop tard pour appeler.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:34:20.741+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Coupure son et réunion d'académiciens dans la cuisine",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:34:25.652+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558955963023753237/Screenshot_20261011_233331_TF1.jpg?ex=6acd5261&is=6acc00e1&hm=c39d9f9dbc5801cf5e76559bd3a9619023f224b7de49a07a65e3ba814dc16a47&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:34:53.478+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h34 - La coupure son est suivie par un plan escalier",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:36:18.031+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h36 - Reprise du Live en salle de chant. \nFanny donne des devoirs à Ydriss, Tracy et Zoé.\nLa première tentative est une mini catastrophe",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:38:02.470+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558956871782506537/Screenshot_20261011_233551_TF1.jpg?ex=6acd533a&is=6acc01ba&hm=cd931e205f2dc39ca9c735a386fb77cd1fce94bf1218a9581aec63d844dc3089&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558956872210317342/Screenshot_20261011_233713_TF1.jpg?ex=6acd533a&is=6acc01ba&hm=73f3a286d71c9e71b5c50bb5e81f14ac4d53c86acfbc6b71b2e1c3f6424ca3f4&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:38:19.588+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Les devoirs sont des harmonies sur l’hymne de la saison",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:39:37.381+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h38 - Dans le dressing, Khalil, Brieuc, Melina et Kylian discute des évaluations à venir",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T23:40:21.956+02:00",
       "channel": "🔴・infos-live",
@@ -523,6 +462,26 @@
       "timestamp": "2026-10-12T01:29:23.737+02:00",
       "channel": "🔴・infos-live",
       "content": "01h28 Extinction des lumières",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:30:41.128+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Chambre des filles",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558985220076609546/image.png?ex=6acd6da1&is=6acc1c21&hm=9e1897717886b91c58817483d31ded2768d9eaf606e1c9581c797f9cd996b2ed&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T01:31:54.362+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01H30 Fin du live du coup,",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:32:40.671+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bonne nuit à toutes et tous et à demain 7h30 avec @Nantaise44 🩷 !",
       "image_urls": []
     }
   ]
