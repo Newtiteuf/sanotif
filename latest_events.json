@@ -1,85 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T18:40:04+02:00",
-  "period_end": "2026-10-11T20:40:04+02:00",
-  "updated_at": "2026-10-11T20:40:04+02:00",
+  "period_start": "2026-10-11T18:50:04+02:00",
+  "period_end": "2026-10-11T20:50:04+02:00",
+  "updated_at": "2026-10-11T20:50:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T18:41:14+02:00",
-      "channel": "infos-live",
-      "content": "18h40 - Les élèves semblent s’éloigner de la salle de danse.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:42:02+02:00",
-      "channel": "infos-live",
-      "content": "18h41 - Les élèves semblent se diriger vers la salle de chant.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:42:31+02:00",
-      "channel": "infos-live",
-      "content": "Décidez-vous s’il vous plaît, je n’ai pas toute la soirée.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:43:03+02:00",
-      "channel": "infos-live",
-      "content": "Sorry pour la personne que j’ai coupée.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558882637706428559/image.png?ex=6acd0e17&is=6acbbc97&hm=c56c53d523b9e0f9b9968e52b91846e88bac1a520b1c01cb12d341efd0878866&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T18:44:03+02:00",
-      "channel": "infos-live",
-      "content": "18h43 - Retenez bien cette heure, c’est celle de la première répétition de l’hymne !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:44:29+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558882996776476852/image.png?ex=6acd0e6d&is=6acbbced&hm=5287a6db2698cd420776168954ea26e0b599906ab59f5fa30fe5a4dc979be166&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T18:44:45+02:00",
-      "channel": "infos-live",
-      "content": "Avec Philippine et Fanny !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:45:37+02:00",
-      "channel": "infos-live",
-      "content": "18h44 - L’hymne ouvrira le prochain prime et les élèves apprendront la chorégraphie demain avec John.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:46:29+02:00",
-      "channel": "infos-live",
-      "content": "18h46 - C’est parti pour la première écoute !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:47:07+02:00",
-      "channel": "infos-live",
-      "content": "18h47 - Céline a coupé Fanny. Pas gentil.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:48:07+02:00",
-      "channel": "infos-live",
-      "content": "18h48 - Nous écoutons enfin « Dans un autre monde » de Céline Dion.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:49:16+02:00",
-      "channel": "infos-live",
-      "content": "18h49 - Les élèves se dandinent en écoutant Céline Dion.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T18:50:17+02:00",
       "channel": "infos-live",
