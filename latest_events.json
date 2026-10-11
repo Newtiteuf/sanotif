@@ -1,163 +1,759 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T19:20:04+02:00",
-  "period_end": "2026-10-11T21:20:04+02:00",
-  "updated_at": "2026-10-11T21:20:04+02:00",
+  "period_start": "2026-10-11T22:00:04+02:00",
+  "period_end": "2026-10-12T00:00:04+02:00",
+  "updated_at": "2026-10-12T00:00:04+02:00",
   "events": [
     {
-      "timestamp": "2026-10-11T19:21:22+02:00",
+      "timestamp": "2026-10-11T22:02:31.462+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:20 - Antoine et Brieuc se concentre sur le refrain, à la demande de Philippine.",
+      "content": "BONSOIIIR les amis, première session live pour cette année !",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:21:40+02:00",
+      "timestamp": "2026-10-11T22:03:10.399+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:21 - Philippine demande de l'attitude sur un passage.",
+      "content": "22h02 - Quel bel escalier que me propose ce live.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:23:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plantage de TF1+",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:23:14+02:00",
+      "timestamp": "2026-10-11T22:03:43.090+02:00",
       "channel": "🔴・infos-live",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558892750420705351/Capture_decran_2026-10-11_192217.png?ex=6acd1782&is=6acbc602&hm=f0b8f69daaa4d0316166d1462ec1e6c6f108203f2a6b4d4e54b5d29659508d85&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558933135574442155/image.png?ex=6acd3d1f&is=6acbeb9f&hm=04ae21a36e4794cb11e44b6a95785e6a416ec0a9aae8906d7362a93c5987d90e&"
       ]
     },
     {
-      "timestamp": "2026-10-11T19:23:33+02:00",
+      "timestamp": "2026-10-11T22:05:50.464+02:00",
       "channel": "🔴・infos-live",
-      "content": "Brieuc choqué ?",
+      "content": "22h05 - Mélina se rends dans la cuisine et demande à Morgan ce qu'il mange. Elle lui dit qu'elle vient d'avoir sa maman au téléphone, elle dit que ça fait bizarre mais que ça c'est bien passé.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:24:39+02:00",
+      "timestamp": "2026-10-11T22:07:02.600+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:23 - Antoine et Brieuc, sont toujours en train de répéter avec Philippine.",
+      "content": "22h06 - Mélina discute maintenant avec Elija de son appel avec sa maman. Elle a adoré le prime, elle lui a parlé de son chien.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558933972032163950/image.png?ex=6acd3de6&is=6acbec66&hm=b93943c709edd501541a649e40cf3ba2bb044af70f895b35a98fc786e2160930&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:07:57.791+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h07 - Mélina dit qu'elle ne sait pas si elle va beaucoup appeler sa maman car elle à l'habitude de l'appeler pendant des heures et de parler de choses en détails , hors là elle n'a qu'une seule minute de téléphone.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:25:35+02:00",
+      "timestamp": "2026-10-11T22:08:33.769+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:25 - Philippine explique à Brieuc qu'il doit penser petit et ne pas monter trop haut. Il se rate à nouveau, ce qui fait rire la répétitrice.",
+      "content": "22h08 -",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:26:43+02:00",
+      "timestamp": "2026-10-11T22:13:50.824+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:26 - José nous coupe le son momentanément.",
+      "content": "22h13 - Je suis toujours là au cas où hein.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:26:54+02:00",
+      "timestamp": "2026-10-11T22:15:58.700+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h15 - Noémie et Maud sont au piano. Maud est en train de jouer quelques notes, Noémie le micro à la main.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558936220485296160/image.png?ex=6acd3ffe&is=6acbee7e&hm=dc733e23a689dffa7123989791ec10823ad7d2487fd2a7671ca1ce3b9a804481&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:16:34.790+02:00",
+      "channel": "🔴・infos-live",
+      "content": "eh merce le live qui beug",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:17:24.053+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h17 - Kylian a rejoint les filles au piano. Il regarde dans les feuilles de Noémie voir si il connait des musiques.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:18:39.479+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h18 - Maud toujours au piano, Noémie chante Ne me jugez pas de Camille Lelouche.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558936894954283028/image.png?ex=6acd409f&is=6acbef1f&hm=b8b729a2652aafc2e42af5f3a2e73405ffafac4491e1512ef1f82f224cafc4c2&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:20:45.650+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h20 - CHATEAUUU",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:22:13.025+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h21 - Retour dans la cuisine, Félix, Antoine, Ydriss sont en train de manger.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:23:40.332+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h22 - Antoine discute avec Ydriss. Antoine dit que son plat est immangeable. Morgan arrive avec une compote, ils disent qu'elle à l'air très bonne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:24:10.208+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h23 - Antoine parle de sa soeur, il dit qu'elle ne regarde pas le live mais qu'elle était au courant de ce qu'il s'y passait.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:25:19.088+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h25 - Mesdames, messieurs : CHATEAU",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:26:09.390+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h26 - Brieuc sort de sa session téléophone et se rend à table pour manger. Il dit que c'est très bizarre comme sensation, il a l'impression que c'est normal. Il mentionne le fait que ça passe très vite.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558938781845823658/image.png?ex=6acd4261&is=6acbf0e1&hm=83c15366620011e0b6e062a7c56c8802746e0dfc6b4b8bfc63f3a18380474690&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:26:37.568+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h26 - Un des élèves présent à table dit que les champignons sont fades et que les pates ne sont pas bonnes.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:27:21.728+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h27 - Nous sommes sur un sacré sujet de discussion : les selles.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:28:03.942+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h28 - Leeloo et Isabella sont avec Fanny en salle de chant. Elles effectuent leurs prises de tonalité pour l'hymne.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558939262504669194/image.png?ex=6acd42d3&is=6acbf153&hm=e1d0c48584c9dbf6676dd5dfe5cd840fb6e3561a319c2d9d3cb917d40042d1b7&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:28:28.936+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Pour rappel : l'hymne de cette année est Dans un autre monde de Céline Dion.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:30:04.303+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h29 - Fanny fait répéter les filles sur les paroles Une autre chance, une seconde, et tant pis pour celle-ci.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:30:39.168+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Rendez-vous dans un autre monde.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558939913255133184/image.png?ex=6acd436f&is=6acbf1ef&hm=7ed61d2c4653bca1a92644fdae152c755272a6b0f72889b0d82915018852fc88&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558939913594994790/image.png?ex=6acd436f&is=6acbf1ef&hm=988d44382c4a3f3f7a3e0602ba76f1d13706e360fb3de875337dbbdda5a0b4c0&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:31:30.223+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h31 - Fanny propose de le refaire une fois lentement avec le piano.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:32:39.964+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Quand les nuits seront plus longues, plus longues que mes nuits",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:34:30.471+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h34 - Fanny dit que la fin est un peu traitre. Elle dit au fille d'écouter la musique plusieurs fois et ça le fera.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:34:57.102+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h34 - Fanny donne chaque phrases à apprendre individuellement aux filles.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:35:34.516+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h35 - chato",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:36:34.725+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h35 - Direction le château, Ydriss et Brieuc sont dans le dressing. Brieuc cherche son pyjama, il dit qu'il l'a peut être mis à laver car il a transpiré cette nuit.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558941404871397536/image.png?ex=6acd44d2&is=6acbf352&hm=4d385ca13a820ea7656c035e48cf20b768afaa97d9c24e6f63305fff4e76e3cf&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:39:38.855+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h38 - Brieuc est dans la salle de bain en fredonnant S'il suffisait d'aimer. Un des garçon est dans la douche, Brieuc en profite pour passer un coup de tondeuse.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558942177181302784/image.png?ex=6acd458a&is=6acbf40a&hm=871c68f0a12cd3653340522a2fb76e0524381a2dfce3af3d9193a395911c1993&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:40:19.286+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h39 - Antoine et Félix sont dans le salon. Antoine à la guitare chante la musique qu'il a chanté au prime : Le temps de TAYC.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:41:00.458+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h40 - Le retour des escaliers ...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:42:52.252+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h42 - Certains sont présents dans la cuisine. Khalil en train de faire la vaisselle chante La Bohème de *Charles Aznavour**.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558942988309372998/image.png?ex=6acd464c&is=6acbf4cc&hm=68cd2944729e13a6d63c920727746195d25da4e4d02d63ac8973b2298557ee3e&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:43:56.159+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h43 - Zoé s'installe pour manger. Elle dit qu'elle est fatiguée.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:44:24.225+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h44 - Un des garçons part en répétitions.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:45:38.701+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h44 - Zoé dit \"ça se trouve ça ne sera pas bon\", elle dit avoir eu l'impression de passer deux heures à cuisiner.\nTracy s'installe à table également pour manger, elle demande aux autres si ils ont passé un coup de téléphone. Elle leur demande comment ça s'est passé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:46:59.300+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h46 - Khalil parle de son coup de téléphone. Son ami dit avoir regarder le live.\nTracy demande à Noémie qui elle a appelé. Elle a donc appelé sa maman et sa soeur.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558944024541536327/image.png?ex=6acd4743&is=6acbf5c3&hm=8a87001e98db1d0cfcfd21b58ebcddf50a4dd63dea905a8e05e609d88ab20edf&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:47:30.858+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h47 - Zoé à appelé sa maman. Elle l'a rassuré en lui disant que tout le monde était gentil. Elle lui a dit avoir adoré le prime.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:48:02.414+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h47 - Zoé parle de ses origines, son grand-père serait italien. Zoé n'aurait jamais appris l'italien.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558944289336201377/image.png?ex=6acd4782&is=6acbf602&hm=d7cdcc4c201ac138ed12f843ddec692b31072fe1621121a61156dccb2f378651&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T22:48:55.644+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h48 - Isabella a appelé son frère, elle lui a raccrochée au nez car elle ne s'était pas rendu compte du temps.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:49:35.838+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h49 - Isabella parle de sa famille, qu'elle n'est pas démonstratif avec eux. Ils ne se disent pas je t'aime mais ils le savent.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:50:45.299+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h50 - CHATO",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:52:05.047+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h51 - Retour dans la cusine, les élèves parlent du décalage horaire qu'on la famille d'Ydriss. Il y a 6h de décalage.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:54:01.940+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h53 - Tracy demande à Isabella si elle a hâte des cours avec Ladji. Elle lui demande c'est quoi ses cours. Elle à l'air surprise de savoir qu'il y a des cours de sport.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:54:23.522+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h54 - CHATO",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:56:43.345+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h55 - De retour, Cameron arrive en douceur dans la cuisine. Kylian lui demande si il veut des oeufs. Il lui répond qu'il va juste prendre des",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T22:56:52.998+02:00",
       "channel": "🔴・infos-live",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558893673071255692/Capture_decran_2026-10-11_192501.png?ex=6acd185e&is=6acbc6de&hm=7b7ca9c0376ec90fab92b890f1c36acf44aaf10283516b4083850d92e3a5951b&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558893673515581690/Capture_decran_2026-10-11_192640.png?ex=6acd185e&is=6acbc6de&hm=be05da75cf0d5d2d1cf11d65bd7760b8e2bb6f6bb75ce1528efe9c38808c18fb&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558946514695618600/image.png?ex=6acd4994&is=6acbf814&hm=8c4c99afa1edaf2e0aaa906ef5ce5facbd32af2d8421840821b75d659a40d2cc&"
       ]
     },
     {
-      "timestamp": "2026-10-11T19:27:11+02:00",
+      "timestamp": "2026-10-11T22:58:13.921+02:00",
       "channel": "🔴・infos-live",
-      "content": "Coupure Escalier",
+      "content": "22h57 - Les élèves parlent de la \"surprise\" écrit sur le planning. Ils espèrent aller au concert de Céline Dion. Ils aimeraient qu'elle vienne au château.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:30:03+02:00",
+      "timestamp": "2026-10-11T22:58:40.264+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:29 - Après une petite coupure, Antoine a laissé sa place à Cameron. Il commence à chanter mais semble manquer un peu d'assurance. Philippine lui demande de chanter plus fort. Selon elle, il connait les paroles.",
+      "content": "22h58 - Brieuc demande c'est quand les dates de son concert",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:32:26+02:00",
+      "timestamp": "2026-10-11T22:59:25.774+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:31 - Cameron continue de chanter, encouragé par Philippine. Elle dit aux garçons qu'ils doivent se sentir libre de rajouter des choses, comme si c'était leur chanson.",
+      "content": "22h59 - Certains élèves pensent être invités à la plénitude arena pour voir le concert, d'autres émettent l'idée d'aller sur scène avec Céline pour chanter l'hymne.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:32:35+02:00",
+      "timestamp": "2026-10-11T23:00:49.177+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h00 - Les élèves présent dans la cuisine parle de plat entre eux. Brieuc dit que faire une raclette pourrait être génial.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:01:19.228+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h01 - encore un CHATO de nuit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:01:51.207+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h02 - Antoine dit \"on est 17, c'est impossible qu'il y ait une semaine sans éliminés\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:02:28.245+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h02 - Tracy parle qu'a une saison les élèves piochaient une musique , et une heure après ils devaient la chanter.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:02:47.161+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h02 - Ydriss dit que si cela leurs arrive , il va se mettre à pleurer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:05:16.620+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h04 - Mélina et Maud arrivent dans la cuisine en chantant l'hymne. Tracy leurs dit qu'elle a hâte de les entendre demain chanter.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558948626997321859/image.png?ex=6acd4b8c&is=6acbfa0c&hm=ea12adb703bb2c865a53e493324471ceeec009e457bbca555b9e7fef5a514eda&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:06:24.538+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h05 - Maud mentionne adorer le paprika. Elle dit que si le mot paprika n'était pas attribué à une épice, cela pourrait être un prénom.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:07:23.348+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h06 - Isabella & Mélina sont en train de cuisiner. Mélina va faire un plat à base de tomate.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949158650642492/image.png?ex=6acd4c0b&is=6acbfa8b&hm=3fead4493251cfa59e1aaa7ff99d963f79fc6d31f49012870ff7684bb01480c2&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:07:52.842+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h07  - It's time to skin care",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949282281693184/image.png?ex=6acd4c28&is=6acbfaa8&hm=ddfba5a9ada6613083ca25e811e1ee694b12e82300e8834599de3b194b0410af&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:08:22.498+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h08 - Brieuc ajoute un mot sur les miroirs des escaliers.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949406378692718/image.png?ex=6acd4c46&is=6acbfac6&hm=99c5e171383e12052aab4a3b89bc4a9354cfb3daff0e024714f2ab32491ec29e&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949406689075322/image.png?ex=6acd4c46&is=6acbfac6&hm=fbc3a5723e772efe81473d0b0ac0b1a388bae8b9ea4d45bcd8b816d586298910&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:08:49.361+02:00",
+      "channel": "🔴・infos-live",
+      "content": "On écrit sur les murs le nom de ceux qu'on s'aime",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:09:18.703+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h08 - Antoine à son tour écrit un mot.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949642216149134/image.png?ex=6acd4c7e&is=6acbfafe&hm=e939823966b75c0ef40b11c72b67c199bf3e2024113697bb4f5991f9af3296fb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:09:40.387+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h09 - Un des garçon chante au piano, Brieuc pense que c'est Cameron, et Antoine pense que c'est Khalil.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:10:03.593+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ce fameux garçon chante Another Love de Tom Odell.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:11:21.932+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h11 - C'est un bingo pour Antoine, il s'agit de Khalil au micro.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558950159256264785/image.png?ex=6acd4cf9&is=6acbfb79&hm=16ff0dda7ec5710c4d64037870d084aeec4924b2d376c55a5831677f8c2827d5&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:12:58.643+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h12 - Amel dit à Khalil que ce registre lui va bien.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558950564879011880/image.png?ex=6acd4d5a&is=6acbfbda&hm=20f566cab94e16cfd934ccc17222341f6e9248868b463da1b5d94639bf26a98d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:13:26.879+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h13 - Félix chante et Khalil essaye de reproduire, il a peur de se casser la voix.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:13:54.156+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h13 - Félix pensait chanter Another Love au prime.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:14:21.322+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h14 - un dernier plan CHATO pour ma session",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:15:10.633+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h14 - Brieuc dit savoir jouer J'ai attrapé un coup de soleil au piano. Il dit être nul au piano. Amel dit \"être guez\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:15:39.855+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h15 - Brieuc, Khalil et Amel parle des évaluations. Ils ne savent pas si ça va être des musiques imposées ou non.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:16:14.724+02:00",
+      "channel": "🔴・infos-live",
+      "content": "C'est sur ces douces notes de piano que je cède ma place à notre cher @Kevin D . Belle soirée les amis",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:19:18.399+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h18 - Pour ma première session live de cette saison, nous sommes autour du piano en train de chanter du Adèle",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:19:53.817+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Vais avoir le privilège d'inaugurer la première rompish academy de cette saison ?? Telle est la question du soir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:21:22.245+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Brieuc au piano, Zoé et Khalil au chant.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:21:56.768+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Pendant ce temps, Tracy cherche Kylian partout dans le château. Celui n'aurait pas débarrassé sa table de repas",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:22:44.738+02:00",
       "channel": "🔴・infos-live",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558895101181296700/Capture_decran_2026-10-11_192922.png?ex=6acd19b2&is=6acbc832&hm=dbacc7976e34307235bca91a324bfd3b77a8d7946d588b76eff7d0b712b177e3&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558895101634412594/Capture_decran_2026-10-11_192955.png?ex=6acd19b3&is=6acbc833&hm=d8cfa780f4bd86c2151d39f1161056d83c2e3c76c39d006f407e6adb44a910d7&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558953023047344218/Screenshot_20261011_232022_TF1.jpg?ex=6acd4fa4&is=6acbfe24&hm=8dbf4e0953dc1a79132f21178333e86cc75816abaa76ff866eb929bed440792d&"
       ]
     },
     {
-      "timestamp": "2026-10-11T19:33:38+02:00",
+      "timestamp": "2026-10-11T23:23:55.927+02:00",
       "channel": "🔴・infos-live",
-      "content": "Philippine : ''Est-ce que vous chanteriez comme ça si vous aviez un micro ?''",
+      "content": "23h22 - Un gros noyau d'académicien est encore dans la cuisine et termine le repas/rangement du soir.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:34:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:33 - Les garçons répondent ''non'' à la question de Philippine. Elle explique à nouveau le sens des paroles et appui sur le fait que c'est une chanson ultra fédératrice.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:34:47+02:00",
+      "timestamp": "2026-10-11T23:25:11.060+02:00",
       "channel": "🔴・infos-live",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558895657278906479/image.png?ex=6acd1a37&is=6acbc8b7&hm=22641dc0e0628879fe773503a915086387e144fdfa05314c6a7d902dfa5678e0&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558953636896178196/Screenshot_20261011_232203_TF1.jpg?ex=6acd5036&is=6acbfeb6&hm=69ca7aea94abca7df4a4d1fb5f1ed9e1bf2c11c42dac0848fbdf025daa71eeb0&"
       ]
     },
     {
-      "timestamp": "2026-10-11T19:35:06+02:00",
+      "timestamp": "2026-10-11T23:25:57.185+02:00",
       "channel": "🔴・infos-live",
-      "content": "Est-ce que vous aimez la déco de la salle de chant ?",
+      "content": "23h25 - Khalil arrive dans la cuisine, mais le live bug ... encore une fois",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:36:42+02:00",
+      "timestamp": "2026-10-11T23:28:31.313+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:35 - Philippine explique qu'on a le droit d'arrondir les angles dans ce titre de Céline Dion. Mais elle précise qu'il y a quand même des angles.",
+      "content": "23h28 - Grosse discussion dans la cuisine entre Tracy, Amel, Khalil et Leeloo sur la chanson Reine de Dadju.\nPuis José nous gratifie d’un magnifique plan salle d’évaluation nocturne",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:37:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:36 - Philippine sait que ce n'est pas évident de remettre la même intensité que sur le prime dans les répétitions. Elle demande à Cameron et Brieuc de faire leur possible.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:39:55+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:39 - Philippine demande à Cameron de mettre un peu plus de groove. Elle sait qu'il aura l'assurance le moment venu.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:40:49+02:00",
+      "timestamp": "2026-10-11T23:28:38.683+02:00",
       "channel": "🔴・infos-live",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558897175457566790/image.png?ex=6acd1ba1&is=6acbca21&hm=2138975d492eb304dc5c8956674fddea0bae6ab040870096c7f71979ebbf6a36&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558954507394883585/Screenshot_20261011_232611_TF1.jpg?ex=6acd5106&is=6acbff86&hm=2564ab7d3b5b7134e1b24e766c9b7fd7ff4c6f12c1b760dd8d6cbd8411fa14c9&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558954507709190234/Screenshot_20261011_232620_TF1.jpg?ex=6acd5106&is=6acbff86&hm=12bc84e4db69f8df1c4224c5ee2920c572eebeceeafc5c22af8a585ca0bc9575&"
       ]
     },
     {
-      "timestamp": "2026-10-11T19:41:18+02:00",
+      "timestamp": "2026-10-11T23:29:13.596+02:00",
       "channel": "🔴・infos-live",
-      "content": "19:40 - Philippine propose de refaire l'hymne depuis le début.",
+      "content": "Ce plan salle d’évaluation est suivi d’un plan château nocturne",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:41:56+02:00",
+      "timestamp": "2026-10-11T23:30:33.441+02:00",
       "channel": "🔴・infos-live",
-      "content": "Coupure Château de nuit",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558954989056041050/Screenshot_20261011_233005_TF1.jpg?ex=6acd5179&is=6acbfff9&hm=10d7fe4d9a6fd6abd1a7d6c44a4a0e0891e3972fb1b939047053b87b44012bce&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:33:00.000+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h30 - Le live reprend dans la cusine. Leeloo, Amel, Noemie et Isabella discutent. \nLeeloo n’a pas encore utilisé sa minute de téléphone et elle ne sait pas si elle va l'utiliser.\nElle veut prendre un peu de temps pour réfléchir car sinon, elle laissera sa minute à quelqu'un d'autre avant qu’il soit trop tard pour appeler.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T19:58:06+02:00",
+      "timestamp": "2026-10-11T23:34:20.741+02:00",
       "channel": "🔴・infos-live",
-      "content": "PAUSE CSA - Retour du live vers 20h40 !",
+      "content": "Coupure son et réunion d'académiciens dans la cuisine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:34:25.652+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558955963023753237/Screenshot_20261011_233331_TF1.jpg?ex=6acd5261&is=6acc00e1&hm=c39d9f9dbc5801cf5e76559bd3a9619023f224b7de49a07a65e3ba814dc16a47&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:34:53.478+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h34 - La coupure son est suivie par un plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:36:18.031+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h36 - Reprise du Live en salle de chant. \nFanny donne des devoirs à Ydriss, Tracy et Zoé.\nLa première tentative est une mini catastrophe",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:38:02.470+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558956871782506537/Screenshot_20261011_233551_TF1.jpg?ex=6acd533a&is=6acc01ba&hm=cd931e205f2dc39ca9c735a386fb77cd1fce94bf1218a9581aec63d844dc3089&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558956872210317342/Screenshot_20261011_233713_TF1.jpg?ex=6acd533a&is=6acc01ba&hm=73f3a286d71c9e71b5c50bb5e81f14ac4d53c86acfbc6b71b2e1c3f6424ca3f4&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:38:19.588+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Les devoirs sont des harmonies sur l’hymne de la saison",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:39:37.381+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h38 - Dans le dressing, Khalil, Brieuc, Melina et Kylian discute des évaluations à venir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:40:21.956+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Dans la cuisine aussi, les évaluations sont un des sujets de discussion du soir ... alors que Isabella nous fait à elle seul un bœuf musical",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:41:01.694+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558957623708090398/Screenshot_20261011_233734_TF1.jpg?ex=6acd53ed&is=6acc026d&hm=353fb8d482ed8813666d008906de2e8614c4327746a4d460e1cbe078600a320d&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558957624119267470/Screenshot_20261011_234026_TF1.jpg?ex=6acd53ed&is=6acc026d&hm=e5cca47e7a6030a60d5f354806286c3ee5f3334d784a2215f326b9b82577e529&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:41:10.835+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h41 - Plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:43:05.089+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h42 - Reprise du Live dans la cuisine. \nDiscussion sur le bienfait des inhalations avec/sans huiles essentielles",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:43:53.284+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Aussi, ils essaient de régler un réveil analogique. Car le réveil du téléphone ne sera pas une option pendant quelques semaines",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:44:51.861+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558958589219971144/Screenshot_20261011_234421_TF1.jpg?ex=6acd54d3&is=6acc0353&hm=871763456943ce9fea7ad34abd8a667964700ea4ff83ce98ca775c62941ba271&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:45:05.304+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h44 - Plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:49:28.247+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h48 - Leeloo a donc finalement utilisé sa minute pour appeler sa maman.\nAu retour des images, celle ci pleur dans les bras de Melina. \nElle est réconfortée par Melina et Elija.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:49:35.829+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558959780242923571/Screenshot_20261011_234728_TF1.jpg?ex=6acd55ef&is=6acc046f&hm=6295a80fe5a2bab90c4db977191955a7b41282afc742c5288764866def67923e&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558959780570206300/Screenshot_20261011_234717_TF1.jpg?ex=6acd55ef&is=6acc046f&hm=414c1932e15b76a046fa98da8481ccb652fe9f75eabe04045e87df666aad0ee7&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:50:45.877+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h49 - Elle se rend dans la cuisine, où les autres elèves sont aussi solidaires pour la réconforter. \nTous sont là pour elle et pour lui redonner le sourire.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:51:27.287+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558960247668744352/Screenshot_20261011_234901_TF1.jpg?ex=6acd565f&is=6acc04df&hm=aff52fd2eece3490764ab7f5c1e73a9a8606a24334899c3216e4a53faa08a2a2&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558960248058810530/Screenshot_20261011_235058_TF1.jpg?ex=6acd565f&is=6acc04df&hm=0645eac9fa8bb8c21b2fb76b04d4654f97e705c1459277909285ffdf84761166&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:51:40.033+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h51 - Plan Escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:51:59.041+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Reprise des images, toujours dans la cuisine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:53:39.726+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Dans la chambres des filles, nous assistons à une chasse aux \"bestioles\" de Khalil avec son aspirateur à main. Elija est là pour le soutenir.... moralement",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:53:44.902+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558960825270538240/Screenshot_20261011_235208_TF1.jpg?ex=6acd56e8&is=6acc0568&hm=486fbd30b788f6d255bd7df6a8d656a290a1ae1ada6dbcd8f47110638ccff134&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:55:01.688+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h53 - Après un petit passage plan château, les images reviennent dans la cuisine. Les élèves présent continuent de discuter du premier prime et du fait qu’il faut être fier de ce qui a été proposé par chacun d’entre eux",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:57:15.597+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558961708805128352/Screenshot_20261011_235607_TF1.jpg?ex=6acd57bb&is=6acc063b&hm=97f8d75651735e674e330d0458e2e1b7fc2cece6f4414f36b33469505dab18c5&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:58:22.814+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h57 - Petite session photo dans le Foyer/Studio pour un petit groupe d'élèves. (Morgan, Kylian, Maud, Melina et Felix)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T23:58:28.974+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558962016033579228/Screenshot_20261011_235619_TF1.jpg?ex=6acd5804&is=6acc0684&hm=56380af97c748377a00e3d309b93be6fc11782b8e9523fc4b8cd8b0b072669be&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558962016633229423/Screenshot_20261011_235641_TF1.jpg?ex=6acd5804&is=6acc0684&hm=40977a45a75db66569ff3448e0bd35de8807a2dfa3ab5e83d887f4ddf7221fd1&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T23:58:43.310+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Nouveau plan château",
       "image_urls": []
     }
   ]
