@@ -1,51 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T13:11:44+02:00",
-  "period_end": "2026-10-11T15:11:44+02:00",
-  "updated_at": "2026-10-11T15:11:44+02:00",
+  "period_start": "2026-10-11T13:20:44+02:00",
+  "period_end": "2026-10-11T15:20:44+02:00",
+  "updated_at": "2026-10-11T15:20:44+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T13:14:17+02:00",
-      "channel": "infos-live",
-      "content": "13h13 - Antoine se détend sur la balançoire, tandis que certains chantent Shallow de Lady Gaga et Bradley Cooper",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:15:04+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558800099428016280/Capture_decran_2026-10-11_a_13.14.33.png?ex=6accc138&is=6acb6fb8&hm=6f7218ad07c7bdd0752b1ae97a3413a870e5694edcf55b98363432e2f06f0f8f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:15:22+02:00",
-      "channel": "infos-live",
-      "content": "13h15 - Isabella à confié qu'elle venait de La Réunion",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:18:37+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558800989589606420/Capture_decran_2026-10-11_a_13.18.05.png?ex=6accc20d&is=6acb708d&hm=d7dc83875d079267e4dcce18b39857914caa6fc864b0a2d5ed515f3415e32ce4&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:20:04+02:00",
-      "channel": "infos-live",
-      "content": "13h18 - Tandis que nos académiciens chantent, on retrouve à la coiffeuse Leeloo et Tracy qui se maquillent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:20:17+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558801409221206037/Capture_decran_2026-10-11_a_13.18.38.png?ex=6accc271&is=6acb70f1&hm=03ac39afa0a9c80107d106eb137b774be4e3f875a7c3f9a375715da6311e5fea&"
-      ]
-    },
     {
       "timestamp": "2026-10-11T13:21:59+02:00",
       "channel": "infos-live",
@@ -386,7 +344,7 @@
     {
       "timestamp": "2026-10-11T15:08:41+02:00",
       "channel": "débrief-prime",
-      "content": "Prestation de : Elija\n\nMarcia Baïla — avec Rita Mitsouko\n\nAvis de Lydia :\n\nLydia dit à Elija qu'elle ne peut pas se voir de l'extérieur, mais que c'est trop bien. Pour Lydia, avoir la chance de porter une artiste, être dans la générosité permet à un élève de kiffer encore plus. Il faut que Elija apprenne à fractionner un peu plus. Il prendre le temps de repartir à zéro.\n\nLydia : ''Un éléphant, ça se mange une bouchée à la fois''.\n\nLydia recommande aux élèves de ne pas faire confiance aux talons. Pour elle, elle recommande des chaussure plate. Puis elle recommande à Elija d'être bizarre, fêlée. Lydia souhaite aux élèves de se trouver soi même, mais également de proposer autre chose de plus ''weird''.\n\nLydia : ''Imaginez que vous êtes une pieuvre, et que les danseurs sont vos tentacules.''\n\nLydia explique qu'il ne faut pas se perdre dans la masse et utiliser toutes les danseurs à côté de soi, et c'est totalement ce qu'à fait Elija. La vérité pour Lydia, les élèves sont 10% sur scène s'ils sont chanceux, alors il faut profiter du processus.\n\nAvis d’Elija :\n\nElija a trouvé son tableau incroyable. Elle a vu le dos, les danseuses et c'est une chanson qu'elle a adoré chanter. Elija explique qu'elle a vraiment envie de proposer des choses décalées en venant faire la Star Academy. Elija aime beaucoup les conseils de Lydia.",
+      "content": "Prestation de : Elija\n\nMarcia Baïla — avec Rita Mitsouko\n\nAvis de Lydia :\n\nLydia dit à Elija qu'elle ne peut pas se voir de l'extérieur, mais que c'est trop bien. Pour Lydia, avoir la chance de porter une artiste, être dans la générosité permet à un élève de kiffer encore plus. Il faut que Elija apprenne à fractionner un peu plus. Et de prendre le temps de repartir à zéro.\n\nLydia : ''Un éléphant, ça se mange une bouchée à la fois''.\n\nLydia recommande aux élèves de ne pas faire confiance aux talons. Pour elle, elle recommande des chaussure plate. Puis elle recommande à Elija d'être bizarre, fêlée. Lydia souhaite aux élèves de se trouver soi même, mais également de proposer autre chose de plus ''weird''.\n\nLydia : ''Imaginez que vous êtes une pieuvre, et que les danseurs sont vos tentacules.''\n\nLydia explique qu'il ne faut pas se perdre dans la masse et utiliser toutes les danseurs à côté de soi, et c'est totalement ce qu'à fait Elija. La vérité pour Lydia, les élèves sont 10% sur scène s'ils sont chanceux, alors il faut profiter du processus.\n\nAvis d’Elija :\n\nElija a trouvé son tableau incroyable. Elle a vu le dos, les danseuses et c'est une chanson qu'elle a adoré chanter. Elija explique qu'elle a vraiment envie de proposer des choses décalées en venant faire la Star Academy. Elija aime beaucoup les conseils de Lydia.",
       "image_urls": []
     },
     {
