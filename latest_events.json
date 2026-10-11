@@ -1,71 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T23:40:05+02:00",
-  "period_end": "2026-10-12T01:40:05+02:00",
-  "updated_at": "2026-10-12T01:40:05+02:00",
+  "period_start": "2026-10-11T23:50:05+02:00",
+  "period_end": "2026-10-12T01:50:05+02:00",
+  "updated_at": "2026-10-12T01:50:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T23:40:21.956+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Dans la cuisine aussi, les évaluations sont un des sujets de discussion du soir ... alors que Isabella nous fait à elle seul un bœuf musical",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:41:01.694+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558957623708090398/Screenshot_20261011_233734_TF1.jpg?ex=6acd53ed&is=6acc026d&hm=353fb8d482ed8813666d008906de2e8614c4327746a4d460e1cbe078600a320d&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558957624119267470/Screenshot_20261011_234026_TF1.jpg?ex=6acd53ed&is=6acc026d&hm=e5cca47e7a6030a60d5f354806286c3ee5f3334d784a2215f326b9b82577e529&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:41:10.835+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h41 - Plan escalier",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:43:05.089+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h42 - Reprise du Live dans la cuisine. \nDiscussion sur le bienfait des inhalations avec/sans huiles essentielles",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:43:53.284+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Aussi, ils essaient de régler un réveil analogique. Car le réveil du téléphone ne sera pas une option pendant quelques semaines",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:44:51.861+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558958589219971144/Screenshot_20261011_234421_TF1.jpg?ex=6acd54d3&is=6acc0353&hm=871763456943ce9fea7ad34abd8a667964700ea4ff83ce98ca775c62941ba271&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:45:05.304+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h44 - Plan château",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:49:28.247+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h48 - Leeloo a donc finalement utilisé sa minute pour appeler sa maman.\nAu retour des images, celle ci pleur dans les bras de Melina. \nElle est réconfortée par Melina et Elija.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:49:35.829+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558959780242923571/Screenshot_20261011_234728_TF1.jpg?ex=6acd55ef&is=6acc046f&hm=6295a80fe5a2bab90c4db977191955a7b41282afc742c5288764866def67923e&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558959780570206300/Screenshot_20261011_234717_TF1.jpg?ex=6acd55ef&is=6acc046f&hm=414c1932e15b76a046fa98da8481ccb652fe9f75eabe04045e87df666aad0ee7&"
-      ]
-    },
     {
       "timestamp": "2026-10-11T23:50:45.877+02:00",
       "channel": "🔴・infos-live",
