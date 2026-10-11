@@ -1,305 +1,500 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T13:40:36+02:00",
-  "period_end": "2026-10-11T15:40:36+02:00",
-  "updated_at": "2026-10-11T15:40:36+02:00",
+  "period_start": "2026-10-11T16:52:33+02:00",
+  "period_end": "2026-10-11T18:52:33+02:00",
+  "updated_at": "2026-10-11T18:52:33+02:00",
   "events": [
     {
-      "timestamp": "2026-10-11T13:44:48+02:00",
-      "channel": "infos-live",
-      "content": "13h44 - Mosimann félicite le coup de coeur (Isabella), et dit à tous qu'hier c'était super. Il les suppli de ne pas être en retard car c'est \"horrible\" dit-il",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:46:07+02:00",
-      "channel": "infos-live",
-      "content": "13h45 - Le rirecteur demande aux académiciens comment ils se sont senti. Maud répond qu'elle s'est sentie dans sa bulle. Elle ne savait pas quoi faire de son corps donc niveau danse, elle a beaucoup de chose à revoir",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:46:45+02:00",
-      "channel": "infos-live",
-      "content": "Mélina se dit qu'il faut qu'ils soient plus conscient car il se passe beaucoup de choses dans sa tête. Elija pareil, elle a en quelque sorte disocié.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:47:02+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558808141309673594/Capture_decran_2026-10-11_a_13.44.50.png?ex=6accc8b6&is=6acb7736&hm=f3144cbf858991fe4c2d554d6a948befa4c865a257957b906170fa8c8ddaf784&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:47:38+02:00",
-      "channel": "infos-live",
-      "content": "13h47 - Leeloo était en hyperventilation malgré les conseils de philippine. Elle a cependant ressenti de la bienveillance, toujours quelqu'un qui est là s'ils ont besoin",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:49:44+02:00",
-      "channel": "infos-live",
-      "content": "13h48 - \"Si vous avez envie de devenir des stars et d'avoir des milions de followers, c'est pas le bon endroit\" dit le directeur. \"C'est des vrais cours avec des vrais profs. Les cours sont vraiment dificiles, vous allez être challengés chaque semaines avec les fameuses évaluations. Aujourd'hui laissez-vous guider.\"",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:50:31+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558809019169378354/Capture_decran_2026-10-11_a_13.50.04.png?ex=6accc987&is=6acb7807&hm=d643abd22da180097a4ebc18a763a50dab748518fa28cce70a00285e4b409bdf&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:51:22+02:00",
-      "channel": "infos-live",
-      "content": "13h50 - Mosimann dit qu'il faut savoir s'entourer et souhaite vraiment leur montrer, car le dire ne suffit pas. \"Je sais qu'avec toute la bienveillance qu'il y a dans ce chateau, qu'il faut qu'on s'apporte tous les uns aux autres\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:52:26+02:00",
-      "channel": "infos-live",
-      "content": "13h51 - Le téléphone sera disponible en ilimité pour joindre Mosimann, même à 2h du mat",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:53:34+02:00",
-      "channel": "infos-live",
-      "content": "13h53 - Le directeur leur propose de découvrir un nouvel endroit... le studio de Mosimann dans l'un des foyers",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:53:45+02:00",
-      "channel": "infos-live",
-      "content": "Tout le monde s'y dirige",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:54:47+02:00",
-      "channel": "infos-live",
-      "content": "suspence...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:55:49+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558810353977008128/Capture_decran_2026-10-11_a_13.55.22.png?ex=6acccac5&is=6acb7945&hm=7a9dfd805d86c987f0810f52120cc1b4d7758bfbff1b5879812612e449f0de45&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:56:41+02:00",
-      "channel": "infos-live",
-      "content": "13h56 - Les académiciens se sont précipités pour prendre une photo avec leur directeur",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:56:50+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558810609154523136/Capture_decran_2026-10-11_a_13.56.14.png?ex=6acccb02&is=6acb7982&hm=190c77746ffcd214463471c5913a02d35ecc9d07e231dcbf321d6705ee1cd61e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:57:32+02:00",
-      "channel": "infos-live",
-      "content": "13h56 - Dans le studio, tout est fonctionnel, peut-être qu'ils vont être amenés à composer de trucs, dit Mosimann. Son bureau est juste derière",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:00:00+02:00",
-      "channel": "infos-live",
-      "content": "13h58 - Mosimann demande s'ils ont des questions, s'ils aiment l'electro; ce à quoi certains ont répondu favorablement",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:00:30+02:00",
-      "channel": "infos-live",
-      "content": "14h00 - Maintenant je passe le flambeau à @nono pour la suite ! A plus !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:00:32+02:00",
-      "channel": "infos-live",
-      "content": "Hellooo, on se retrouve un petit bout de temps.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:01:25+02:00",
-      "channel": "infos-live",
-      "content": "14h00 - Mosimann porusuit en disant aux élèves qu'il est h24 présent, même à 3h du mat, il dort jamais, il se lève très tôt car : \"j'ai une petite fille formidable\". Il connait l'aventure Star Ac, il promet de garder le secret si jamais ils veulent parler de choses confidentiels, il vont se revoir demain, Mosimann conclut en les remerciant pour le café.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:03:00+02:00",
-      "channel": "infos-live",
-      "content": "14h02 - Ils quittent tous le foyer, Mosimann leur dit qu'il a tout le temps son téléphone sur lui.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:03:15+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558812223437279352/IMG_9899.png?ex=6acccc83&is=6acb7b03&hm=d0cf77eea2ebc61919e6be0531fbb9ce74d2c8681ce0daffc1135550e13f3f71&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T14:03:49+02:00",
-      "channel": "infos-live",
-      "content": ":escalier:",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:10:40+02:00",
-      "channel": "infos-live",
-      "content": "Vous appréciez ce début de saison ?",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:20:07+02:00",
-      "channel": "infos-live",
-      "content": "14h19 - Arrivée de Lydia au château pour le premier débrief. \nA suivre : ✍🏻・débrief-prime",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:20:16+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558816507570553022/IMG_9903.png?ex=6accd080&is=6acb7f00&hm=1ef2d1f9c0e80ac8aefe52ed819eac5c9cf227e49d7d0d79147df4f4fc9d303a&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T14:21:37+02:00",
-      "channel": "infos-live",
-      "content": "14h20 - Elle se présente aux académiciens, raconte son parcours, elle était au cirque du soleil, ensuite elle est devenue chorégraphie puis metteur en scène. Lydia espère pouvoir être un guide pour eux. Elle est ouverture à la discussion avec eux et les invite à venir lui parler.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:23:22+02:00",
-      "channel": "infos-live",
-      "content": "La suite dans ✍🏻・débrief-prime merci à l'équipe des @Débriefeur. Un ❤️ pour eux !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T14:27:54+02:00",
+      "timestamp": "2026-10-11T17:06:15+02:00",
       "channel": "débrief-prime",
-      "content": "DÉBRIEF DU DIMANCHE 11 OCTOBRE :\nPrime 1 - Lancement\n\n\nPréambule : Lydia arrive au château et se présente aux élèves . Elle a fais plusieurs chose dans sa vie du ballet, la troupe du cirque du soleil et metteur en scène de spectacle . Elle explique comment va se passer la prise de note  . Elle dit qu'elle sera transparente avec les élèves . Parfois ca pique un peu mais faut prendre du recul. Elle commence par une petite blague en disant qu'elle a une malédiction technologique . Le débrif se fera par ordre des prestations .",
+      "content": "Prestation de : Antoine & Morgan\n\nLe temps — de Tayc\n\nLydia conseille à Antoine de se relâcher et de sortir de sa tête, puis aide Morgan à mieux doser son énergie entre chant et danse. Antoine se dit très déçu par le décalage entre son ressenti et la réalité, tandis que Morgan veut apprendre à mieux équilibrer voix et mouvement.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T14:28:17+02:00",
+      "timestamp": "2026-10-11T17:06:50+02:00",
       "channel": "débrief-prime",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558818520123314206/IMG_8843.png?ex=6accd260&is=6acb80e0&hm=da571f29bec546c253701c565939e69e58e505b667c3ac4a7e34a1409deade52&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558818521360629800/IMG_8842.png?ex=6accd260&is=6acb80e0&hm=b6cd577c349a0da088a706a3d23c1225a5ecfdd4738e023300a864158e852721&"
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858419727892550/Capture_decran_2026-10-11_165201.png?ex=6accf789&is=6acba609&hm=69f9058017cc75365827aa1edf795348f7ea01a92df22565c419c3251a36b464&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858420139069560/Capture_decran_2026-10-11_165256.png?ex=6accf789&is=6acba609&hm=27aa230ea141def3341c9ac1b5082fe8ddb1191d5b73de2faf720b6c72005c69&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858420965089421/Capture_decran_2026-10-11_165304.png?ex=6accf789&is=6acba609&hm=f18c47e406ded68fdac79546ed91a16d1f29388841d600e2b7b99ff637f5d048&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858421774712882/Capture_decran_2026-10-11_165309.png?ex=6accf789&is=6acba609&hm=3ea0f64c8402e4ece75da05ede9ca5e9bb5dd5ad1a7f7546c3be5f02a0520cc7&"
       ]
     },
     {
-      "timestamp": "2026-10-11T14:38:52+02:00",
+      "timestamp": "2026-10-11T17:16:38+02:00",
       "channel": "débrief-prime",
-      "content": "Prestation de : Leeloo \n\nTraining Season — de Dua Lipa\n\n Avis de Lydia :\n\nElle a dit que Leeloo a besoin de sa vue périphérique pour rafraîchir sa présence, surtout à l'arrivée. \nLydia affirme que Leeloo aurait pu monter sa volume. Elle plaisante en disant qu'il faut pas sous-estimé le pouvoir du petit hanche. \n\n Avis de Leeloo :\n\nLeeloo avoue à Lydia que son pire cauchemar c'était d'oublier ses paroles. Lydia dit que c'est totalement normal et qu'il faut penser sur une carrière de 25 ans et pas de 4 mois. Elle insinue que dans leurs carrière futur ils seront confrontés à des problèmes technique ou autre.\n\nAutre annonce complémentaire : \n\nLydia annonce qu'elle va laisser la clé USB. Elle dit qu'elle va faire plusieurs pause pendant qu'ils regardent la TV. Leeloo est la première a pleurer pendant sa prestation, mais Lydia dit qu'il est important qu'elle se regarde et que c'est normal.",
+      "content": "Prestation de : Amel\n\nKilling Me Softly With His Song — des Fugees\n\nLydia a aimé l'introduction et encourage Amel à prendre son temps sur scène, puis à libérer le groove qu'elle possède déjà dans le corps et la voix. Amel craignait de manquer d'énergie en passant la dernière, mais reste contente de sa prestation.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T14:38:55+02:00",
+      "timestamp": "2026-10-11T17:16:53+02:00",
       "channel": "débrief-prime",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558821198237012108/image.png?ex=6accd4df&is=6acb835f&hm=352431ad67c21127afb5f605e61d5b2ab17cbc842edf87d17fac7510a3e8f990&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558821198606114916/image.png?ex=6accd4df&is=6acb835f&hm=7f9fa25eea85ccc952ab158fbe85d153572867720569d839cec33ea84a6d5207&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558821199025405972/image.png?ex=6accd4df&is=6acb835f&hm=e6e69df5841e91e0d3e3ad1a45b7aa424d58f72c13a8509f74b6f192e44b575c&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558821199503433748/image.png?ex=6accd4df&is=6acb835f&hm=001aea35f9993586081c5abb573311bd579b29046af3c4112f5ee0d11e6d05b3&"
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860951753723936/Capture_decran_2026-10-11_170659.png?ex=6accf9e5&is=6acba865&hm=0a9a4a554f7851b743b2b3dafde3f019869db1fb1255c384b0957592f02dd2fb&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860952147857559/Capture_decran_2026-10-11_170704.png?ex=6accf9e5&is=6acba865&hm=5e579e7dd563f035421dd0c798a7c17e297f204dc06197d7939af0c62422dd1e&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860952521416785/Capture_decran_2026-10-11_170929.png?ex=6accf9e5&is=6acba865&hm=cbceadf4bfe86459a58d1077a52bb8242b4441216e3b4fd9e228117268d5061f&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860952911482901/Capture_decran_2026-10-11_171052.png?ex=6accf9e5&is=6acba865&hm=141909192e9836ecd1a073eb619e5e1bc07e6a638407871375690b9007a9f6bb&"
       ]
     },
     {
-      "timestamp": "2026-10-11T14:52:12+02:00",
+      "timestamp": "2026-10-11T17:20:08+02:00",
       "channel": "débrief-prime",
-      "content": "Prestation de : Zoé \n\n S’il suffisait d’aimer — avec Céline Dion\n\n Avis de Lydia :\nLydia conseille à Zoé d'avoir un regard plus bienveillant sur elle, \"pour se protéger le coeur\". Si elle devait refaire sa prestation ce soir, Lydia conseille à Zoé de ne pas se laisser effacer par les le décor, les accessoires, de \"rafraîchir sa présence\". Elle lui conseille également de faire attention au texte, de l'interpréter comme si elle le découvrait à chaque fois pour la première fois.\n\n Avis de Zoé :\nZoé a l'impression d'être en dehors d'elle-même, que celle qu'elle voit à l'écran n'est pas elle.\n(La coupure de José nous a fait rater le début de la réaction de Zoé, espérons qu'il rectifie le tir à l'avenir... :D)\n\nAutre annonce complémentaire :\nDes cours d'analyse de texte seront proposés aux élèves.",
+      "content": "FIN DU DEBRIEF - A LA SEMAINE PROCHAINE",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T14:53:23+02:00",
-      "channel": "débrief-prime",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558824838645157948/Capture_decran_2026-10-11_144340.png?ex=6accd843&is=6acb86c3&hm=a2155b6941f58080b1bc54fc60c59aee838d7a77e020eed66c510ee1839fc135&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558824839156990124/Capture_decran_2026-10-11_144354.png?ex=6accd843&is=6acb86c3&hm=ba6de8f475ea479ce9c1b40267c8fb92619239b0a9d57e982ce8d85b987a6e6f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T14:58:56+02:00",
-      "channel": "débrief-prime",
-      "content": "Prestation de : Félix \n\n Je t’aimais, je t’aime et je t’aimerai — avec Francis Cabrel\n\n Avis de Lydia :\nElle explique qu'entre le rendu et le ressenti il peut y avoir différence. Il a fait une bonne performance. Belle entrée sur la 1ere phrase, beau regard. Il doit traiter la chanson comme une oeuvre, il faut mettre du rythme. L'entrée sert à émettre un 1er jugement. Sur un passage elle lui dit qu'il aurait fallu monter en intensiter. Elle demande à Félix si il pensait à sa \"Blonde\" quand il chantait. Elle lui conseille de pas toujours etre sur le meme rythme de son accompagnement et de jouer plus avec son phrasé. Il doit faire attention à faire parler la guitare, et de ne pas ce cacher derriere\n\n Avis de Félix :\nil est heureux et content de ce qu'il a fait de la chanson. Il est fier de lui. Il pense qu'il peut améliorer sa justesse. Il chante et joue de la guitare depuis 3ans\n\nAutre annonce complémentaire : \nelle va leur faire travailler leur entrée",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826236610879540/image.png?ex=6accd990&is=6acb8810&hm=68cde7710ae564149a3edda1de3b4198fa871097805ab1ae45e8108041643680&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826237038821426/image.png?ex=6accd990&is=6acb8810&hm=5c09ad41a90be8da763ff12ba94a1715f20199f4a001baac24b873d8dc1045a4&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826237777154098/image.png?ex=6accd990&is=6acb8810&hm=11a2b1251a2046e92a8c5ced30d20b20d32ad0c3231e10f707a0ebc0c5b843ff&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826238150451241/image.png?ex=6accd990&is=6acb8810&hm=1edd386156aa007161513d591fd5ca652303bc966b4b375d39e42a74bfbcb60d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T15:08:41+02:00",
-      "channel": "débrief-prime",
-      "content": "Prestation de : Elija\n\nMarcia Baïla — avec Rita Mitsouko\n\nAvis de Lydia :\n\nLydia dit à Elija qu'elle ne peut pas se voir de l'extérieur, mais que c'est trop bien. Pour Lydia, avoir la chance de porter une artiste, être dans la générosité permet à un élève de kiffer encore plus. Il faut que Elija apprenne à fractionner un peu plus. Et de prendre le temps de repartir à zéro.\n\nLydia : ''Un éléphant, ça se mange une bouchée à la fois''.\n\nLydia recommande aux élèves de ne pas faire confiance aux talons. Pour elle, elle recommande des chaussure plate. Puis elle recommande à Elija d'être bizarre, fêlée. Lydia souhaite aux élèves de se trouver soi même, mais également de proposer autre chose de plus ''weird''.\n\nLydia : ''Imaginez que vous êtes une pieuvre, et que les danseurs sont vos tentacules.''\n\nLydia explique qu'il ne faut pas se perdre dans la masse et utiliser toutes les danseurs à côté de soi, et c'est totalement ce qu'à fait Elija. La vérité pour Lydia, les élèves sont 10% sur scène s'ils sont chanceux, alors il faut profiter du processus.\n\nAvis d’Elija :\n\nElija a trouvé son tableau incroyable. Elle a vu le dos, les danseuses et c'est une chanson qu'elle a adoré chanter. Elija explique qu'elle a vraiment envie de proposer des choses décalées en venant faire la Star Academy. Elija aime beaucoup les conseils de Lydia.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T15:09:01+02:00",
-      "channel": "débrief-prime",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558828771702739014/Capture_decran_2026-10-11_145830.png?ex=6accdbec&is=6acb8a6c&hm=1f2896fb143225fc2b21bbef7d25e492b7a7c37eb66cd48b8b3bf6183a380ea4&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558828772042604605/Capture_decran_2026-10-11_145848.png?ex=6accdbec&is=6acb8a6c&hm=d2bba3be8974e5c692b485a451843a20e555ce1d0616f59f0c7b7929b8130f28&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558828772382474262/Capture_decran_2026-10-11_145926.png?ex=6accdbec&is=6acb8a6c&hm=f1a4034db3070a1079125bda0d373efb91943e8f3cf35ca6e8685965e81dab48&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558828772734804038/Capture_decran_2026-10-11_150826.png?ex=6accdbed&is=6acb8a6d&hm=e2112fdcfdef9408dcfd5b3fed9f84be4e8ec104ac4b17e10fdfb89132b1edd6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T15:25:03+02:00",
-      "channel": "débrief-prime",
-      "content": "Prestation de : Ydriss\n\nI Will Always Love You — de Whitney Houston\n\nAvis de Lydia :\n\"C'est tellement fun des performances comme celle ci\". Lydia dit que Sofia va beaucoup s'amuser avec la voix d'Ydriss. Elle lui conseille fortement de s'investir dans les cours de \"LAJDI\" 🤣, pour visiter son corps, trouver ses résonnances. Elle lui déconseille de \"marquer ses notes\".\n\nAvis d’Ydriss :\nAucun stress avant de monter sur scène, à partir du moment où il a commencé à chanter le stress est apparu. Il avait le coeur qui battait vite dit-il.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832809118924861/image.png?ex=6accdfaf&is=6acb8e2f&hm=ebdab698a106613bc3a398a69e92e568230c681730d95ac1826c4c64472f93fc&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832809639157790/image.png?ex=6accdfaf&is=6acb8e2f&hm=0584e40cf9b891fcb5d8e8f61f771e92060fccd9563af233ab7e97ab26abb064&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832810092138577/image.png?ex=6accdfaf&is=6acb8e2f&hm=67ac9b3242e11c0de9bec4a163732839e1b787d6a64cd97582b4d086779c788e&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832810511310848/image.png?ex=6accdfaf&is=6acb8e2f&hm=eb15dac93083c7e5141190489a0b07a01416705b1bafbafbdbb072858322ea73&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T15:28:29+02:00",
-      "channel": "débrief-prime",
-      "content": "5 minutes de pause pour les élèves avant de reprendre le debrief.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T15:28:32+02:00",
+      "timestamp": "2026-10-11T17:20:46+02:00",
       "channel": "infos-live",
-      "content": "15h27 - Lydia propose une petite pause durant le debrief, l’occasion pour les académiciens d’aller boire et manger. Leeloo craque elle n’est pas contente de sa prestation. Les filles et 2 garçons sont là pour elle, ils la rassurent en lui disant que ça se trouve c’est elle la semaine prochaine qui ferra une bête de prestation et eux non. Leeloo parle de honte, elle a peur d’appeler sa mère ce soir.",
+      "content": "17h19 - La prestation préférée de Morgan est Zoé et celle d’Antoine est Elija.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T15:28:38+02:00",
+      "timestamp": "2026-10-11T17:22:14+02:00",
+      "channel": "infos-live",
+      "content": "17h22 - Morgan est déçu de sa prestation en danse.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:22:18+02:00",
       "channel": "infos-live",
       "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558833710449561700/IMG_9907.png?ex=6acce086&is=6acb8f06&hm=b7e5a82130fdb71c70c80031786ebe64ffee67a504ecc3f737f92457bc16132c&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558862317620297909/IMG_6845.png?ex=6accfb2a&is=6acba9aa&hm=ad606b920f758fcea6ccd91110fa294f57d4a604dd73ff1d5d4b47ec66f2d7e5&"
       ]
     },
     {
-      "timestamp": "2026-10-11T15:29:38+02:00",
+      "timestamp": "2026-10-11T17:23:29+02:00",
       "channel": "infos-live",
-      "content": "15h28 - Melina propose d’aller s’isoler avec elle, elle lui dit qu’elle n’a pas vu son oubli de parole, elle avait la pression de passer la première. Isabella vient lui dire la même chose, que les premières personnes à passer c’est encore plus normal qu’elles stressent.",
+      "content": "17h23 - Antoine a la sensation de pouvoir faire mieux.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-11T15:30:06+02:00",
+      "timestamp": "2026-10-11T17:24:36+02:00",
       "channel": "infos-live",
-      "content": "15h29 - Lydia vient les rechercher, le debrief va continuer. La suite dans ✍🏻・débrief-prime !",
+      "content": "17h24 - Vue sur la salle de danse.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:29:13+02:00",
+      "channel": "infos-live",
+      "content": "17h28 - Zoé, Noémie et Kylian regardent leur prestation du prime d’hier.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:31:22+02:00",
+      "channel": "infos-live",
+      "content": "17h30 - Cameron vient d’arriver, il s’est mis derrière eux et mange une pomme.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:32:16+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558864825864691812/IMG_6847.png?ex=6accfd80&is=6acbac00&hm=ac63ce559eaf322221fa6bd2f159505aacf1cf664e40024ab09473b216430584&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T17:33:52+02:00",
+      "channel": "infos-live",
+      "content": "17h33 - Ils regardent la prestation de Zoé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:35:04+02:00",
+      "channel": "infos-live",
+      "content": "17h34 - Ydriss s’est ajouté à eux.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:35:08+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558865546185937036/IMG_6848.png?ex=6accfe2c&is=6acbacac&hm=92fb306c572abecd99cce4dc55b76e18f4f090aad74ec73bcac1cc5a1413176d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T17:36:12+02:00",
+      "channel": "infos-live",
+      "content": "17h35 - On est sur le plan coiffeuse.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:37:38+02:00",
+      "channel": "infos-live",
+      "content": "17h36 - Maud et Amel sont dans la cuisine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:37:51+02:00",
+      "channel": "infos-live",
+      "content": "17h37 - Vue sur les escaliers.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:38:07+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558866297259827241/IMG_6849.png?ex=6accfedf&is=6acbad5f&hm=0a0dcc6603addaf7412873682e6d7efb52481a62482d9440c0e6e3ce86ab09c0&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T17:45:45+02:00",
+      "channel": "infos-live",
+      "content": "17h44 - Maud a grandi à Sérent et elle est allée à la fac à Lorient.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:48:17+02:00",
+      "channel": "infos-live",
+      "content": "17h47 - Isabella fait de la guitare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:50:01+02:00",
+      "channel": "infos-live",
+      "content": "17h49 - Isabella voulait qu’Amel essaye, mais elle a préféré laisser Isabella s’amuser.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:50:49+02:00",
+      "channel": "infos-live",
+      "content": "17h50 - Isabella donne des conseils de guitare à Amel.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:50:53+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558869508696055828/IMG_6850.png?ex=6acd01dd&is=6acbb05d&hm=32c575a391b1ccdc9c6c47a0f0150e25cbd3f3e9f9eafd89171d98e685f676ab&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T17:52:17+02:00",
+      "channel": "infos-live",
+      "content": "17h51 - Amel va chercher le jack.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:53:03+02:00",
+      "channel": "infos-live",
+      "content": "17h52 - Isabella continue de faire de la guitare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:53:07+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558870069616971908/IMG_6851.png?ex=6acd0263&is=6acbb0e3&hm=8ed7ffcceaef266a3dbd574a7032d62da6c9a6c29749523ecf760c32b4ae4d53&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T17:55:14+02:00",
+      "channel": "infos-live",
+      "content": "17h54 - Ils font un trio de guitare : Isabella, Amel et un garçon qu’on ne voit pas.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:55:54+02:00",
+      "channel": "infos-live",
+      "content": "17h55 - Noémie demande pourquoi il y a autant de radis.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:57:51+02:00",
+      "channel": "infos-live",
+      "content": "17h57 - Isabella, Amel et Cameron font de la guitare dans le salon.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T17:57:54+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558871277018554470/IMG_6853.png?ex=6acd0382&is=6acbb202&hm=cc66be8fe1bcb8f6c4cd938c3713c7e83947b1068b2f26395c423765069581e4&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T17:58:48+02:00",
+      "channel": "infos-live",
+      "content": "17h58 - Amel chante en jouant de la guitare, notamment une chanson que l’on ne connaît pas encore.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:00:43+02:00",
+      "channel": "infos-live",
+      "content": "Salut les mélomanes ! Christophe au micro, en direct de Bruxelles 🇧🇪 !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:01:39+02:00",
+      "channel": "infos-live",
+      "content": "18h00 - Nous retrouvons Amel, Isabella et Cameron en train de jouer de la guitare dans le salon.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:03:01+02:00",
+      "channel": "infos-live",
+      "content": "18h01 - Les filles testent différents accords. Amel propose de jouer du Craig David.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:03:54+02:00",
+      "channel": "infos-live",
+      "content": "18h03 - Cameron joue « Englishman in New York » de Sting à la guitare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:05:03+02:00",
+      "channel": "infos-live",
+      "content": "18h04 - On retrouve Ydriss au micro et Brieuc au piano dans le foyer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:05:35+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558873209258901504/image.png?ex=6acd054f&is=6acbb3cf&hm=9cc01ce1dd6637f1adda6361de575364c6a1f5a81e5f5533f3d255c258126c6b&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558873209808363580/image.png?ex=6acd054f&is=6acbb3cf&hm=d4e94d5775c8554018f8f3ce04683e1b0dfc09770dda0bd4d4adaa001df9fb10&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T18:06:33+02:00",
+      "channel": "infos-live",
+      "content": "18h06 - Ils interprètent « Someone Like You » d’Adele.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:07:30+02:00",
+      "channel": "infos-live",
+      "content": "18h07 - Ils espèrent intégrer le top 3 aux évaluations et improvisent une chanson.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:09:19+02:00",
+      "channel": "infos-live",
+      "content": "18h08 - Brieuc interprète « Aimée pour de vrai » d’Helena.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:10:20+02:00",
+      "channel": "infos-live",
+      "content": "18h09 - Sans transition, Elija nous interprète « Concerto pour un aspirateur » dans le couloir.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:11:38+02:00",
+      "channel": "infos-live",
+      "content": "18h10 - Ça part en medley dans le salon !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:12:22+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558874915422076959/image.png?ex=6acd06e6&is=6acbb566&hm=fb8d65c1e8f56872d41d5e2dd953d1d446d78b4d742133340ee011735dad3569&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T18:13:55+02:00",
+      "channel": "infos-live",
+      "content": "18h12 - On entend de la musique qui vient d’un peu partout.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:15:40+02:00",
+      "channel": "infos-live",
+      "content": "18h14 - Kylian et Noémie discutent dans le jardin, devant le château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:18:39+02:00",
+      "channel": "infos-live",
+      "content": "18h18 - Cinq élèves écoutent l’hymne au théâtre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:20:33+02:00",
+      "channel": "infos-live",
+      "content": "18h19 - Les élèves semblent se préparer à quelque chose…",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:20:45+02:00",
+      "channel": "infos-live",
+      "content": "🎲 QUIZ : Pensez-vous qu’ils vont répéter l’hymne ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:23:02+02:00",
+      "channel": "infos-live",
+      "content": "18h21 - L’hymne retentit partout : la répétition semble se confirmer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:24:19+02:00",
+      "channel": "infos-live",
+      "content": "18h23 - Ydriss et Kylian dansent sur la scène du théâtre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:24:59+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558878091990933615/image.png?ex=6acd09db&is=6acbb85b&hm=ea38550d1fb91c7515f366d48ab74a58e6253a8f07e70dc07afd9570bbb82bbd&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T18:26:19+02:00",
+      "channel": "infos-live",
+      "content": "18h25 - Rejoints par Brieuc et Zoé, ils dansent sur « Animal » de KATSEYE.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:28:04+02:00",
+      "channel": "infos-live",
+      "content": "18h26 - « Dai Dai » de Shakira prend le relais, puis Maître Gims l’interrompt.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:29:26+02:00",
+      "channel": "infos-live",
+      "content": "18h28 - « J’me demande » d’Ambre prend ensuite le relais.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:30:31+02:00",
+      "channel": "infos-live",
+      "content": "Toujours pas de répétition de l’hymne, super…",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:32:05+02:00",
+      "channel": "infos-live",
+      "content": "18h30 - Ydriss chante « Entrer dans la lumière » de Patricia Kaas sur la scène du théâtre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:33:09+02:00",
+      "channel": "infos-live",
+      "content": "18h32 - Des élèves apparaissent dans le plan château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:38:15+02:00",
+      "channel": "infos-live",
+      "content": "18h37 - Deux élèves discutent dans les sièges du jardin.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:39:19+02:00",
+      "channel": "infos-live",
+      "content": "18h38 - Les élèves semblent se diriger vers la salle de danse.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:39:33+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558881755828719616/image.png?ex=6acd0d45&is=6acbbbc5&hm=3e51d84a7dad18f5afa7f125eceb78e786cb80725e161c8dfae1d68eb527d1c9&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T18:41:14+02:00",
+      "channel": "infos-live",
+      "content": "18h40 - Les élèves semblent s’éloigner de la salle de danse.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:42:02+02:00",
+      "channel": "infos-live",
+      "content": "18h41 - Les élèves semblent se diriger vers la salle de chant.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:42:31+02:00",
+      "channel": "infos-live",
+      "content": "Décidez-vous s’il vous plaît, je n’ai pas toute la soirée.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:43:03+02:00",
+      "channel": "infos-live",
+      "content": "Sorry pour la personne que j’ai coupée.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558882637706428559/image.png?ex=6acd0e17&is=6acbbc97&hm=c56c53d523b9e0f9b9968e52b91846e88bac1a520b1c01cb12d341efd0878866&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T18:44:03+02:00",
+      "channel": "infos-live",
+      "content": "18h43 - Retenez bien cette heure, c’est celle de la première répétition de l’hymne !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:44:29+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558882996776476852/image.png?ex=6acd0e6d&is=6acbbced&hm=5287a6db2698cd420776168954ea26e0b599906ab59f5fa30fe5a4dc979be166&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T18:44:45+02:00",
+      "channel": "infos-live",
+      "content": "Avec Philippine et Fanny !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:45:37+02:00",
+      "channel": "infos-live",
+      "content": "18h44 - L’hymne ouvrira le prochain prime et les élèves apprendront la chorégraphie demain avec John.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:46:29+02:00",
+      "channel": "infos-live",
+      "content": "18h46 - C’est parti pour la première écoute !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:47:07+02:00",
+      "channel": "infos-live",
+      "content": "18h47 - Céline a coupé Fanny. Pas gentil.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:48:07+02:00",
+      "channel": "infos-live",
+      "content": "18h48 - Nous écoutons enfin « Dans un autre monde » de Céline Dion.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:49:16+02:00",
+      "channel": "infos-live",
+      "content": "18h49 - Les élèves se dandinent en écoutant Céline Dion.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:50:17+02:00",
+      "channel": "infos-live",
+      "content": "🎲 QUIZ : Vous aimez l’hymne de cette année ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:51:24+02:00",
+      "channel": "infos-live",
+      "content": "💡 « Dans un autre monde » de Céline Dion est sortie en 1998. Signée Jean-Jacques Goldman, elle a 28 ans.",
       "image_urls": []
     }
   ]
