@@ -1,73 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T23:10:05+02:00",
-  "period_end": "2026-10-12T01:10:05+02:00",
-  "updated_at": "2026-10-12T01:10:05+02:00",
+  "period_start": "2026-10-11T23:20:05+02:00",
+  "period_end": "2026-10-12T01:20:05+02:00",
+  "updated_at": "2026-10-12T01:20:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T23:11:21.932+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h11 - C'est un bingo pour Antoine, il s'agit de Khalil au micro.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558950159256264785/image.png?ex=6acd4cf9&is=6acbfb79&hm=16ff0dda7ec5710c4d64037870d084aeec4924b2d376c55a5831677f8c2827d5&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:12:58.643+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h12 - Amel dit à Khalil que ce registre lui va bien.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558950564879011880/image.png?ex=6acd4d5a&is=6acbfbda&hm=20f566cab94e16cfd934ccc17222341f6e9248868b463da1b5d94639bf26a98d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:13:26.879+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h13 - Félix chante et Khalil essaye de reproduire, il a peur de se casser la voix.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:13:54.156+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h13 - Félix pensait chanter Another Love au prime.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:14:21.322+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h14 - un dernier plan CHATO pour ma session",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:15:10.633+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h14 - Brieuc dit savoir jouer J'ai attrapé un coup de soleil au piano. Il dit être nul au piano. Amel dit \"être guez\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:15:39.855+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h15 - Brieuc, Khalil et Amel parle des évaluations. Ils ne savent pas si ça va être des musiques imposées ou non.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:16:14.724+02:00",
-      "channel": "🔴・infos-live",
-      "content": "C'est sur ces douces notes de piano que je cède ma place à notre cher @Kevin D . Belle soirée les amis",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:19:18.399+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h18 - Pour ma première session live de cette saison, nous sommes autour du piano en train de chanter du Adèle",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:19:53.817+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Vais avoir le privilège d'inaugurer la première rompish academy de cette saison ?? Telle est la question du soir",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T23:21:22.245+02:00",
       "channel": "🔴・infos-live",
@@ -588,6 +524,28 @@
       "timestamp": "2026-10-12T01:06:58.403+02:00",
       "channel": "🔴・infos-live",
       "content": "01h06 Ah, plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:11:56.179+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h11 -",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558980501845446766/image.png?ex=6acd693c&is=6acc17bc&hm=7c27a9566d3bf83255e40ccd0cdec03a8281df736e53fe4fd8dd34cc9d0d89e9&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T01:16:43.725+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h15 - En direct de la Chambre des filles avec Tracy, Noémie ? à côté à réviser les paroles de l'hymne",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558981708135530567/image.png?ex=6acd6a5b&is=6acc18db&hm=e0eef0efbfd0002bac2b736b5dc0527d2df9e160aa358729318a1762f1125610&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T01:17:59.971+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Une voix off prévient qu'elle va éteindre la cuisine !",
       "image_urls": []
     }
   ]
