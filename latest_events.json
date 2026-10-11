@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T11:39:24+02:00",
-  "period_end": "2026-10-11T13:39:24+02:00",
-  "updated_at": "2026-10-11T13:39:24+02:00",
+  "period_start": "2026-10-11T11:42:04+02:00",
+  "period_end": "2026-10-11T13:42:04+02:00",
+  "updated_at": "2026-10-11T13:42:04+02:00",
   "events": [
     {
       "timestamp": "2026-10-11T11:45:07+02:00",
       "channel": "infos-live",
-      "content": "11h44- on aperçoit une des filles traversé dans le jardin",
+      "content": "11h44- on aper�oit une des filles travers� dans le jardin",
       "image_urls": []
     },
     {
@@ -19,19 +19,19 @@
     {
       "timestamp": "2026-10-11T11:51:53+02:00",
       "channel": "infos-live",
-      "content": "11h51 - cette fois un garçon fait des aller/retour et retourne au chateau",
+      "content": "11h51 - cette fois un gar�on fait des aller/retour et retourne au chateau",
       "image_urls": []
     },
     {
       "timestamp": "2026-10-11T11:52:05+02:00",
       "channel": "infos-live",
-      "content": "désolé je ne les reconnais pas encore de loin",
+      "content": "d�sol� je ne les reconnais pas encore de loin",
       "image_urls": []
     },
     {
       "timestamp": "2026-10-11T11:53:50+02:00",
       "channel": "infos-live",
-      "content": "nouveau plan débloqué",
+      "content": "nouveau plan d�bloqu�",
       "image_urls": []
     },
     {
@@ -45,7 +45,7 @@
     {
       "timestamp": "2026-10-11T11:55:47+02:00",
       "channel": "infos-live",
-      "content": "11h54 - on retrouve Cameron au piano il dit qu'il n'ai pas pianiste mais guitariste. Il laisse sa place à Melina. Ils disent que c'est cool de pouvoir s'accompagner sur n'importe qu'elle musique",
+      "content": "11h54 - on retrouve Cameron au piano il dit qu'il n'ai pas pianiste mais guitariste. Il laisse sa place � Melina. Ils disent que c'est cool de pouvoir s'accompagner sur n'importe qu'elle musique",
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500850385567617196/1558780145844621422/image.png?ex=6accaea3&is=6acb5d23&hm=a3b9b8c05bf8a2e66b0cdbe5b61d616452d7d7fe6b98c6f3a90e1b54c85f697f&",
         "https://cdn.discordapp.com/attachments/1500850385567617196/1558780146335486072/image.png?ex=6accaea3&is=6acb5d23&hm=970cd582c2f542a0e28eaa5f1612f740f4ee06154e85b5d1a07610ead98c2ff1&"
@@ -54,13 +54,13 @@
     {
       "timestamp": "2026-10-11T11:56:23+02:00",
       "channel": "infos-live",
-      "content": "11h55 - Cameron c'est installé sur la balancoire pendant que Melina joue la lettre à elise de Beethoven",
+      "content": "11h55 - Cameron c'est install� sur la balancoire pendant que Melina joue la lettre � elise de Beethoven",
       "image_urls": []
     },
     {
       "timestamp": "2026-10-11T11:58:03+02:00",
       "channel": "infos-live",
-      "content": "11h57 - ils sont rejoint par Morgan. Melina cherche un morceau à jouer",
+      "content": "11h57 - ils sont rejoint par Morgan. Melina cherche un morceau � jouer",
       "image_urls": []
     },
     {
@@ -80,7 +80,7 @@
     {
       "timestamp": "2026-10-11T12:00:02+02:00",
       "channel": "infos-live",
-      "content": "11h59 - Maud s'installe au piano, Melina à la guitare, Morgan et Cameron pour la voix de Bradley Cooper sur Shallow",
+      "content": "11h59 - Maud s'installe au piano, Melina � la guitare, Morgan et Cameron pour la voix de Bradley Cooper sur Shallow",
       "image_urls": []
     },
     {
@@ -104,7 +104,7 @@
     {
       "timestamp": "2026-10-11T13:08:56+02:00",
       "channel": "infos-live",
-      "content": "(hello tout le monde ohlala ça y est la Starac a repris, ça fait trop bizarre ! Bonne saison à tous.tes)",
+      "content": "(hello tout le monde ohlala �a y est la Starac a repris, �a fait trop bizarre ! Bonne saison � tous.tes)",
       "image_urls": []
     },
     {
@@ -122,7 +122,7 @@
     {
       "timestamp": "2026-10-11T13:14:17+02:00",
       "channel": "infos-live",
-      "content": "13h13 - Antoine se détend sur la balançoire, tandis que certains chantent Shallow de Lady Gaga et Bradley Cooper",
+      "content": "13h13 - Antoine se d�tend sur la balan�oire, tandis que certains chantent Shallow de Lady Gaga et Bradley Cooper",
       "image_urls": []
     },
     {
@@ -136,7 +136,7 @@
     {
       "timestamp": "2026-10-11T13:15:22+02:00",
       "channel": "infos-live",
-      "content": "13h15 - Isabella à confié qu'elle venait de La Réunion",
+      "content": "13h15 - Isabella � confi� qu'elle venait de La R�union",
       "image_urls": []
     },
     {
@@ -150,7 +150,7 @@
     {
       "timestamp": "2026-10-11T13:20:04+02:00",
       "channel": "infos-live",
-      "content": "13h18 - Tandis que nos académiciens chantent, on retrouve à la coiffeuse Leeloo et Tracy qui se maquillent",
+      "content": "13h18 - Tandis que nos acad�miciens chantent, on retrouve � la coiffeuse Leeloo et Tracy qui se maquillent",
       "image_urls": []
     },
     {
@@ -164,7 +164,7 @@
     {
       "timestamp": "2026-10-11T13:21:59+02:00",
       "channel": "infos-live",
-      "content": "13h21 - Dans le salon sur le canapé, Elija, Amel et Brieuc discutent de leurs gouts musicaux. Elija dit qu'elle aime la techno, le hard metal et le rock",
+      "content": "13h21 - Dans le salon sur le canap�, Elija, Amel et Brieuc discutent de leurs gouts musicaux. Elija dit qu'elle aime la techno, le hard metal et le rock",
       "image_urls": []
     },
     {
@@ -178,7 +178,7 @@
     {
       "timestamp": "2026-10-11T13:24:17+02:00",
       "channel": "infos-live",
-      "content": "13h23 - Petit plan escalier vu du plafond de la part de José, qui est encore et toujours là",
+      "content": "13h23 - Petit plan escalier vu du plafond de la part de Jos�, qui est encore et toujours l�",
       "image_urls": []
     },
     {
@@ -190,7 +190,7 @@
     {
       "timestamp": "2026-10-11T13:30:26+02:00",
       "channel": "infos-live",
-      "content": "13h29 - Kylian et Felix chantent Halleluja. Ce dernier dit qu'il n'a aucun ami dans la musique. Kylian ajoute que lui non plus et que c'est trop cool de faire ça avec eux.",
+      "content": "13h29 - Kylian et Felix chantent Halleluja. Ce dernier dit qu'il n'a aucun ami dans la musique. Kylian ajoute que lui non plus et que c'est trop cool de faire �a avec eux.",
       "image_urls": []
     },
     {
@@ -204,13 +204,13 @@
     {
       "timestamp": "2026-10-11T13:31:47+02:00",
       "channel": "infos-live",
-      "content": "13h31 - Melina emprunte la guitare d'Isabella et les rejoint, suivie de Zoé",
+      "content": "13h31 - Melina emprunte la guitare d'Isabella et les rejoint, suivie de Zo�",
       "image_urls": []
     },
     {
       "timestamp": "2026-10-11T13:35:29+02:00",
       "channel": "infos-live",
-      "content": "*13h35 - petite coupure plan à la coiffeuse",
+      "content": "*13h35 - petite coupure plan � la coiffeuse",
       "image_urls": []
     },
     {
@@ -237,13 +237,13 @@
     {
       "timestamp": "2026-10-11T13:38:05+02:00",
       "channel": "infos-live",
-      "content": "13h37 - Mosimann dit que le château n'a pas changé.",
+      "content": "13h37 - Mosimann dit que le ch�teau n'a pas chang�.",
       "image_urls": []
     },
     {
       "timestamp": "2026-10-11T13:38:42+02:00",
       "channel": "infos-live",
-      "content": "13h38 - Monsieur le directeur annonce aux élèves qu'il a changé une règle: immunité ce matin pour le premier qui lui ramène un café (😉)",
+      "content": "13h38 - Monsieur le directeur annonce aux �l�ves qu'il a chang� une r�gle: immunit� ce matin pour le premier qui lui ram�ne un caf� (??)",
       "image_urls": []
     },
     {
@@ -262,3 +262,4 @@
     }
   ]
 }
+
