@@ -1,81 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T22:40:05+02:00",
-  "period_end": "2026-10-12T00:40:05+02:00",
-  "updated_at": "2026-10-12T00:40:05+02:00",
+  "period_start": "2026-10-11T22:50:05+02:00",
+  "period_end": "2026-10-12T00:50:05+02:00",
+  "updated_at": "2026-10-12T00:50:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T22:40:19.286+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h39 - Antoine et Félix sont dans le salon. Antoine à la guitare chante la musique qu'il a chanté au prime : Le temps de TAYC.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:41:00.458+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h40 - Le retour des escaliers ...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:42:52.252+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h42 - Certains sont présents dans la cuisine. Khalil en train de faire la vaisselle chante La Bohème de *Charles Aznavour**.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558942988309372998/image.png?ex=6acd464c&is=6acbf4cc&hm=68cd2944729e13a6d63c920727746195d25da4e4d02d63ac8973b2298557ee3e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:43:56.159+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h43 - Zoé s'installe pour manger. Elle dit qu'elle est fatiguée.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:44:24.225+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h44 - Un des garçons part en répétitions.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:45:38.701+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h44 - Zoé dit \"ça se trouve ça ne sera pas bon\", elle dit avoir eu l'impression de passer deux heures à cuisiner.\nTracy s'installe à table également pour manger, elle demande aux autres si ils ont passé un coup de téléphone. Elle leur demande comment ça s'est passé.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:46:59.300+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h46 - Khalil parle de son coup de téléphone. Son ami dit avoir regarder le live.\nTracy demande à Noémie qui elle a appelé. Elle a donc appelé sa maman et sa soeur.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558944024541536327/image.png?ex=6acd4743&is=6acbf5c3&hm=8a87001e98db1d0cfcfd21b58ebcddf50a4dd63dea905a8e05e609d88ab20edf&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:47:30.858+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h47 - Zoé à appelé sa maman. Elle l'a rassuré en lui disant que tout le monde était gentil. Elle lui a dit avoir adoré le prime.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:48:02.414+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h47 - Zoé parle de ses origines, son grand-père serait italien. Zoé n'aurait jamais appris l'italien.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558944289336201377/image.png?ex=6acd4782&is=6acbf602&hm=d7cdcc4c201ac138ed12f843ddec692b31072fe1621121a61156dccb2f378651&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:48:55.644+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h48 - Isabella a appelé son frère, elle lui a raccrochée au nez car elle ne s'était pas rendu compte du temps.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:49:35.838+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h49 - Isabella parle de sa famille, qu'elle n'est pas démonstratif avec eux. Ils ne se disent pas je t'aime mais ils le savent.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T22:50:45.299+02:00",
       "channel": "🔴・infos-live",
@@ -739,6 +667,44 @@
       "timestamp": "2026-10-12T00:39:50.463+02:00",
       "channel": "🔴・infos-live",
       "content": "00h39 Plan château de Nuit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:42:30.078+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h41 On se retrouve dans la chambre des filles avec Maud, Amel, Tracy et Leeloo caché, en séance de stretching !",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558973094322896966/image.png?ex=6acd6256&is=6acc10d6&hm=537c3ad7146e3a2e7d69c4ceee71bb6cb4d449810f5452eead13ccad92b8a590&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:43:45.002+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Quelques douleurs ce font voir, alors qui a pas encore eu de séance de sport, courage !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:44:12.163+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h43 Retour plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:45:36.732+02:00",
+      "channel": "🔴・infos-live",
+      "content": " Le célèbre château des Vives-Eaux, qui accueille les élèves de la Star Academy, a été construit entre 1760 et 1780, au XVIIIᵉ siècle.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:47:08.815+02:00",
+      "channel": "🔴・infos-live",
+      "content": "*le château a été victime d'un incendie en 1848, une reconstruction en 1911 qui donne naissance au bâtiment actuel.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:48:46.982+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h48 Toujours le plan château.",
       "image_urls": []
     }
   ]
