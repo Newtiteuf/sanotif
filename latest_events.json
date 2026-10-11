@@ -1,21 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T11:42:04+02:00",
-  "period_end": "2026-10-11T13:42:04+02:00",
-  "updated_at": "2026-10-11T13:42:04+02:00",
+  "period_start": "2026-10-11T11:51:23+02:00",
+  "period_end": "2026-10-11T13:51:23+02:00",
+  "updated_at": "2026-10-11T13:51:23+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T11:45:07+02:00",
-      "channel": "infos-live",
-      "content": "11h44- on aperçoit une des filles traversé dans le jardin",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T11:50:46+02:00",
-      "channel": "infos-live",
-      "content": ":escalier:",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T11:51:53+02:00",
       "channel": "infos-live",
@@ -259,6 +247,58 @@
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500850385567617196/1558806220436148294/Capture_decran_2026-10-11_a_13.39.01.png?ex=6accc6ec&is=6acb756c&hm=997964cb4fc68e88c9994b15c056a0a6443b1ce8f906f13695652b34a6d14e87&"
       ]
+    },
+    {
+      "timestamp": "2026-10-11T13:44:48+02:00",
+      "channel": "infos-live",
+      "content": "13h44 - Mosimann félicite le coup de coeur (Isabella), et dit à tous qu'hier c'était super. Il les suppli de ne pas être en retard car c'est \"horrible\" dit-il",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:46:07+02:00",
+      "channel": "infos-live",
+      "content": "13h45 - Le rirecteur demande aux académiciens comment ils se sont senti. Maud répond qu'elle s'est sentie dans sa bulle. Elle ne savait pas quoi faire de son corps donc niveau danse, elle a beaucoup de chose à revoir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:46:45+02:00",
+      "channel": "infos-live",
+      "content": "Mélina se dit qu'il faut qu'ils soient plus conscient car il se passe beaucoup de choses dans sa tête. Elija pareil, elle a en quelque sorte disocié.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:47:02+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558808141309673594/Capture_decran_2026-10-11_a_13.44.50.png?ex=6accc8b6&is=6acb7736&hm=f3144cbf858991fe4c2d554d6a948befa4c865a257957b906170fa8c8ddaf784&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:47:38+02:00",
+      "channel": "infos-live",
+      "content": "13h47 - Leeloo était en hyperventilation malgré les conseils de philippine. Elle a cependant ressenti de la bienveillance, toujours quelqu'un qui est là s'ils ont besoin",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:49:44+02:00",
+      "channel": "infos-live",
+      "content": "13h48 - \"Si vous avez envie de devenir des stars et d'avoir des milions de followers, c'est pas le bon endroit\" dit le directeur. \"C'est des vrais cours avec des vrais profs. Les cours sont vraiment dificiles, vous allez être challengés chaque semaines avec les fameuses évaluations. Aujourd'hui laissez-vous guider.\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:50:31+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558809019169378354/Capture_decran_2026-10-11_a_13.50.04.png?ex=6accc987&is=6acb7807&hm=d643abd22da180097a4ebc18a763a50dab748518fa28cce70a00285e4b409bdf&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:51:22+02:00",
+      "channel": "infos-live",
+      "content": "13h50 - Mosimann dit qu'il faut savoir s'entourer et souhaite vraiment leur montrer, car le dire ne suffit pas. \"Je sais qu'avec toute la bienveillance qu'il y a dans ce chateau, qu'il faut qu'on s'apporte tous les uns aux autres\".",
+      "image_urls": []
     }
   ]
 }
