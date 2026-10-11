@@ -1,66 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T18:00:04+02:00",
-  "period_end": "2026-10-11T20:00:04+02:00",
-  "updated_at": "2026-10-11T20:00:04+02:00",
+  "period_start": "2026-10-11T18:10:04+02:00",
+  "period_end": "2026-10-11T20:10:04+02:00",
+  "updated_at": "2026-10-11T20:10:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T18:00:43+02:00",
-      "channel": "infos-live",
-      "content": "Salut les mélomanes ! Christophe au micro, en direct de Bruxelles 🇧🇪 !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:01:39+02:00",
-      "channel": "infos-live",
-      "content": "18h00 - Nous retrouvons Amel, Isabella et Cameron en train de jouer de la guitare dans le salon.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:03:01+02:00",
-      "channel": "infos-live",
-      "content": "18h01 - Les filles testent différents accords. Amel propose de jouer du Craig David.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:03:54+02:00",
-      "channel": "infos-live",
-      "content": "18h03 - Cameron joue « Englishman in New York » de Sting à la guitare.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:05:03+02:00",
-      "channel": "infos-live",
-      "content": "18h04 - On retrouve Ydriss au micro et Brieuc au piano dans le foyer.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:05:35+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558873209258901504/image.png?ex=6acd054f&is=6acbb3cf&hm=9cc01ce1dd6637f1adda6361de575364c6a1f5a81e5f5533f3d255c258126c6b&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558873209808363580/image.png?ex=6acd054f&is=6acbb3cf&hm=d4e94d5775c8554018f8f3ce04683e1b0dfc09770dda0bd4d4adaa001df9fb10&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T18:06:33+02:00",
-      "channel": "infos-live",
-      "content": "18h06 - Ils interprètent « Someone Like You » d’Adele.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:07:30+02:00",
-      "channel": "infos-live",
-      "content": "18h07 - Ils espèrent intégrer le top 3 aux évaluations et improvisent une chanson.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:09:19+02:00",
-      "channel": "infos-live",
-      "content": "18h08 - Brieuc interprète « Aimée pour de vrai » d’Helena.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T18:10:20+02:00",
       "channel": "infos-live",
