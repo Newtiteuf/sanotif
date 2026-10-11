@@ -1,27 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T12:00:01+02:00",
-  "period_end": "2026-10-11T14:00:01+02:00",
-  "updated_at": "2026-10-11T14:00:01+02:00",
+  "period_start": "2026-10-11T12:10:04+02:00",
+  "period_end": "2026-10-11T14:10:04+02:00",
+  "updated_at": "2026-10-11T14:10:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T12:00:02+02:00",
-      "channel": "infos-live",
-      "content": "11h59 - Maud s'installe au piano, Melina à la guitare, Morgan et Cameron pour la voix de Bradley Cooper sur Shallow",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T12:00:10+02:00",
-      "channel": "infos-live",
-      "content": ":escalier:",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T12:01:13+02:00",
-      "channel": "infos-live",
-      "content": "12h00 - C'est l'heure de la pause ARCOM on se retrouve dans 1h",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T13:08:30+02:00",
       "channel": "infos-live",
@@ -295,6 +277,44 @@
       "timestamp": "2026-10-11T14:00:00+02:00",
       "channel": "infos-live",
       "content": "13h58 - Mosimann demande s'ils ont des questions, s'ils aiment l'electro; ce à quoi certains ont répondu favorablement",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:00:30+02:00",
+      "channel": "infos-live",
+      "content": "14h00 - Maintenant je passe le flambeau à @nono pour la suite ! A plus !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:00:32+02:00",
+      "channel": "infos-live",
+      "content": "Hellooo, on se retrouve un petit bout de temps.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:01:25+02:00",
+      "channel": "infos-live",
+      "content": "14h00 - Mosimann porusuit en disant aux élèves qu'il est h24 présent, même à 3h du mat, il dort jamais, il se lève très tôt car : \"j'ai une petite fille formidable\". Il connait l'aventure Star Ac, il promet de garder le secret si jamais ils veulent parler de choses confidentiels, il vont se revoir demain, Mosimann conclut en les remerciant pour le café.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:03:00+02:00",
+      "channel": "infos-live",
+      "content": "14h02 - Ils quittent tous le foyer, Mosimann leur dit qu'il a tout le temps son téléphone sur lui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:03:15+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558812223437279352/IMG_9899.png?ex=6acccc83&is=6acb7b03&hm=d0cf77eea2ebc61919e6be0531fbb9ce74d2c8681ce0daffc1135550e13f3f71&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T14:03:49+02:00",
+      "channel": "infos-live",
+      "content": ":escalier:",
       "image_urls": []
     }
   ]
