@@ -1,65 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T22:50:05+02:00",
-  "period_end": "2026-10-12T00:50:05+02:00",
-  "updated_at": "2026-10-12T00:50:05+02:00",
+  "period_start": "2026-10-11T23:00:05+02:00",
+  "period_end": "2026-10-12T01:00:05+02:00",
+  "updated_at": "2026-10-12T01:00:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T22:50:45.299+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h50 - CHATO",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:52:05.047+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h51 - Retour dans la cusine, les élèves parlent du décalage horaire qu'on la famille d'Ydriss. Il y a 6h de décalage.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:54:01.940+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h53 - Tracy demande à Isabella si elle a hâte des cours avec Ladji. Elle lui demande c'est quoi ses cours. Elle à l'air surprise de savoir qu'il y a des cours de sport.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:54:23.522+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h54 - CHATO",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:56:43.345+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h55 - De retour, Cameron arrive en douceur dans la cuisine. Kylian lui demande si il veut des oeufs. Il lui répond qu'il va juste prendre des",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:56:52.998+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558946514695618600/image.png?ex=6acd4994&is=6acbf814&hm=8c4c99afa1edaf2e0aaa906ef5ce5facbd32af2d8421840821b75d659a40d2cc&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:58:13.921+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h57 - Les élèves parlent de la \"surprise\" écrit sur le planning. Ils espèrent aller au concert de Céline Dion. Ils aimeraient qu'elle vienne au château.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:58:40.264+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h58 - Brieuc demande c'est quand les dates de son concert",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:59:25.774+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h59 - Certains élèves pensent être invités à la plénitude arena pour voir le concert, d'autres émettent l'idée d'aller sur scène avec Céline pour chanter l'hymne.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T23:00:49.177+02:00",
       "channel": "🔴・infos-live",
@@ -706,6 +650,14 @@
       "channel": "🔴・infos-live",
       "content": "00h48 Toujours le plan château.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:53:00.311+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h52",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558975737317433344/image.png?ex=6acd64cc&is=6acc134c&hm=0e2e91debc0c731545ee1fde1e597719b617932583b2d5ae40a2d4f43c54affa&"
+      ]
     }
   ]
 }
