@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T12:22:37+02:00",
-  "period_end": "2026-10-11T14:22:37+02:00",
-  "updated_at": "2026-10-11T14:22:37+02:00",
+  "period_start": "2026-10-11T12:30:44+02:00",
+  "period_end": "2026-10-11T14:30:44+02:00",
+  "updated_at": "2026-10-11T14:30:44+02:00",
   "events": [
     {
       "timestamp": "2026-10-11T13:08:30+02:00",
@@ -340,8 +340,29 @@
     {
       "timestamp": "2026-10-11T14:21:37+02:00",
       "channel": "infos-live",
-      "content": "14h20 - Elle se présente aux académiciens, raconte son parcours, elle était au cirque du soleil, ensuite elle est devenue chorégraphie puis metteur en scène. Lydia espère pouvoir être un guide pour eux.",
+      "content": "14h20 - Elle se présente aux académiciens, raconte son parcours, elle était au cirque du soleil, ensuite elle est devenue chorégraphie puis metteur en scène. Lydia espère pouvoir être un guide pour eux. Elle est ouverture à la discussion avec eux et les invite à venir lui parler.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:23:22+02:00",
+      "channel": "infos-live",
+      "content": "La suite dans ✍🏻・débrief-prime merci à l'équipe des @Débriefeur. Un ❤️ pour eux !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:27:54+02:00",
+      "channel": "débrief-prime",
+      "content": "DÉBRIEF DU DIMANCHE 11 OCTOBRE :\nPrime 1 - Lancement\n\n\nPréambule : Lydia arrive au château et se présente aux élèves . Elle a fais plusieurs chose du ballet la troupe du cirque du soleil et metteur en scène de spectacle . Elle explique comment va se passer la prise de note  . Elle dit qu'elle sera transparente avec les élèves . Parfois ca pique un peu mais faut prendre du recul. Elle commence par une petite blague en disant qu'elle a une malédiction technologique . Le débrif se fera par ordre des prestations .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:28:17+02:00",
+      "channel": "débrief-prime",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558818520123314206/IMG_8843.png?ex=6accd260&is=6acb80e0&hm=da571f29bec546c253701c565939e69e58e505b667c3ac4a7e34a1409deade52&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558818521360629800/IMG_8842.png?ex=6accd260&is=6acb80e0&hm=b6cd577c349a0da088a706a3d23c1225a5ecfdd4738e023300a864158e852721&"
+      ]
     }
   ]
 }
