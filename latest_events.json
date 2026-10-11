@@ -1,64 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T22:30:05+02:00",
-  "period_end": "2026-10-12T00:30:05+02:00",
-  "updated_at": "2026-10-12T00:30:05+02:00",
+  "period_start": "2026-10-11T22:40:05+02:00",
+  "period_end": "2026-10-12T00:40:05+02:00",
+  "updated_at": "2026-10-12T00:40:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T22:30:39.168+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Rendez-vous dans un autre monde.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558939913255133184/image.png?ex=6acd436f&is=6acbf1ef&hm=7ed61d2c4653bca1a92644fdae152c755272a6b0f72889b0d82915018852fc88&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558939913594994790/image.png?ex=6acd436f&is=6acbf1ef&hm=988d44382c4a3f3f7a3e0602ba76f1d13706e360fb3de875337dbbdda5a0b4c0&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:31:30.223+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h31 - Fanny propose de le refaire une fois lentement avec le piano.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:32:39.964+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Quand les nuits seront plus longues, plus longues que mes nuits",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:34:30.471+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h34 - Fanny dit que la fin est un peu traitre. Elle dit au fille d'écouter la musique plusieurs fois et ça le fera.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:34:57.102+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h34 - Fanny donne chaque phrases à apprendre individuellement aux filles.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:35:34.516+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h35 - chato",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:36:34.725+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h35 - Direction le château, Ydriss et Brieuc sont dans le dressing. Brieuc cherche son pyjama, il dit qu'il l'a peut être mis à laver car il a transpiré cette nuit.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558941404871397536/image.png?ex=6acd44d2&is=6acbf352&hm=4d385ca13a820ea7656c035e48cf20b768afaa97d9c24e6f63305fff4e76e3cf&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:39:38.855+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h38 - Brieuc est dans la salle de bain en fredonnant S'il suffisait d'aimer. Un des garçon est dans la douche, Brieuc en profite pour passer un coup de tondeuse.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558942177181302784/image.png?ex=6acd458a&is=6acbf40a&hm=871c68f0a12cd3653340522a2fb76e0524381a2dfce3af3d9193a395911c1993&"
-      ]
-    },
     {
       "timestamp": "2026-10-11T22:40:19.286+02:00",
       "channel": "🔴・infos-live",
@@ -745,6 +690,56 @@
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500850385567617196/1558969810426134578/Screenshot_20261012_002858_TF1.jpg?ex=6acd5f47&is=6acc0dc7&hm=bf6c3da3ee7fce916c24b097bef26022d93db03ecc1ad1e52f43811017b9ed5d&"
       ]
+    },
+    {
+      "timestamp": "2026-10-12T00:30:51.813+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h30 - Sur un beau plan Escalier, je céde ma place à la rédaction à @Ghost . \nBonne continuation info live en sa compagnie",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:31:59.792+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h31 Merci @Kevin D ! Bonsoir tout le monde ! On se retrouvent pour la dernière ligne droite de ce live, jusqu'à 2 heures du matin, go !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:34:05.972+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h32 On retrouve Isabella et Noémie dans  la sale de bain des filles elles discutent de la prestation de Noémie en disant qu'elle a sa place, qu'elle était vraiment dans sa prestation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:34:24.210+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558971056377696407/image.png?ex=6acd6070&is=6acc0ef0&hm=82132029bb8d74178eaf03453d91300128c47f7d9a43038c8dff81bafa770e26&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:35:18.472+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Isabella précise qu'avec sa formation d'ingé son, elle parle technique en disant qu'elle à une voix avec une belle fréquence, contrairement à d'autres où c'est différent",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:37:03.261+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h36",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:37:29.073+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:39:50.463+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h39 Plan château de Nuit",
+      "image_urls": []
     }
   ]
 }
