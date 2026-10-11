@@ -1,53 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T17:20:04+02:00",
-  "period_end": "2026-10-11T19:20:04+02:00",
-  "updated_at": "2026-10-11T19:20:04+02:00",
+  "period_start": "2026-10-11T17:30:04+02:00",
+  "period_end": "2026-10-11T19:30:04+02:00",
+  "updated_at": "2026-10-11T19:30:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T17:20:08+02:00",
-      "channel": "débrief-prime",
-      "content": "FIN DU DEBRIEF - A LA SEMAINE PROCHAINE",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:20:46+02:00",
-      "channel": "infos-live",
-      "content": "17h19 - La prestation préférée de Morgan est Zoé et celle d’Antoine est Elija.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:22:14+02:00",
-      "channel": "infos-live",
-      "content": "17h22 - Morgan est déçu de sa prestation en danse.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:22:18+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558862317620297909/IMG_6845.png?ex=6accfb2a&is=6acba9aa&hm=ad606b920f758fcea6ccd91110fa294f57d4a604dd73ff1d5d4b47ec66f2d7e5&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T17:23:29+02:00",
-      "channel": "infos-live",
-      "content": "17h23 - Antoine a la sensation de pouvoir faire mieux.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:24:36+02:00",
-      "channel": "infos-live",
-      "content": "17h24 - Vue sur la salle de danse.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:29:13+02:00",
-      "channel": "infos-live",
-      "content": "17h28 - Zoé, Noémie et Kylian regardent leur prestation du prime d’hier.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T17:31:22+02:00",
       "channel": "infos-live",
@@ -677,6 +633,77 @@
       "timestamp": "2026-10-11T19:19:49+02:00",
       "channel": "🔴・infos-live",
       "content": "19:18 - Philippine propose de chanter à nouveau l'hymne, cette fois-ci uniquement a cappella. Antoine rigole car il ne sait pas lire les paroles. Brieuc lui montre que c'est en bleu.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:21:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:20 - Antoine et Brieuc se concentre sur le refrain, à la demande de Philippine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:21:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:21 - Philippine demande de l'attitude sur un passage.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:23:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plantage de TF1+",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:23:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558892750420705351/Capture_decran_2026-10-11_192217.png?ex=6acd1782&is=6acbc602&hm=f0b8f69daaa4d0316166d1462ec1e6c6f108203f2a6b4d4e54b5d29659508d85&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:23:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Brieuc choqué ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:24:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:23 - Antoine et Brieuc, sont toujours en train de répéter avec Philippine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:25:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:25 - Philippine explique à Brieuc qu'il doit penser petit et ne pas monter trop haut. Il se rate à nouveau, ce qui fait rire la répétitrice.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:26:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:26 - José nous coupe le son momentanément.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:26:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558893673071255692/Capture_decran_2026-10-11_192501.png?ex=6acd185e&is=6acbc6de&hm=7b7ca9c0376ec90fab92b890f1c36acf44aaf10283516b4083850d92e3a5951b&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558893673515581690/Capture_decran_2026-10-11_192640.png?ex=6acd185e&is=6acbc6de&hm=be05da75cf0d5d2d1cf11d65bd7760b8e2bb6f6bb75ce1528efe9c38808c18fb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:27:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure Escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:30:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:29 - Après une petite coupure, Antoine a laissé sa place à Cameron. Il commence à chanter mais semble manquer un peu d'assurance. Philippine lui demande de chanter plus fort. Selon elle, il connait les paroles.",
       "image_urls": []
     }
   ]
