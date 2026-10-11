@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "period_start": "2026-10-11T11:39:24+02:00",
+  "period_end": "2026-10-11T13:39:24+02:00",
+  "updated_at": "2026-10-11T13:39:24+02:00",
+  "events": [
+    {
+      "timestamp": "2026-10-11T11:45:07+02:00",
+      "channel": "infos-live",
+      "content": "11h44- on aperçoit une des filles traversé dans le jardin",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:50:46+02:00",
+      "channel": "infos-live",
+      "content": ":escalier:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:51:53+02:00",
+      "channel": "infos-live",
+      "content": "11h51 - cette fois un garçon fait des aller/retour et retourne au chateau",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:52:05+02:00",
+      "channel": "infos-live",
+      "content": "désolé je ne les reconnais pas encore de loin",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:53:50+02:00",
+      "channel": "infos-live",
+      "content": "nouveau plan débloqué",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:53:53+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558779665139634186/image.png?ex=6accae30&is=6acb5cb0&hm=866c924c9087bf425c8f5ac147ab02ebe2c2fdfeb957361d3a4a266a61b828cb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T11:55:47+02:00",
+      "channel": "infos-live",
+      "content": "11h54 - on retrouve Cameron au piano il dit qu'il n'ai pas pianiste mais guitariste. Il laisse sa place à Melina. Ils disent que c'est cool de pouvoir s'accompagner sur n'importe qu'elle musique",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558780145844621422/image.png?ex=6accaea3&is=6acb5d23&hm=a3b9b8c05bf8a2e66b0cdbe5b61d616452d7d7fe6b98c6f3a90e1b54c85f697f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558780146335486072/image.png?ex=6accaea3&is=6acb5d23&hm=970cd582c2f542a0e28eaa5f1612f740f4ee06154e85b5d1a07610ead98c2ff1&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T11:56:23+02:00",
+      "channel": "infos-live",
+      "content": "11h55 - Cameron c'est installé sur la balancoire pendant que Melina joue la lettre à elise de Beethoven",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:58:03+02:00",
+      "channel": "infos-live",
+      "content": "11h57 - ils sont rejoint par Morgan. Melina cherche un morceau à jouer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T11:58:37+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558780859597721620/image.png?ex=6accaf4d&is=6acb5dcd&hm=b50fc8bdbd37b57ef8ea777bbaaa2e60481ab6786d8e43a55f279c964673d39f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T11:59:11+02:00",
+      "channel": "infos-live",
+      "content": "11h58 - Melina veut maintenant tester les guitares. Ils n'ont pas trouver les mediator.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T12:00:02+02:00",
+      "channel": "infos-live",
+      "content": "11h59 - Maud s'installe au piano, Melina à la guitare, Morgan et Cameron pour la voix de Bradley Cooper sur Shallow",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T12:00:10+02:00",
+      "channel": "infos-live",
+      "content": ":escalier:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T12:01:13+02:00",
+      "channel": "infos-live",
+      "content": "12h00 - C'est l'heure de la pause ARCOM on se retrouve dans 1h",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:08:30+02:00",
+      "channel": "infos-live",
+      "content": "13h00 - Fin de la pause ARCOM.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:08:56+02:00",
+      "channel": "infos-live",
+      "content": "(hello tout le monde ohlala ça y est la Starac a repris, ça fait trop bizarre ! Bonne saison à tous.tes)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:09:06+02:00",
+      "channel": "infos-live",
+      "content": ":escalier:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:11:38+02:00",
+      "channel": "infos-live",
+      "content": "13h11 - On reprend avec Isabella au piano",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:14:17+02:00",
+      "channel": "infos-live",
+      "content": "13h13 - Antoine se détend sur la balançoire, tandis que certains chantent Shallow de Lady Gaga et Bradley Cooper",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:15:04+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558800099428016280/Capture_decran_2026-10-11_a_13.14.33.png?ex=6accc138&is=6acb6fb8&hm=6f7218ad07c7bdd0752b1ae97a3413a870e5694edcf55b98363432e2f06f0f8f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:15:22+02:00",
+      "channel": "infos-live",
+      "content": "13h15 - Isabella à confié qu'elle venait de La Réunion",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:18:37+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558800989589606420/Capture_decran_2026-10-11_a_13.18.05.png?ex=6accc20d&is=6acb708d&hm=d7dc83875d079267e4dcce18b39857914caa6fc864b0a2d5ed515f3415e32ce4&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:20:04+02:00",
+      "channel": "infos-live",
+      "content": "13h18 - Tandis que nos académiciens chantent, on retrouve à la coiffeuse Leeloo et Tracy qui se maquillent",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:20:17+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558801409221206037/Capture_decran_2026-10-11_a_13.18.38.png?ex=6accc271&is=6acb70f1&hm=03ac39afa0a9c80107d106eb137b774be4e3f875a7c3f9a375715da6311e5fea&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:21:59+02:00",
+      "channel": "infos-live",
+      "content": "13h21 - Dans le salon sur le canapé, Elija, Amel et Brieuc discutent de leurs gouts musicaux. Elija dit qu'elle aime la techno, le hard metal et le rock",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:22:16+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558801910314573895/Capture_decran_2026-10-11_a_13.20.17.png?ex=6accc2e8&is=6acb7168&hm=4709e24a3bdfc7150d8f874590ab01de68e35384dbaaaa89b18ced705398efa0&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:24:17+02:00",
+      "channel": "infos-live",
+      "content": "13h23 - Petit plan escalier vu du plafond de la part de José, qui est encore et toujours là",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:28:51+02:00",
+      "channel": "infos-live",
+      "content": "(un tantinet long, je vous l'accorde)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:30:26+02:00",
+      "channel": "infos-live",
+      "content": "13h29 - Kylian et Felix chantent Halleluja. Ce dernier dit qu'il n'a aucun ami dans la musique. Kylian ajoute que lui non plus et que c'est trop cool de faire ça avec eux.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:30:58+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558804097967333506/Capture_decran_2026-10-11_a_13.30.30.png?ex=6accc4f2&is=6acb7372&hm=80870687bb796dfbf378463b57cabc74d0512c08b9e085c317944b14a0478341&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:31:47+02:00",
+      "channel": "infos-live",
+      "content": "13h31 - Melina emprunte la guitare d'Isabella et les rejoint, suivie de Zoé",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:35:29+02:00",
+      "channel": "infos-live",
+      "content": "*13h35 - petite coupure plan à la coiffeuse",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:35:35+02:00",
+      "channel": "infos-live",
+      "content": ":coiffeuse:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:37:10+02:00",
+      "channel": "infos-live",
+      "content": "13h36 - Mesdames et monsieurs... Le Directeur !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:37:47+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558805814817329232/Capture_decran_2026-10-11_a_13.36.35.png?ex=6accc68b&is=6acb750b&hm=dd64667d7ad6107fc2865202d9f5b0a71372dc1decfc7c1a499555566ce659c3&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558805815262052362/Capture_decran_2026-10-11_a_13.37.13.png?ex=6accc68b&is=6acb750b&hm=2178bf23a7feaf679ac56ad948ac1178806cb111da01ac12c04fd4a626b66745&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:38:05+02:00",
+      "channel": "infos-live",
+      "content": "13h37 - Mosimann dit que le château n'a pas changé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:38:42+02:00",
+      "channel": "infos-live",
+      "content": "13h38 - Monsieur le directeur annonce aux élèves qu'il a changé une règle: immunité ce matin pour le premier qui lui ramène un café (😉)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:38:56+02:00",
+      "channel": "infos-live",
+      "content": "Il est mort de rire et tout le monde a couru en cuisine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:39:24+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558806220436148294/Capture_decran_2026-10-11_a_13.39.01.png?ex=6accc6ec&is=6acb756c&hm=997964cb4fc68e88c9994b15c056a0a6443b1ce8f906f13695652b34a6d14e87&"
+      ]
+    }
+  ]
+}
