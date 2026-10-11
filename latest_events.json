@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T16:52:33+02:00",
-  "period_end": "2026-10-11T18:52:33+02:00",
-  "updated_at": "2026-10-11T18:52:33+02:00",
+  "period_start": "2026-10-11T17:00:04+02:00",
+  "period_end": "2026-10-11T19:00:04+02:00",
+  "updated_at": "2026-10-11T19:00:04+02:00",
   "events": [
     {
       "timestamp": "2026-10-11T17:06:15+02:00",
@@ -495,6 +495,30 @@
       "timestamp": "2026-10-11T18:51:24+02:00",
       "channel": "infos-live",
       "content": "💡 « Dans un autre monde » de Céline Dion est sortie en 1998. Signée Jean-Jacques Goldman, elle a 28 ans.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:53:09+02:00",
+      "channel": "infos-live",
+      "content": "18h52 - Fanny explique la différence entre PBC et PBO.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:54:18+02:00",
+      "channel": "infos-live",
+      "content": "En PBO (playback orchestre), la musique est enregistrée, mais la voix est en direct. En PBC (playback complet), la voix aussi est enregistrée.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:55:30+02:00",
+      "channel": "infos-live",
+      "content": "18h54 - Les élèves chantent l’hymne pour la première fois !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T18:58:10+02:00",
+      "channel": "infos-live",
+      "content": "18h57 - Fanny trouve ça super pour une première ! Elle annonce qu’ils vont à présent travailler en petits groupes.",
       "image_urls": []
     }
   ]
