@@ -1,55 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T22:00:04+02:00",
-  "period_end": "2026-10-12T00:00:04+02:00",
-  "updated_at": "2026-10-12T00:00:04+02:00",
+  "period_start": "2026-10-11T22:10:04+02:00",
+  "period_end": "2026-10-12T00:10:04+02:00",
+  "updated_at": "2026-10-12T00:10:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T22:02:31.462+02:00",
-      "channel": "🔴・infos-live",
-      "content": "BONSOIIIR les amis, première session live pour cette année !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:03:10.399+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h02 - Quel bel escalier que me propose ce live.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:03:43.090+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558933135574442155/image.png?ex=6acd3d1f&is=6acbeb9f&hm=04ae21a36e4794cb11e44b6a95785e6a416ec0a9aae8906d7362a93c5987d90e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:05:50.464+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h05 - Mélina se rends dans la cuisine et demande à Morgan ce qu'il mange. Elle lui dit qu'elle vient d'avoir sa maman au téléphone, elle dit que ça fait bizarre mais que ça c'est bien passé.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:07:02.600+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h06 - Mélina discute maintenant avec Elija de son appel avec sa maman. Elle a adoré le prime, elle lui a parlé de son chien.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558933972032163950/image.png?ex=6acd3de6&is=6acbec66&hm=b93943c709edd501541a649e40cf3ba2bb044af70f895b35a98fc786e2160930&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:07:57.791+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h07 - Mélina dit qu'elle ne sait pas si elle va beaucoup appeler sa maman car elle à l'habitude de l'appeler pendant des heures et de parler de choses en détails , hors là elle n'a qu'une seule minute de téléphone.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:08:33.769+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h08 -",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T22:13:50.824+02:00",
       "channel": "🔴・infos-live",
@@ -754,6 +708,57 @@
       "timestamp": "2026-10-11T23:58:43.310+02:00",
       "channel": "🔴・infos-live",
       "content": "Nouveau plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:00:14.463+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Pas d'image, mais un magnifique son de la nature qui personnellement m'endors",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:01:05.241+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h00 - Et je profite de cette accalmie pour fêter officiellement sur ce salon le premier \"Joyeux Nouveau Jour de la saison\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:01:36.612+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Donc, Joyeux Lundi 12 Octobre à tous",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:02:31.467+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h01 - Dans le Foyer/Studio, le groupe d’́élèves fait des pronos sur le groupe de Danse dans lequel ils seront",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:03:49.017+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558963358680621156/Screenshot_20261012_000308_TF1.jpg?ex=6acd5944&is=6acc07c4&hm=723990542020058e5e1cd0d8275fbd77b4394b138c495d1d32e559ae58a16347&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558963359099920444/Screenshot_20261012_000311_TF1.jpg?ex=6acd5944&is=6acc07c4&hm=7d94c9f9c746c3b1361e108123824b3c9417f2738c8adc0826767739469690d1&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:04:13.014+02:00",
+      "channel": "🔴・infos-live",
+      "content": "ps, comme l'indique une photo, j’ai presque plus de batterie",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:04:43.538+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h03 - Plan château pour la .... je ne sais même plus combientième fois du soir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:10:00.775+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h08 - Je ne me suis pas endormi, simplement le Live n’a pas repris.\nÇa doit être dur de trouver quelque chose a diffuser vu qu’ils ne sont plus que 17 dans ce petit château de province. \nOu alors, ils sont tous en ITV",
       "image_urls": []
     }
   ]
