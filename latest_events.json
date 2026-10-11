@@ -1,79 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T22:20:05+02:00",
-  "period_end": "2026-10-12T00:20:05+02:00",
-  "updated_at": "2026-10-12T00:20:05+02:00",
+  "period_start": "2026-10-11T22:30:05+02:00",
+  "period_end": "2026-10-12T00:30:05+02:00",
+  "updated_at": "2026-10-12T00:30:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T22:20:45.650+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h20 - CHATEAUUU",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:22:13.025+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h21 - Retour dans la cuisine, Félix, Antoine, Ydriss sont en train de manger.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:23:40.332+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h22 - Antoine discute avec Ydriss. Antoine dit que son plat est immangeable. Morgan arrive avec une compote, ils disent qu'elle à l'air très bonne.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:24:10.208+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h23 - Antoine parle de sa soeur, il dit qu'elle ne regarde pas le live mais qu'elle était au courant de ce qu'il s'y passait.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:25:19.088+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h25 - Mesdames, messieurs : CHATEAU",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:26:09.390+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h26 - Brieuc sort de sa session téléophone et se rend à table pour manger. Il dit que c'est très bizarre comme sensation, il a l'impression que c'est normal. Il mentionne le fait que ça passe très vite.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558938781845823658/image.png?ex=6acd4261&is=6acbf0e1&hm=83c15366620011e0b6e062a7c56c8802746e0dfc6b4b8bfc63f3a18380474690&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:26:37.568+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h26 - Un des élèves présent à table dit que les champignons sont fades et que les pates ne sont pas bonnes.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:27:21.728+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h27 - Nous sommes sur un sacré sujet de discussion : les selles.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:28:03.942+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h28 - Leeloo et Isabella sont avec Fanny en salle de chant. Elles effectuent leurs prises de tonalité pour l'hymne.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558939262504669194/image.png?ex=6acd42d3&is=6acbf153&hm=e1d0c48584c9dbf6676dd5dfe5cd840fb6e3561a319c2d9d3cb917d40042d1b7&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:28:28.936+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Pour rappel : l'hymne de cette année est Dans un autre monde de Céline Dion.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:30:04.303+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h29 - Fanny fait répéter les filles sur les paroles Une autre chance, une seconde, et tant pis pour celle-ci.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T22:30:39.168+02:00",
       "channel": "🔴・infos-live",
@@ -747,6 +677,74 @@
       "channel": "🔴・infos-live",
       "content": "00h19 - 20 minutes de plan château pour 2 minutes de discussion\nMerci le plan escalier.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:21:07.836+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elija rejoint le salon. Elle s'interroge sur \"où sont les autres élèves\". \nAntoine et Cameron discutent de leur univers et des artistes indé qu’ils écoutent",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:22:57.589+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558968176522563664/Screenshot_20261012_002228_TF1.jpg?ex=6acd5dc1&is=6acc0c41&hm=b6cd721faca1f1befd49752de78c8dd8bab4443f6235f4911241dabf4e658109&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:23:24.146+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h23 - Retour du plan escalier du soir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:25:16.425+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h24 - A force de discuter des leurs inspiration musicales, Antoine et Cameron se découvrent des artistes référencés en commun",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:25:23.180+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558968787229872148/Screenshot_20261012_002351_TF1.jpg?ex=6acd5e53&is=6acc0cd3&hm=4254b252256aab7e55c05192bd375bc18c5c4d70ee501651e795ef92c7d5a9ff&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:26:05.517+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Dsl de ne pas mettre les noms, mais même pour moi, mes connaissances en artiste indy est limitée",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:27:13.669+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h26 - Dans la chambre des filles, Tracy a pris place dans son lit et travaille avec son mp3 l’hymne de la saison",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:27:19.518+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558969275174096956/Screenshot_20261012_002610_TF1.jpg?ex=6acd5ec7&is=6acc0d47&hm=652a9d21fb759a978c6c34cef46f277ef727f7ee6e73329179e390725d15a49b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:28:22.549+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Dans la cuisine, Leeloo et Zoé discutent du thème des évaluations. Leeloo envisage de se rendre au Foyer pour faire du piano voix alors que Zoé envisage d’aller se coucher",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:29:27.124+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558969810426134578/Screenshot_20261012_002858_TF1.jpg?ex=6acd5f47&is=6acc0dc7&hm=bf6c3da3ee7fce916c24b097bef26022d93db03ecc1ad1e52f43811017b9ed5d&"
+      ]
     }
   ]
 }
