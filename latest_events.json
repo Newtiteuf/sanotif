@@ -1,27 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T17:40:04+02:00",
-  "period_end": "2026-10-11T19:40:04+02:00",
-  "updated_at": "2026-10-11T19:40:04+02:00",
+  "period_start": "2026-10-11T17:50:04+02:00",
+  "period_end": "2026-10-11T19:50:04+02:00",
+  "updated_at": "2026-10-11T19:50:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T17:45:45+02:00",
-      "channel": "infos-live",
-      "content": "17h44 - Maud a grandi à Sérent et elle est allée à la fac à Lorient.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:48:17+02:00",
-      "channel": "infos-live",
-      "content": "17h47 - Isabella fait de la guitare.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:50:01+02:00",
-      "channel": "infos-live",
-      "content": "17h49 - Isabella voulait qu’Amel essaye, mais elle a préféré laisser Isabella s’amuser.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T17:50:49+02:00",
       "channel": "infos-live",
@@ -703,6 +685,26 @@
       "timestamp": "2026-10-11T19:39:55+02:00",
       "channel": "🔴・infos-live",
       "content": "19:39 - Philippine demande à Cameron de mettre un peu plus de groove. Elle sait qu'il aura l'assurance le moment venu.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:40:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558897175457566790/image.png?ex=6acd1ba1&is=6acbca21&hm=2138975d492eb304dc5c8956674fddea0bae6ab040870096c7f71979ebbf6a36&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:41:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:40 - Philippine propose de refaire l'hymne depuis le début.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:41:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure Château de nuit",
       "image_urls": []
     }
   ]
