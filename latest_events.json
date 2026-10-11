@@ -1,70 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T23:20:05+02:00",
-  "period_end": "2026-10-12T01:20:05+02:00",
-  "updated_at": "2026-10-12T01:20:05+02:00",
+  "period_start": "2026-10-11T23:30:05+02:00",
+  "period_end": "2026-10-12T01:30:05+02:00",
+  "updated_at": "2026-10-12T01:30:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T23:21:22.245+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Brieuc au piano, Zoé et Khalil au chant.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:21:56.768+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Pendant ce temps, Tracy cherche Kylian partout dans le château. Celui n'aurait pas débarrassé sa table de repas",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:22:44.738+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558953023047344218/Screenshot_20261011_232022_TF1.jpg?ex=6acd4fa4&is=6acbfe24&hm=8dbf4e0953dc1a79132f21178333e86cc75816abaa76ff866eb929bed440792d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:23:55.927+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h22 - Un gros noyau d'académicien est encore dans la cuisine et termine le repas/rangement du soir.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:25:11.060+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558953636896178196/Screenshot_20261011_232203_TF1.jpg?ex=6acd5036&is=6acbfeb6&hm=69ca7aea94abca7df4a4d1fb5f1ed9e1bf2c11c42dac0848fbdf025daa71eeb0&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:25:57.185+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h25 - Khalil arrive dans la cuisine, mais le live bug ... encore une fois",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:28:31.313+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h28 - Grosse discussion dans la cuisine entre Tracy, Amel, Khalil et Leeloo sur la chanson Reine de Dadju.\nPuis José nous gratifie d’un magnifique plan salle d’évaluation nocturne",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:28:38.683+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558954507394883585/Screenshot_20261011_232611_TF1.jpg?ex=6acd5106&is=6acbff86&hm=2564ab7d3b5b7134e1b24e766c9b7fd7ff4c6f12c1b760dd8d6cbd8411fa14c9&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558954507709190234/Screenshot_20261011_232620_TF1.jpg?ex=6acd5106&is=6acbff86&hm=12bc84e4db69f8df1c4224c5ee2920c572eebeceeafc5c22af8a585ca0bc9575&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:29:13.596+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Ce plan salle d’évaluation est suivi d’un plan château nocturne",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T23:30:33.441+02:00",
       "channel": "🔴・infos-live",
@@ -546,6 +485,44 @@
       "timestamp": "2026-10-12T01:17:59.971+02:00",
       "channel": "🔴・infos-live",
       "content": "Une voix off prévient qu'elle va éteindre la cuisine !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:20:13.130+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Maud les rejoins en demandant si elles apprennent la totalité des paroles, ou si elles apprennent que leurs parties.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:21:06.774+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Tracy répond qu'elle écoute toute la musique, mais qu'elle apprend surtout sa partie",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:21:37.890+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h21 - Retour plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:26:04.312+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h25 Plan escalier\nchercher dans l'image",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558984059177402368/c74ec1bc-c261-45bb-b517-d264aae4b893.png?ex=6acd6c8c&is=6acc1b0c&hm=d203cf1765f6d572ede6d233ff1e7ccd5e56f4b217b6ed1cfe5b29d785805174&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T01:26:44.892+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Trouvé ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:29:23.737+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h28 Extinction des lumières",
       "image_urls": []
     }
   ]
