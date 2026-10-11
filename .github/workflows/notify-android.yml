@@ -1,0 +1,53 @@
+name: Notify Android app
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - latest_summary.json
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out summary
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Firebase
+        id: auth
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: projects/1095738334921/locations/global/workloadIdentityPools/github/providers/sanotif
+          service_account: firebase-adminsdk-fbsvc@star-ac-notif.iam.gserviceaccount.com
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/firebase.messaging
+
+      - name: Send latest summary
+        env:
+          ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
+        run: |
+          jq -n \
+            --arg title "$(jq -r '.title' latest_summary.json)" \
+            --arg summary "$(jq -r '.summary' latest_summary.json)" \
+            --arg updated_at "$(jq -r '.updated_at' latest_summary.json)" \
+            '{message: {
+              topic: "star-ac-updates",
+              data: {
+                title: $title,
+                summary: $summary,
+                updated_at: $updated_at
+              },
+              android: {priority: "high"}
+            }}' > fcm-payload.json
+
+          curl --fail-with-body \
+            -X POST \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data-binary @fcm-payload.json \
+            "https://fcm.googleapis.com/v1/projects/star-ac-notif/messages:send"
