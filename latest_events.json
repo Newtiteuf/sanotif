@@ -1,94 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T19:10:04+02:00",
-  "period_end": "2026-10-11T21:10:04+02:00",
-  "updated_at": "2026-10-11T21:10:04+02:00",
+  "period_start": "2026-10-11T19:20:04+02:00",
+  "period_end": "2026-10-11T21:20:04+02:00",
+  "updated_at": "2026-10-11T21:20:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T19:10:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:10 - Pour Philippine, Antoine ne doit pas s'effacer et prendre un timbre naturel.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:11:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:11 - Antoine commence à chanter. Philippine explique qu'il n'y a pas de notes plus hautes que les autres dans le passage. Antoine prend des notes.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:12:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:12 - Philippine demande si Antoine a l'habitude de chanter avec des orchestres. Ce n'est pas le cas. Il dit qu'il chante très simplement.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:12:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558889937175056425/image.png?ex=6acd14e3&is=6acbc363&hm=2c45970bc8f23e5013ff5cfaf818bd080e6b3f099755f4fa54b47b4da69a98bb&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T19:12:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:12 - Au tour de Brieuc de chanter. Il dit ne pas connaitre vraiment ce titre de Céline Dion.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:13:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:13 - Philippine trouve que Brieuc se débrouille très bien. Pour elle, le grand défi pour les garçons est de comprendre les paroles avant de la chanter. C'est important de savoir ce qu'on chante.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:14:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558890451535134860/Capture_decran_2026-10-11_191230.png?ex=6acd155e&is=6acbc3de&hm=7f3c95c50e0f79f29abcbbda6488031be6f2e4b96a6ce8e91240157d70eced9f&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558890452122476604/Capture_decran_2026-10-11_191259.png?ex=6acd155e&is=6acbc3de&hm=44c2bcec1bc9af718f9f4c36141e3478aa1a62adde2730e94a0a084161f0b662&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T19:14:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:14 - Brieuc et Antoine trouvent qu'ils ont le même timbre de voix. Philippine dit que ça l'arrange.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:16:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:15 - Antoine et Brieuc chantent ensemble.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:17:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:16 - Antoine veut connaitre le sens global des paroles. Philippine dit ''le temps passe, mais pas le temps de s'en préoccuper. Il faut bouffer la vie à pleine dent''.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:18:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "En gros, il faut vivre la vie à fond.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T19:18:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558891646639276254/image.png?ex=6acd167b&is=6acbc4fb&hm=25aaedda96721d522cd26fac2f82396cedc778e99d07d1687ad8327232bd2636&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T19:19:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:18 - Philippine propose de chanter à nouveau l'hymne, cette fois-ci uniquement a cappella. Antoine rigole car il ne sait pas lire les paroles. Brieuc lui montre que c'est en bleu.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T19:21:22+02:00",
       "channel": "🔴・infos-live",
