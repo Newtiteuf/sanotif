@@ -1,104 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T23:00:05+02:00",
-  "period_end": "2026-10-12T01:00:05+02:00",
-  "updated_at": "2026-10-12T01:00:05+02:00",
+  "period_start": "2026-10-11T23:10:05+02:00",
+  "period_end": "2026-10-12T01:10:05+02:00",
+  "updated_at": "2026-10-12T01:10:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T23:00:49.177+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h00 - Les élèves présent dans la cuisine parle de plat entre eux. Brieuc dit que faire une raclette pourrait être génial.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:01:19.228+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h01 - encore un CHATO de nuit",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:01:51.207+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h02 - Antoine dit \"on est 17, c'est impossible qu'il y ait une semaine sans éliminés\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:02:28.245+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h02 - Tracy parle qu'a une saison les élèves piochaient une musique , et une heure après ils devaient la chanter.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:02:47.161+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h02 - Ydriss dit que si cela leurs arrive , il va se mettre à pleurer.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:05:16.620+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h04 - Mélina et Maud arrivent dans la cuisine en chantant l'hymne. Tracy leurs dit qu'elle a hâte de les entendre demain chanter.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558948626997321859/image.png?ex=6acd4b8c&is=6acbfa0c&hm=ea12adb703bb2c865a53e493324471ceeec009e457bbca555b9e7fef5a514eda&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:06:24.538+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h05 - Maud mentionne adorer le paprika. Elle dit que si le mot paprika n'était pas attribué à une épice, cela pourrait être un prénom.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:07:23.348+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h06 - Isabella & Mélina sont en train de cuisiner. Mélina va faire un plat à base de tomate.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949158650642492/image.png?ex=6acd4c0b&is=6acbfa8b&hm=3fead4493251cfa59e1aaa7ff99d963f79fc6d31f49012870ff7684bb01480c2&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:07:52.842+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h07  - It's time to skin care",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949282281693184/image.png?ex=6acd4c28&is=6acbfaa8&hm=ddfba5a9ada6613083ca25e811e1ee694b12e82300e8834599de3b194b0410af&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:08:22.498+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h08 - Brieuc ajoute un mot sur les miroirs des escaliers.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949406378692718/image.png?ex=6acd4c46&is=6acbfac6&hm=99c5e171383e12052aab4a3b89bc4a9354cfb3daff0e024714f2ab32491ec29e&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949406689075322/image.png?ex=6acd4c46&is=6acbfac6&hm=fbc3a5723e772efe81473d0b0ac0b1a388bae8b9ea4d45bcd8b816d586298910&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:08:49.361+02:00",
-      "channel": "🔴・infos-live",
-      "content": "On écrit sur les murs le nom de ceux qu'on s'aime",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:09:18.703+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h08 - Antoine à son tour écrit un mot.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558949642216149134/image.png?ex=6acd4c7e&is=6acbfafe&hm=e939823966b75c0ef40b11c72b67c199bf3e2024113697bb4f5991f9af3296fb&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:09:40.387+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h09 - Un des garçon chante au piano, Brieuc pense que c'est Cameron, et Antoine pense que c'est Khalil.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:10:03.593+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Ce fameux garçon chante Another Love de Tom Odell.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T23:11:21.932+02:00",
       "channel": "🔴・infos-live",
@@ -658,6 +563,32 @@
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500850385567617196/1558975737317433344/image.png?ex=6acd64cc&is=6acc134c&hm=0e2e91debc0c731545ee1fde1e597719b617932583b2d5ae40a2d4f43c54affa&"
       ]
+    },
+    {
+      "timestamp": "2026-10-12T01:01:56.756+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h01 : Toujours en présence du château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:04:50.036+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h04 Retour en haut des escaliers, avec Isabella, Brieuc, Felix, Kylian, Morgan en petite séance de dans improvisé",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558978714530877630/image.png?ex=6acd6791&is=6acc1611&hm=2c4f4f1ea40b47126d3622499d17c1efd329c9775cccf026f4cd0e116dfda3df&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T01:06:35.113+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Suivi de Ydriss dans son lit à réviser les paroles de l'hymne rejoins par Antoine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T01:06:58.403+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h06 Ah, plan escalier",
+      "image_urls": []
     }
   ]
 }
