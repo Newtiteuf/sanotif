@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T12:10:04+02:00",
-  "period_end": "2026-10-11T14:10:04+02:00",
-  "updated_at": "2026-10-11T14:10:04+02:00",
+  "period_start": "2026-10-11T12:22:37+02:00",
+  "period_end": "2026-10-11T14:22:37+02:00",
+  "updated_at": "2026-10-11T14:22:37+02:00",
   "events": [
     {
       "timestamp": "2026-10-11T13:08:30+02:00",
@@ -315,6 +315,32 @@
       "timestamp": "2026-10-11T14:03:49+02:00",
       "channel": "infos-live",
       "content": ":escalier:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:10:40+02:00",
+      "channel": "infos-live",
+      "content": "Vous appréciez ce début de saison ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:20:07+02:00",
+      "channel": "infos-live",
+      "content": "14h19 - Arrivée de Lydia au château pour le premier débrief. \nA suivre : ✍🏻・débrief-prime",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:20:16+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558816507570553022/IMG_9903.png?ex=6accd080&is=6acb7f00&hm=1ef2d1f9c0e80ac8aefe52ed819eac5c9cf227e49d7d0d79147df4f4fc9d303a&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T14:21:37+02:00",
+      "channel": "infos-live",
+      "content": "14h20 - Elle se présente aux académiciens, raconte son parcours, elle était au cirque du soleil, ensuite elle est devenue chorégraphie puis metteur en scène. Lydia espère pouvoir être un guide pour eux.",
       "image_urls": []
     }
   ]
