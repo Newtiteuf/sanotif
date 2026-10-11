@@ -1,43 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T22:10:04+02:00",
-  "period_end": "2026-10-12T00:10:04+02:00",
-  "updated_at": "2026-10-12T00:10:04+02:00",
+  "period_start": "2026-10-11T22:20:05+02:00",
+  "period_end": "2026-10-12T00:20:05+02:00",
+  "updated_at": "2026-10-12T00:20:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T22:13:50.824+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h13 - Je suis toujours là au cas où hein.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:15:58.700+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h15 - Noémie et Maud sont au piano. Maud est en train de jouer quelques notes, Noémie le micro à la main.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558936220485296160/image.png?ex=6acd3ffe&is=6acbee7e&hm=dc733e23a689dffa7123989791ec10823ad7d2487fd2a7671ca1ce3b9a804481&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T22:16:34.790+02:00",
-      "channel": "🔴・infos-live",
-      "content": "eh merce le live qui beug",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:17:24.053+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h17 - Kylian a rejoint les filles au piano. Il regarde dans les feuilles de Noémie voir si il connait des musiques.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T22:18:39.479+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h18 - Maud toujours au piano, Noémie chante Ne me jugez pas de Camille Lelouche.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558936894954283028/image.png?ex=6acd409f&is=6acbef1f&hm=b8b729a2652aafc2e42af5f3a2e73405ffafac4491e1512ef1f82f224cafc4c2&"
-      ]
-    },
     {
       "timestamp": "2026-10-11T22:20:45.650+02:00",
       "channel": "🔴・infos-live",
@@ -759,6 +725,27 @@
       "timestamp": "2026-10-12T00:10:00.775+02:00",
       "channel": "🔴・infos-live",
       "content": "00h08 - Je ne me suis pas endormi, simplement le Live n’a pas repris.\nÇa doit être dur de trouver quelque chose a diffuser vu qu’ils ne sont plus que 17 dans ce petit château de province. \nOu alors, ils sont tous en ITV",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:18:05.742+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h17 - Le live reprend, et on peut arrêter l'alerte enlèvement.\nCameron discute avec Antoine dans le salon",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T00:18:49.804+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558967137127759923/Screenshot_20261012_001715_TF1.jpg?ex=6acd5cc9&is=6acc0b49&hm=bfd5f7bf69c5b84619dbd3527a80d3c90aff3b1746e66a1b06be83d7ba32e495&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558967137656377494/Screenshot_20261012_001810_TF1.jpg?ex=6acd5cc9&is=6acc0b49&hm=2ba16067eb0589a0062b685aa1966e5862231ec94ba4038847cfa3c9d0710f34&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T00:19:53.046+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h19 - 20 minutes de plan château pour 2 minutes de discussion\nMerci le plan escalier.",
       "image_urls": []
     }
   ]
