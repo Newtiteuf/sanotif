@@ -1,75 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T17:50:04+02:00",
-  "period_end": "2026-10-11T19:50:04+02:00",
-  "updated_at": "2026-10-11T19:50:04+02:00",
+  "period_start": "2026-10-11T18:00:04+02:00",
+  "period_end": "2026-10-11T20:00:04+02:00",
+  "updated_at": "2026-10-11T20:00:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T17:50:49+02:00",
-      "channel": "infos-live",
-      "content": "17h50 - Isabella donne des conseils de guitare à Amel.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:50:53+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558869508696055828/IMG_6850.png?ex=6acd01dd&is=6acbb05d&hm=32c575a391b1ccdc9c6c47a0f0150e25cbd3f3e9f9eafd89171d98e685f676ab&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T17:52:17+02:00",
-      "channel": "infos-live",
-      "content": "17h51 - Amel va chercher le jack.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:53:03+02:00",
-      "channel": "infos-live",
-      "content": "17h52 - Isabella continue de faire de la guitare.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:53:07+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558870069616971908/IMG_6851.png?ex=6acd0263&is=6acbb0e3&hm=8ed7ffcceaef266a3dbd574a7032d62da6c9a6c29749523ecf760c32b4ae4d53&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T17:55:14+02:00",
-      "channel": "infos-live",
-      "content": "17h54 - Ils font un trio de guitare : Isabella, Amel et un garçon qu’on ne voit pas.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:55:54+02:00",
-      "channel": "infos-live",
-      "content": "17h55 - Noémie demande pourquoi il y a autant de radis.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:57:51+02:00",
-      "channel": "infos-live",
-      "content": "17h57 - Isabella, Amel et Cameron font de la guitare dans le salon.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:57:54+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558871277018554470/IMG_6853.png?ex=6acd0382&is=6acbb202&hm=cc66be8fe1bcb8f6c4cd938c3713c7e83947b1068b2f26395c423765069581e4&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T17:58:48+02:00",
-      "channel": "infos-live",
-      "content": "17h58 - Amel chante en jouant de la guitare, notamment une chanson que l’on ne connaît pas encore.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T18:00:43+02:00",
       "channel": "infos-live",
@@ -705,6 +639,12 @@
       "timestamp": "2026-10-11T19:41:56+02:00",
       "channel": "🔴・infos-live",
       "content": "Coupure Château de nuit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:58:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "PAUSE CSA - Retour du live vers 20h40 !",
       "image_urls": []
     }
   ]
