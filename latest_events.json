@@ -1,70 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T11:51:23+02:00",
-  "period_end": "2026-10-11T13:51:23+02:00",
-  "updated_at": "2026-10-11T13:51:23+02:00",
+  "period_start": "2026-10-11T12:00:01+02:00",
+  "period_end": "2026-10-11T14:00:01+02:00",
+  "updated_at": "2026-10-11T14:00:01+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T11:51:53+02:00",
-      "channel": "infos-live",
-      "content": "11h51 - cette fois un garçon fait des aller/retour et retourne au chateau",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T11:52:05+02:00",
-      "channel": "infos-live",
-      "content": "désolé je ne les reconnais pas encore de loin",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T11:53:50+02:00",
-      "channel": "infos-live",
-      "content": "nouveau plan débloqué",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T11:53:53+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558779665139634186/image.png?ex=6accae30&is=6acb5cb0&hm=866c924c9087bf425c8f5ac147ab02ebe2c2fdfeb957361d3a4a266a61b828cb&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T11:55:47+02:00",
-      "channel": "infos-live",
-      "content": "11h54 - on retrouve Cameron au piano il dit qu'il n'ai pas pianiste mais guitariste. Il laisse sa place à Melina. Ils disent que c'est cool de pouvoir s'accompagner sur n'importe qu'elle musique",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558780145844621422/image.png?ex=6accaea3&is=6acb5d23&hm=a3b9b8c05bf8a2e66b0cdbe5b61d616452d7d7fe6b98c6f3a90e1b54c85f697f&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558780146335486072/image.png?ex=6accaea3&is=6acb5d23&hm=970cd582c2f542a0e28eaa5f1612f740f4ee06154e85b5d1a07610ead98c2ff1&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T11:56:23+02:00",
-      "channel": "infos-live",
-      "content": "11h55 - Cameron c'est installé sur la balancoire pendant que Melina joue la lettre à elise de Beethoven",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T11:58:03+02:00",
-      "channel": "infos-live",
-      "content": "11h57 - ils sont rejoint par Morgan. Melina cherche un morceau à jouer",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T11:58:37+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558780859597721620/image.png?ex=6accaf4d&is=6acb5dcd&hm=b50fc8bdbd37b57ef8ea777bbaaa2e60481ab6786d8e43a55f279c964673d39f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T11:59:11+02:00",
-      "channel": "infos-live",
-      "content": "11h58 - Melina veut maintenant tester les guitares. Ils n'ont pas trouver les mediator.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T12:00:02+02:00",
       "channel": "infos-live",
@@ -298,6 +237,64 @@
       "timestamp": "2026-10-11T13:51:22+02:00",
       "channel": "infos-live",
       "content": "13h50 - Mosimann dit qu'il faut savoir s'entourer et souhaite vraiment leur montrer, car le dire ne suffit pas. \"Je sais qu'avec toute la bienveillance qu'il y a dans ce chateau, qu'il faut qu'on s'apporte tous les uns aux autres\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:52:26+02:00",
+      "channel": "infos-live",
+      "content": "13h51 - Le téléphone sera disponible en ilimité pour joindre Mosimann, même à 2h du mat",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:53:34+02:00",
+      "channel": "infos-live",
+      "content": "13h53 - Le directeur leur propose de découvrir un nouvel endroit... le studio de Mosimann dans l'un des foyers",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:53:45+02:00",
+      "channel": "infos-live",
+      "content": "Tout le monde s'y dirige",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:54:47+02:00",
+      "channel": "infos-live",
+      "content": "suspence...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:55:49+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558810353977008128/Capture_decran_2026-10-11_a_13.55.22.png?ex=6acccac5&is=6acb7945&hm=7a9dfd805d86c987f0810f52120cc1b4d7758bfbff1b5879812612e449f0de45&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:56:41+02:00",
+      "channel": "infos-live",
+      "content": "13h56 - Les académiciens se sont précipités pour prendre une photo avec leur directeur",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T13:56:50+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558810609154523136/Capture_decran_2026-10-11_a_13.56.14.png?ex=6acccb02&is=6acb7982&hm=190c77746ffcd214463471c5913a02d35ecc9d07e231dcbf321d6705ee1cd61e&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T13:57:32+02:00",
+      "channel": "infos-live",
+      "content": "13h56 - Dans le studio, tout est fonctionnel, peut-être qu'ils vont être amenés à composer de trucs, dit Mosimann. Son bureau est juste derière",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:00:00+02:00",
+      "channel": "infos-live",
+      "content": "13h58 - Mosimann demande s'ils ont des questions, s'ils aiment l'electro; ce à quoi certains ont répondu favorablement",
       "image_urls": []
     }
   ]
