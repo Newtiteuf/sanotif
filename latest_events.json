@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T12:50:40+02:00",
-  "period_end": "2026-10-11T14:50:40+02:00",
-  "updated_at": "2026-10-11T14:50:40+02:00",
+  "period_start": "2026-10-11T13:00:38+02:00",
+  "period_end": "2026-10-11T15:00:38+02:00",
+  "updated_at": "2026-10-11T15:00:38+02:00",
   "events": [
     {
       "timestamp": "2026-10-11T13:08:30+02:00",
@@ -379,6 +379,32 @@
         "https://cdn.discordapp.com/attachments/1500851844233166868/1558821198606114916/image.png?ex=6accd4df&is=6acb835f&hm=7f9fa25eea85ccc952ab158fbe85d153572867720569d839cec33ea84a6d5207&",
         "https://cdn.discordapp.com/attachments/1500851844233166868/1558821199025405972/image.png?ex=6accd4df&is=6acb835f&hm=e6e69df5841e91e0d3e3ad1a45b7aa424d58f72c13a8509f74b6f192e44b575c&",
         "https://cdn.discordapp.com/attachments/1500851844233166868/1558821199503433748/image.png?ex=6accd4df&is=6acb835f&hm=001aea35f9993586081c5abb573311bd579b29046af3c4112f5ee0d11e6d05b3&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T14:52:12+02:00",
+      "channel": "débrief-prime",
+      "content": "Prestation de : Zoé \n\n S’il suffisait d’aimer — avec Céline Dion\n\n Avis de Lydia :\nLydia conseille à Zoé d'avoir un regard plus bienveillant sur elle, \"pour se protéger le coeur\". Si elle devait refaire sa prestation ce soir, Lydia conseille à Zoé de ne pas se laisser effacer par les le décor, les accessoires, de \"rafraîchir sa présence\". Elle lui conseille également de faire attention au texte, de l'interpréter comme si elle le découvrait à chaque fois pour la première fois.\n\n Avis de Zoé :\nZoé a l'impression d'être en dehors d'elle-même, que celle qu'elle voit à l'écran n'est pas elle.\n(La coupure de José nous a fait rater le début de la réaction de Zoé, espérons qu'il rectifie le tir à l'avenir... :D)\n\nAutre annonce complémentaire :\nDes cours d'analyse de texte seront proposés aux élèves.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T14:53:23+02:00",
+      "channel": "débrief-prime",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558824838645157948/Capture_decran_2026-10-11_144340.png?ex=6accd843&is=6acb86c3&hm=a2155b6941f58080b1bc54fc60c59aee838d7a77e020eed66c510ee1839fc135&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558824839156990124/Capture_decran_2026-10-11_144354.png?ex=6accd843&is=6acb86c3&hm=ba6de8f475ea479ce9c1b40267c8fb92619239b0a9d57e982ce8d85b987a6e6f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T14:58:56+02:00",
+      "channel": "débrief-prime",
+      "content": "Prestation de : Félix \n\n Je t’aimais, je t’aime et je t’aimerai — avec Francis Cabrel\n\n Avis de Lydia :\nElle explique qu'entre le rendu et le ressenti il peut y avoir différence. Il a fait une bonne performance. Belle entrée sur la 1ere phrase, beau regard. Il doit traiter la chanson comme une oeuvre, il faut mettre du rythme. L'entrée sert à émettre un 1er jugement. Sur un passage elle lui dit qu'il aurait fallu monter en intensiter. Elle demande à Félix si il pensait à sa \"Blonde\" quand il chantait. Elle lui conseille de pas toujours etre sur le meme rythme de son accompagnement et de jouer plus avec son phrasé. Il doit faire attention à faire parler la guitare, et de ne pas ce cacher derriere\n\n Avis de Félix :\nil est heureux et content de ce qu'il a fait de la chanson. Il est fier de lui. Il pense qu'il peut améliorer sa justesse. Il chante et joue de la guitare depuis 3ans\n\nAutre annonce complémentaire : \nelle va leur faire travailler leur entrée",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826236610879540/image.png?ex=6accd990&is=6acb8810&hm=68cde7710ae564149a3edda1de3b4198fa871097805ab1ae45e8108041643680&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826237038821426/image.png?ex=6accd990&is=6acb8810&hm=5c09ad41a90be8da763ff12ba94a1715f20199f4a001baac24b873d8dc1045a4&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826237777154098/image.png?ex=6accd990&is=6acb8810&hm=11a2b1251a2046e92a8c5ced30d20b20d32ad0c3231e10f707a0ebc0c5b843ff&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558826238150451241/image.png?ex=6accd990&is=6acb8810&hm=1edd386156aa007161513d591fd5ca652303bc966b4b375d39e42a74bfbcb60d&"
       ]
     }
   ]
