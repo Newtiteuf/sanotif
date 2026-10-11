@@ -1,49 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T13:20:44+02:00",
-  "period_end": "2026-10-11T15:20:44+02:00",
-  "updated_at": "2026-10-11T15:20:44+02:00",
+  "period_start": "2026-10-11T13:31:12+02:00",
+  "period_end": "2026-10-11T15:31:12+02:00",
+  "updated_at": "2026-10-11T15:31:12+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T13:21:59+02:00",
-      "channel": "infos-live",
-      "content": "13h21 - Dans le salon sur le canapé, Elija, Amel et Brieuc discutent de leurs gouts musicaux. Elija dit qu'elle aime la techno, le hard metal et le rock",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:22:16+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558801910314573895/Capture_decran_2026-10-11_a_13.20.17.png?ex=6accc2e8&is=6acb7168&hm=4709e24a3bdfc7150d8f874590ab01de68e35384dbaaaa89b18ced705398efa0&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T13:24:17+02:00",
-      "channel": "infos-live",
-      "content": "13h23 - Petit plan escalier vu du plafond de la part de José, qui est encore et toujours là",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:28:51+02:00",
-      "channel": "infos-live",
-      "content": "(un tantinet long, je vous l'accorde)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:30:26+02:00",
-      "channel": "infos-live",
-      "content": "13h29 - Kylian et Felix chantent Halleluja. Ce dernier dit qu'il n'a aucun ami dans la musique. Kylian ajoute que lui non plus et que c'est trop cool de faire ça avec eux.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T13:30:58+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558804097967333506/Capture_decran_2026-10-11_a_13.30.30.png?ex=6accc4f2&is=6acb7372&hm=80870687bb796dfbf378463b57cabc74d0512c08b9e085c317944b14a0478341&"
-      ]
-    },
     {
       "timestamp": "2026-10-11T13:31:47+02:00",
       "channel": "infos-live",
@@ -357,6 +317,49 @@
         "https://cdn.discordapp.com/attachments/1500851844233166868/1558828772382474262/Capture_decran_2026-10-11_145926.png?ex=6accdbec&is=6acb8a6c&hm=f1a4034db3070a1079125bda0d373efb91943e8f3cf35ca6e8685965e81dab48&",
         "https://cdn.discordapp.com/attachments/1500851844233166868/1558828772734804038/Capture_decran_2026-10-11_150826.png?ex=6accdbed&is=6acb8a6d&hm=e2112fdcfdef9408dcfd5b3fed9f84be4e8ec104ac4b17e10fdfb89132b1edd6&"
       ]
+    },
+    {
+      "timestamp": "2026-10-11T15:25:03+02:00",
+      "channel": "débrief-prime",
+      "content": "Prestation de : Ydriss\n\nI Will Always Love You — de Whitney Houston\n\nAvis de Lydia :\n\"C'est tellement fun des performances comme celle ci\". Lydia dit que Sofia va beaucoup s'amuser avec la voix d'Ydriss. Elle lui conseille fortement de s'investir dans les cours de \"LAJDI\" 🤣, pour visiter son corps, trouver ses résonnances. Elle lui déconseille de \"marquer ses notes\".\n\nAvis d’Ydriss :\nAucun stress avant de monter sur scène, à partir du moment où il a commencé à chanter le stress est apparu. Il avait le coeur qui battait vite dit-il.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832809118924861/image.png?ex=6accdfaf&is=6acb8e2f&hm=ebdab698a106613bc3a398a69e92e568230c681730d95ac1826c4c64472f93fc&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832809639157790/image.png?ex=6accdfaf&is=6acb8e2f&hm=0584e40cf9b891fcb5d8e8f61f771e92060fccd9563af233ab7e97ab26abb064&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832810092138577/image.png?ex=6accdfaf&is=6acb8e2f&hm=67ac9b3242e11c0de9bec4a163732839e1b787d6a64cd97582b4d086779c788e&",
+        "https://cdn.discordapp.com/attachments/1500851844233166868/1558832810511310848/image.png?ex=6accdfaf&is=6acb8e2f&hm=eb15dac93083c7e5141190489a0b07a01416705b1bafbafbdbb072858322ea73&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T15:28:29+02:00",
+      "channel": "débrief-prime",
+      "content": "5 minutes de pause pour les élèves avant de reprendre le debrief.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T15:28:32+02:00",
+      "channel": "infos-live",
+      "content": "15h27 - Lydia propose une petite pause durant le debrief, l’occasion pour les académiciens d’aller boire et manger. Leeloo craque elle n’est pas contente de sa prestation. Les filles et 2 garçons sont là pour elle, ils la rassurent en lui disant que ça se trouve c’est elle la semaine prochaine qui ferra une bête de prestation et eux non. Leeloo parle de honte, elle a peur d’appeler sa mère ce soir.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T15:28:38+02:00",
+      "channel": "infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558833710449561700/IMG_9907.png?ex=6acce086&is=6acb8f06&hm=b7e5a82130fdb71c70c80031786ebe64ffee67a504ecc3f737f92457bc16132c&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T15:29:38+02:00",
+      "channel": "infos-live",
+      "content": "15h28 - Melina propose d’aller s’isoler avec elle, elle lui dit qu’elle n’a pas vu son oubli de parole, elle avait la pression de passer la première. Isabella vient lui dire la même chose, que les premières personnes à passer c’est encore plus normal qu’elles stressent.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T15:30:06+02:00",
+      "channel": "infos-live",
+      "content": "15h29 - Lydia vient les rechercher, le debrief va continuer. La suite dans ✍🏻・débrief-prime !",
+      "image_urls": []
     }
   ]
 }
