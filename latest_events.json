@@ -1,43 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T17:00:04+02:00",
-  "period_end": "2026-10-11T19:00:04+02:00",
-  "updated_at": "2026-10-11T19:00:04+02:00",
+  "period_start": "2026-10-11T17:20:04+02:00",
+  "period_end": "2026-10-11T19:20:04+02:00",
+  "updated_at": "2026-10-11T19:20:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T17:06:15+02:00",
-      "channel": "débrief-prime",
-      "content": "Prestation de : Antoine & Morgan\n\nLe temps — de Tayc\n\nLydia conseille à Antoine de se relâcher et de sortir de sa tête, puis aide Morgan à mieux doser son énergie entre chant et danse. Antoine se dit très déçu par le décalage entre son ressenti et la réalité, tandis que Morgan veut apprendre à mieux équilibrer voix et mouvement.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:06:50+02:00",
-      "channel": "débrief-prime",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858419727892550/Capture_decran_2026-10-11_165201.png?ex=6accf789&is=6acba609&hm=69f9058017cc75365827aa1edf795348f7ea01a92df22565c419c3251a36b464&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858420139069560/Capture_decran_2026-10-11_165256.png?ex=6accf789&is=6acba609&hm=27aa230ea141def3341c9ac1b5082fe8ddb1191d5b73de2faf720b6c72005c69&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858420965089421/Capture_decran_2026-10-11_165304.png?ex=6accf789&is=6acba609&hm=f18c47e406ded68fdac79546ed91a16d1f29388841d600e2b7b99ff637f5d048&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558858421774712882/Capture_decran_2026-10-11_165309.png?ex=6accf789&is=6acba609&hm=3ea0f64c8402e4ece75da05ede9ca5e9bb5dd5ad1a7f7546c3be5f02a0520cc7&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T17:16:38+02:00",
-      "channel": "débrief-prime",
-      "content": "Prestation de : Amel\n\nKilling Me Softly With His Song — des Fugees\n\nLydia a aimé l'introduction et encourage Amel à prendre son temps sur scène, puis à libérer le groove qu'elle possède déjà dans le corps et la voix. Amel craignait de manquer d'énergie en passant la dernière, mais reste contente de sa prestation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T17:16:53+02:00",
-      "channel": "débrief-prime",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860951753723936/Capture_decran_2026-10-11_170659.png?ex=6accf9e5&is=6acba865&hm=0a9a4a554f7851b743b2b3dafde3f019869db1fb1255c384b0957592f02dd2fb&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860952147857559/Capture_decran_2026-10-11_170704.png?ex=6accf9e5&is=6acba865&hm=5e579e7dd563f035421dd0c798a7c17e297f204dc06197d7939af0c62422dd1e&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860952521416785/Capture_decran_2026-10-11_170929.png?ex=6accf9e5&is=6acba865&hm=cbceadf4bfe86459a58d1077a52bb8242b4441216e3b4fd9e228117268d5061f&",
-        "https://cdn.discordapp.com/attachments/1500851844233166868/1558860952911482901/Capture_decran_2026-10-11_171052.png?ex=6accf9e5&is=6acba865&hm=141909192e9836ecd1a073eb619e5e1bc07e6a638407871375690b9007a9f6bb&"
-      ]
-    },
     {
       "timestamp": "2026-10-11T17:20:08+02:00",
       "channel": "débrief-prime",
@@ -519,6 +485,198 @@
       "timestamp": "2026-10-11T18:58:10+02:00",
       "channel": "infos-live",
       "content": "18h57 - Fanny trouve ça super pour une première ! Elle annonce qu’ils vont à présent travailler en petits groupes.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:00:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bien sympa cette première heure avec vous ! Je vous laisse en compagnie d' @𝑨𝒔𝒕𝒓𝒊𝒅 🌙  !   ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:01:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Merci à @Christophe , dont l'humour nous fait toujours autant rire ! Nous nous retrouvons pour une petite heure ensemble pour suivre les répétitions sur l'hymne. C'est parti, ça tombe bien j'ai terminé ma skin care ! ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:02:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:00 - Amel vient de terminer les répétitions pour l'hymne avec les répétitrices.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:02:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558887567477444698/Capture_decran_2026-10-11_190125.png?ex=6acd12ae&is=6acbc12e&hm=e075ca252f76fbdf63ed791ff75a1b71e28d2c03d3cde901c257392010341f32&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:03:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:02 - Pendant ce temps, certains des élèves sont dans la cuisine. Nous retrouvons Félix, Kylian et Ydriss près du frigo.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:03:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:03 - Ydriss mange un peu. Tracy chante un peu l'hymne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:04:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure Escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:04:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558887983313059952/image.png?ex=6acd1311&is=6acbc191&hm=68520315a976b6f8011948e416af01fe7bf143e2681be3389595db86229418b1&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:05:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:04 - Kylian fait remarquer à Tracy qu'elle a la bonne tonalité. Lui, dit qu'il n'a pas la bonne tonalité. Ydriss, pas loin, explique qu'il a peur de l'hymne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:06:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:05 - Zoé propose à Kylian de se rendre en salle de théâtre. Il est sceptique, et ne semble pas décidé à s'y rendre. Il veut se concentrer sur sa tonalité.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:06:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558888488085225663/image.png?ex=6acd138a&is=6acbc20a&hm=8ca1f092cb019578465cf7aa7ea39426041fc05756b82ee1ba306e9d4650600f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:06:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure Escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:07:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:06 - Finalement, Zoé reste dans le salon avec Leeloo et Elija.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:08:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:07 - Les filles répètent un peu l'hymne. Zoé et Leeloo sont très concentrées sur les paroles.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:09:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:08 - Pendant ce temps, Antoine et Brieuc sont en salle de chant avec Philippine. Antoine explique qu'il ne sait pas quel timbre choisir. Il hésite, ne sait pas s'il doit mettre du souffle et explique n'avoir pas de difficulté sur la tonalité.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:10:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558889427504332942/Capture_decran_2026-10-11_190737.png?ex=6acd146a&is=6acbc2ea&hm=5a6daca3080ed636b50d80aaeea643a9b1d61d405c98b3c73a28048995712af0&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558889427902922902/Capture_decran_2026-10-11_190741.png?ex=6acd146a&is=6acbc2ea&hm=3e727b3c7f49be5d1b5d73b6046e2fdbad49f89712f521de1e1688537c09d391&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558889428259315752/Capture_decran_2026-10-11_190830.png?ex=6acd146a&is=6acbc2ea&hm=48d307d71e6b235ed3eb5d8c6b487c7d84793051173ae13741271f60eb10567b&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558889428640993492/Capture_decran_2026-10-11_190950.png?ex=6acd146a&is=6acbc2ea&hm=0ac676424877dab50a0d10b549b5db384aaf873b46b2e37b79e9b605256b7fd2&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:10:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:10 - Pour Philippine, Antoine ne doit pas s'effacer et prendre un timbre naturel.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:11:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:11 - Antoine commence à chanter. Philippine explique qu'il n'y a pas de notes plus hautes que les autres dans le passage. Antoine prend des notes.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:12:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:12 - Philippine demande si Antoine a l'habitude de chanter avec des orchestres. Ce n'est pas le cas. Il dit qu'il chante très simplement.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:12:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558889937175056425/image.png?ex=6acd14e3&is=6acbc363&hm=2c45970bc8f23e5013ff5cfaf818bd080e6b3f099755f4fa54b47b4da69a98bb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:12:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:12 - Au tour de Brieuc de chanter. Il dit ne pas connaitre vraiment ce titre de Céline Dion.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:13:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:13 - Philippine trouve que Brieuc se débrouille très bien. Pour elle, le grand défi pour les garçons est de comprendre les paroles avant de la chanter. C'est important de savoir ce qu'on chante.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:14:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558890451535134860/Capture_decran_2026-10-11_191230.png?ex=6acd155e&is=6acbc3de&hm=7f3c95c50e0f79f29abcbbda6488031be6f2e4b96a6ce8e91240157d70eced9f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558890452122476604/Capture_decran_2026-10-11_191259.png?ex=6acd155e&is=6acbc3de&hm=44c2bcec1bc9af718f9f4c36141e3478aa1a62adde2730e94a0a084161f0b662&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:14:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:14 - Brieuc et Antoine trouvent qu'ils ont le même timbre de voix. Philippine dit que ça l'arrange.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:16:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:15 - Antoine et Brieuc chantent ensemble.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:17:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:16 - Antoine veut connaitre le sens global des paroles. Philippine dit ''le temps passe, mais pas le temps de s'en préoccuper. Il faut bouffer la vie à pleine dent''.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:18:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "En gros, il faut vivre la vie à fond.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-11T19:18:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1558891646639276254/image.png?ex=6acd167b&is=6acbc4fb&hm=25aaedda96721d522cd26fac2f82396cedc778e99d07d1687ad8327232bd2636&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11T19:19:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:18 - Philippine propose de chanter à nouveau l'hymne, cette fois-ci uniquement a cappella. Antoine rigole car il ne sait pas lire les paroles. Brieuc lui montre que c'est en bleu.",
       "image_urls": []
     }
   ]
