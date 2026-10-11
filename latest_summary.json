@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Le live passe en pause",
-  "summary": "Le direct s’est interrompu pour la pause ARCOM, avec un retour annoncé une heure plus tard.",
+  "title": "🔴 La musique reprend au château",
+  "summary": "La pause ARCOM a pris fin et le live a repris avec Isabella au piano, qui a aussi confié venir de La Réunion. Pendant qu’Antoine se détendait sur la balançoire, plusieurs académiciens ont repris Shallow ensemble.",
   "kind": "half_hour_summary",
-  "period_start": "2026-10-11T12:00:52+02:00",
-  "period_end": "2026-10-11T12:40:44+02:00",
-  "updated_at": "2026-10-11T12:40:44+02:00"
+  "period_start": "2026-10-11T12:40:44+02:00",
+  "period_end": "2026-10-11T13:17:21+02:00",
+  "updated_at": "2026-10-11T13:17:21+02:00"
 }
