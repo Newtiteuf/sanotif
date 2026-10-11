@@ -1,47 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T18:10:04+02:00",
-  "period_end": "2026-10-11T20:10:04+02:00",
-  "updated_at": "2026-10-11T20:10:04+02:00",
+  "period_start": "2026-10-11T18:20:04+02:00",
+  "period_end": "2026-10-11T20:20:04+02:00",
+  "updated_at": "2026-10-11T20:20:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T18:10:20+02:00",
-      "channel": "infos-live",
-      "content": "18h09 - Sans transition, Elija nous interprète « Concerto pour un aspirateur » dans le couloir.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:11:38+02:00",
-      "channel": "infos-live",
-      "content": "18h10 - Ça part en medley dans le salon !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:12:22+02:00",
-      "channel": "infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558874915422076959/image.png?ex=6acd06e6&is=6acbb566&hm=fb8d65c1e8f56872d41d5e2dd953d1d446d78b4d742133340ee011735dad3569&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T18:13:55+02:00",
-      "channel": "infos-live",
-      "content": "18h12 - On entend de la musique qui vient d’un peu partout.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:15:40+02:00",
-      "channel": "infos-live",
-      "content": "18h14 - Kylian et Noémie discutent dans le jardin, devant le château.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T18:18:39+02:00",
-      "channel": "infos-live",
-      "content": "18h18 - Cinq élèves écoutent l’hymne au théâtre.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-11T18:20:33+02:00",
       "channel": "infos-live",
