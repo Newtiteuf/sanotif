@@ -1,178 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T15:30:03+02:00",
-  "period_end": "2026-10-12T17:30:03+02:00",
-  "updated_at": "2026-10-12T17:30:03+02:00",
+  "period_start": "2026-10-12T16:00:03+02:00",
+  "period_end": "2026-10-12T18:00:03+02:00",
+  "updated_at": "2026-10-12T18:00:03+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T15:34:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h34 - Reprise du live en direct.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:35:55+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h34 - Ydriss est dans la cuisine avec Amel et s'entraine sur Tu n'es plus là d'Amel Bent. Visiblement il utiliseras d'autres élèves pour sa scénographie.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:36:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559197973450334289/image.png?ex=6ace33c5&is=6acce245&hm=6120905f65d18af278fac7713429e6d248502f44d656d064a26d69ccb9f5b8b2&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:37:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h36 - Amel participera à l'évaluation d'Ydriss. Il a des idées dans sa tête, elle lui demande de tout écrire et d'aller voir les élèves concernés pour leurs expliquer ce qu'il faudra faire.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:39:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h38 - Mélina est dans la salle de bain avec Zoé et Tracy. Elles parlent de Sofia, disent que c'est conseils sont géniaux. Mélina ajoute que Sofia fait parti des plus grandes personnes en tant que coach vocal.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:39:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559198777431040000/image.png?ex=6ace3485&is=6acce305&hm=b76d284a8626f7ae3243dfaf016cebacdddae2f6c90720f9c8ebeacb9f2a2805&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:40:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h39 - Zoé dit que Sofia est trop mignonne. Elle demande à Mélina si lorsqu'elle chantait elle l'a regardait dans les yeux. Elle n'a pas osée",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:41:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h41 - Direction la cuisine . Ydriss révise.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:42:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h41 - Leeloo se met dans le canapé avec Elija. Elles parlent de leurs évaluations.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559199562596491324/image.png?ex=6ace3540&is=6acce3c0&hm=ce0c1ba62c324ca552e1a9b55e0d3d22f92059aa9c6ad74a9ceb80002d410d1d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:44:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h42 - Morgan et Zoé sont en cuisine. Morgan veut faire bouillir de l'eau pour faire des inhalations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:45:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h44 - Les deux élèves exprime leurs \"dégoût\" par rapport au fait de passer après les autres, manger après les autres. Morgan dit qu'il ne peut manger qu'après les personnes qu'il connait vraiment bien.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:45:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h45 - :escalier:",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:46:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h46 - Antoine et Mélina sont partis au théâtre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:47:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h46 - Tandis que Kylianet Maud sont au foyer. Ils répètent All of Me de John Legend. Maud est au piano et Kylian au chant.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559200853599199313/image.png?ex=6ace3674&is=6acce4f4&hm=9375f5cb59c9abd6ec815ef62d2faecf1b6bcfb79ccf8bb02bf46d3ca8201a48&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:50:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h49 - Amel s'est isolée dans la chambre . Munie d'une guitare , elle semble réviser pour son évaluation.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559201624075931658/image.png?ex=6ace372b&is=6acce5ab&hm=bbf4f92589630cc2226d8f9c8e52f59e209ae31b6f16e8cb4108de1322b226b0&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:51:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "15h51 - SONNERIE, direction 💃・cours-de-danse . ✨",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:54:58+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Jonh insiste sur les retards, il demande aux élèves de ne pas arriver en retard, il ne supporte pas ça.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:55:50+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Il parle maintenant du tableau C/D, il explique que cette année tout les élèves seront volontaires sauf si quelqu'un se manifeste contre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:56:09+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559203021823672450/image.png?ex=6ace3878&is=6acce6f8&hm=fefd8a0525e411b7812e1fff13c1a462331904cc8971c51f28068be9d6fc1a47&",
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559203022251233290/image.png?ex=6ace3879&is=6acce6f9&hm=d62535406f3fec396ba33b618591af8be2e5d2cc90e96660f9a9c056df6cdac5&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:56:48+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Dans ce cours aujourd'hui, ils vont apprendre la chorégraphie pour l'hymne. Jonathan explique que cette année la chorégraphie est accessible à tous.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:57:19+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Après avoir vu le niveau de danse des élèves, il les classera dans quatre catégories : A, B, C et D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:58:25+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Les élèves se déchaussent , prennent l'espace dans la salle. Jonathan fait quelques d'exercices d'échauffement avant d'apprendre la chorégraphie.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:58:39+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559203652554457318/image.png?ex=6ace390f&is=6acce78f&hm=9896766a859c5732b953a6b834e5e9355ce8b5728893de722684a9a8b8d54c11&",
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559203652944797696/image.png?ex=6ace390f&is=6acce78f&hm=fe5824b0e4c263f55c0d2135b40e3bf37344acae08bf5a9f59dd8d1f2e9f945c&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T15:59:07+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Quelques rond de tête, d'épaules. En avant, en arrière et sur le côté.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T15:59:57+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559203979060056125/image.png?ex=6ace395d&is=6acce7dd&hm=8fdced7bf6b8144ef150fc142b1d25c82da1f4d8f059561688e5741ac4a619da&",
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559203979404124160/image.png?ex=6ace395d&is=6acce7dd&hm=96ea9ea91188ea1d5b91ef6b5f5e4be13ef51cc23042fde06e1b11942cc0f65e&"
-      ]
-    },
     {
       "timestamp": "2026-10-12T16:00:43+02:00",
       "channel": "💃・cours-de-danse",
@@ -881,6 +712,33 @@
       "timestamp": "2026-10-12T17:29:50+02:00",
       "channel": "🔴・infos-live",
       "content": "17h28 - Zoé et Mélina discutent, Zoé montre ses amis qui sont sur ses photos dans la chambre, elle dit qu'ils l'ont vue grandir, ils lui apportent beaucoup de force. Amel est également dans la chambre, elle ajoute que pour Ydriss et Félix ce n'est pas évident car aux primes il n'y aura pas forcément de proches là pour eux.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T17:30:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "17h30 - Zoé dit que ses proches étaient au prime et que ça lui a donné beaucoup de force. Amel confirme, et la minute de téléphone les rebooste même si c'est court, ils savent qu'ils sont là aussi le reste du temps.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559226825996116088/image.png?ex=6ace4ea4&is=6accfd24&hm=71248cd396c926177a77f504da4edd28d406ae3c3dea0850da65d3e034d22eee&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559226826423799879/image.png?ex=6ace4ea4&is=6accfd24&hm=cb5a4f81e4fa37eda7247b4a198d517a1cd24cc6cbe050ccbbd40517c3fd1eb2&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T17:31:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "17h31 - Khalil demande à Zoé de faire sa muse pour sa répétition d'évaluation.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T17:32:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Amel ne retrouve pas son mp3, il était dans son jogging.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T17:32:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "FIN DU LIVE, REPRISE APRÈS LA QUOTIDIENNE 📺・quotidienne. Des bisouuuus.",
       "image_urls": []
     }
   ]
