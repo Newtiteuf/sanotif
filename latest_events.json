@@ -1,285 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T17:00:03+02:00",
-  "period_end": "2026-10-12T19:00:03+02:00",
-  "updated_at": "2026-10-12T19:00:03+02:00",
+  "period_start": "2026-10-12T17:30:03+02:00",
+  "period_end": "2026-10-12T19:30:03+02:00",
+  "updated_at": "2026-10-12T19:30:03+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T17:00:54+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Elija fait un peu la chorégraphie à sa sauce mais sa personnalité ne transparaît pas. Elle doit trouver un moyen de bien faire la chorégraphie tout en montrant sa personnalité. Il hésite entre D et C mais choisit D car elle va progresser vite.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559219319009714328/image.png?ex=6ace47a6&is=6accf626&hm=2b473a64518e841ad6b72c016340747b61c214e8313c5b16c9221eeef8a5ab8f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:02:02+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Au tour de Kylian qui aurait bien aimé pouvoir se cacher. John a l'impression qu'il n'essaye pas et part défaitiste. Il doit mettre plus d'énergie et moins réfléchir. Il va dans le groupe D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:03:01+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Khalil est à fond et essaye donc John est content, ça fait plaisir à regarder, il va dans le groupe C.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:04:20+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Cameron n'est pas du tout à l'aise avec l'exercice mais il se lance, encouragé par les autres élèves. Jonathan dit qu'il a un petit swag, une petite énergie et c'est cool, il doit travailler sur son regard qui est fuyant pour le moment, et sa langue sortie qui indique clairement qu'il n'est pas à l'aise. Cependant il connaît la chorégraphie et va progresser ! Groupe D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:05:17+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Amel passe ensuite, elle a mis de l'énergie comme demandé. Si elle avait mis cette énergie dès le début du cours, elle aurait encore plus progressé. Elle va dans le groupe C.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559220423378337812/image.png?ex=6ace48ad&is=6accf72d&hm=6d4c8a1ff2c28885716d64e11792baf205cde784fb0476e2ff68056f7cead983&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:06:20+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Au tour de Noémie, elle dit avoir un problème de mémoire, John confirme et dit qu'elle a aussi un problème de coordination et de musicalité. Elle n'était pas sur la musique, elle va pour le moment en groupe D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:07:23+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Brieuc se lance, il a des problèmes avec le poids du corps, ce sont des chemins qu'il n'a pas trouvé et qu'ils vont bosser ensemble. Il doit aussi danser plus grand. Il va dans le groupe D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:08:32+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Et la dernière à passer est Zoé, John est impressionné, c'est très propre et il y a tous les détails. Il va lui apprendre à mettre sa personnalité et sa patte. Sans surprise, elle va dans le groupe A !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:09:00+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Ils repassent maintenant groupe par groupe.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559221357215227914/image.png?ex=6ace498c&is=6accf80c&hm=1f5c4ac751194f052d0beafa17f83dbde7e4df221ac50bf47edf8a0896d5b9ef&",
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559221357542244382/image.png?ex=6ace498c&is=6accf80c&hm=1a435582778fa62053e6bc3c71a5f1b17a70c7769f5f9098a72f3cbd478f8476&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:09:25+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Elija monte dans le groupe C.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:10:03+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Félix descend dans le groupe D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:11:34+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Tous les groupes sont passés, John leur demande s'ils peuvent se mettre en section dans leurs groupes.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:12:23+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Il les remercie pour ce premier cours, il est très content de faire cette aventure avec eux et espère que c'est réciproque. Ils ont appris aujourd'hui la chorégraphie pour le prime, et rassure le groupe D, ils ne peuvent que progresser.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:12:33+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Ils ne doivent pas s'excuser et vivre les choses à fond.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:13:11+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Le groupe A a une mission, Morgan doit vérifier que tous les garçons fassent la chorégraphie au moins 5 fois par jour jusqu'au prime, Zoé a la même mission pour les filles.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:13:42+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Jonathan explique au groupe A qu'ils auront un micro main au prime, il leur montre la version qu'ils vont devoir apprendre aux élèves.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:14:05+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559222635362254918/image.png?ex=6ace4abd&is=6accf93d&hm=5b6371a70e464663280422e9334c85736391616a0d27263f4578ee360e6b6e94&",
-        "https://cdn.discordapp.com/attachments/1500851917247746178/1559222635756527646/image.png?ex=6ace4abd&is=6accf93d&hm=a54fb7692422ee249e6bca75fb9a69334899d66fdd9320d0d54cf5451d744054&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:15:08+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Antoine discute avec Jonathan, il dit qu'il a déjà appris une chorégraphie par le passé et que c'était compliqué. John le rassure, il va progresser.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:15:28+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "Leeloo le remercie pour le cours.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:15:29+02:00",
-      "channel": "💃・cours-de-danse",
-      "content": "FIN DU COURS DE DANSE",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:16:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h15 - Les élèves quittent la salle de danse, direction le château !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:16:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h16 - Ils disent qu'ils vont avoir les annonces du prime.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:16:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559223246287675422/image.png?ex=6ace4b4e&is=6accf9ce&hm=c87ab30ecf94c043c06bb821c86439e82de48f03c02321c44ae5019581499e94&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:16:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Mon premier plan escalier de la saison",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:18:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h18 - Un groupe d'élèves va aller réviser au théâtre, Mélina rassure Kylian sur la danse de l'hymne. Il s'inquiète aussi pour les évaluations de demain, il craint qu'il n'y ait de la danse.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:19:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h19 - Morgan dit que demain ils leur apprendront la version de la danse avec micro en main.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:20:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Zoé lui demande si c'est 5 répétitions par jour à partir d'aujourd'hui, il ne pense pas.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:20:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Eux doivent répéter la version avec micro pour ne pas l'oublier.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:20:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h20 - Il dit finalement qu'il doit arrêter de la faire sinon il va l'oublier.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:21:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h21 - C'est l'heure du goûter pour certains élèves, ils disent qu'ils sont contents de la chorégraphie.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:23:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h22 - Leeloo et Maud sont au foyer, Kylian aussi mais il quitte la pièce.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559224879805370388/image.png?ex=6ace4cd4&is=6accfb54&hm=f65058b2bb64e216b28828e40dc1270ddab5bef0f55cca5f11ab20611496ea26&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:23:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h23 - Kylian semble visiblement traumatisé par le cours de danse... Courage",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559224988223930519/image.png?ex=6ace4cee&is=6accfb6e&hm=aca830932fcd5864e85f9b338e99ca17e56642bb847557753ddd7d73624fea0c&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:23:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan salle de danse",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:24:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h23 - Il a rejoint Tracy qui révise en salle de chant pour les évaluations de demain.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:25:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan escaliers",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:25:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Flashback",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:26:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Sofia demande à Cameron de répéter la phrase « Ecoutez-moi, j'ai des choses à vous dire ». Il doit relacher sa sangle abdominale et respirer comme s'il voulait pousser ses mains.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559225802388799578/image.png?ex=6ace4db0&is=6accfc30&hm=ec869e2b29c3be63cf9f5befe629ae3b38cc9434ffff233cb94f6fcd10f93790&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T17:26:55+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Sur l'inspiration, il doit faire comme s'il avait pris une pastille de menthe.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:27:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Il doit rechanter le début de sa chanson de prime en appliquant ces conseils.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:28:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Elle lui fait répéter en parlant, puis en chantant.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:28:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Il doit apprendre à respirer car il ne sait pas respirer. Mais il n'est pas le seul !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:28:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Fin du flashback",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T17:29:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h28 - Zoé et Mélina discutent, Zoé montre ses amis qui sont sur ses photos dans la chambre, elle dit qu'ils l'ont vue grandir, ils lui apportent beaucoup de force. Amel est également dans la chambre, elle ajoute que pour Ydriss et Félix ce n'est pas évident car aux primes il n'y aura pas forcément de proches là pour eux.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T17:30:44+02:00",
       "channel": "🔴・infos-live",
@@ -532,6 +256,221 @@
       "timestamp": "2026-10-12T18:59:48+02:00",
       "channel": "🔴・infos-live",
       "content": "18:59 - Philippine trouve que les élèves arrivent à mettre de l'âme dans leur interprétation. Au tour de Tracy de chanter.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:00:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Faut que j'envoie ces lettres\nFaut que je rappelle mon père, d'abord\nFaut que je prévoie cette fête\nQue j'ai promis de faire pour le disque d'or",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:01:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:00 - Philippine dit découvrir les élèves autrement. Elle a conscience qu'il y aura un seul élève qui chantera avec Ben Mazué, mais pour elle, ils ne doivent pas oublier cet exercice car ça leur servira plus tard.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:02:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:01 - Cameron passe et épate ses camarades.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:02:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559249861776244939/image.png?ex=6ace6418&is=6acd1298&hm=bdd2eb3fc31679c3b8ee1bea61cd89ae8b6d2eede2c926a24c5a1e5242781f44&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:03:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:02 - Au tour de Kylian de chanter. Philippine trouve que ça fait du bien de l'entendre chanter en parlant. Elle le compare à un agneau apeuré car il donne l'impression de ne pas être certain de lui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:03:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:03 - Mélina passe et Philippine trouve que c'est l'enfer car ils ont tous leur petite particularité.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:04:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559250360340709457/image.png?ex=6ace648f&is=6acd130f&hm=2b212b88a7c9a5f24d9e3852af64a3ff87aa72d044d32622d98e07321237ae04&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:05:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:04 - Philippine vérifie si elle a encore un peu de temps. C'est le cas, donc elle continue sur un autre passage du titre ''Quand je marche'' de Ben Mazué.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:06:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:05 - Philippine dit qu'elle a vu les capacités des élèves. Elle les rassure, la suite ne sera pas éliminatoire. Elle propose à Antoine d'essayer le passage qu'elle a sélectionner.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:06:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Antoine : ''Ce n'est pas évident''.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:07:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559251090656985209/Capture_decran_2026-10-12_190524.png?ex=6ace653d&is=6acd13bd&hm=ba0d258ffc416bdc4d069027655752caa98ddd35504fe8adc8c521a30aff8eb9&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559251091143659570/Capture_decran_2026-10-12_190636.png?ex=6ace653d&is=6acd13bd&hm=44b851ee44fade7dfc629db9c34d581aa5db70c1d04e69a52d52f1a8653b9646&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559251091458228344/Capture_decran_2026-10-12_190639.png?ex=6ace653d&is=6acd13bd&hm=100b878b6b42433bcd624d98a98f3d971ef5442c97be28093e50928e1dad51ad&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559251091860758639/image.png?ex=6ace653d&is=6acd13bd&hm=f7661a6a289dd8ed3377b525633283395ec7402269dd0bd512f2cefbb0b734eb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:07:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Philippine demande à qui est le stylo qu'elle a dans les mains, elle ne veut pas le piquer. Une première à la Star Ac, une répétitrice qui pique des stylos ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:08:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:07 - Maud et Khalil passent. Ce dernier dit avoir un peu bégayé et recommence.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:09:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:08 - Philippine continue à dire que ça va être difficile pour Ben Mazué.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:10:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:09 - C'est au tour de Tracy, puis d'Isabella.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:11:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:10 - Nouveau passage de Kylian, ou Kiki pour Philippine. Il semble être beaucoup plus content de ce qu'il vient de chanter.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:11:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559252222280208454/image.png?ex=6ace664b&is=6acd14cb&hm=7b55352c356f074666e82abd82de04c2ad90fe057b04063411ecbff6e872d295&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:11:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:11 - Cameron passe, et c'est toujours unanime auprès de ses camarades.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:13:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:12 - Melina est la dernière a passer. Philippine propose un petit moment d'applaudissement. Elle a hâte de le voir au château et dit que ce sera un moment génial pour les élèves.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:13:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure Escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:15:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:14 - Les élèves sont sur le départ. Philippine a besoin de Morgan, Ydriss, Isabella.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:17:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:15 - Sur le chemin de retour au château, Antoine et Cameron discutent. Antoine dit qu'il se verrait bien faire un trio avec Ben Mazué et Cameron. Il trouve que la chanson va vraiment bien à son camarade. Puis, il enchaine en exprimant sa frustration de faire une prise de tonalité phrase par phrase. Enfin, il dit trouver que les couplets vont bien aux filles.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:18:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559253837515063366/Capture_decran_2026-10-12_191513.png?ex=6ace67cc&is=6acd164c&hm=9385f5bc0632a9fd0003c9aad768dec2768b06b55d1e4a45d97f358f9e94c236&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559253838081429565/Capture_decran_2026-10-12_191536.png?ex=6ace67cc&is=6acd164c&hm=775608ffa7cb170d508b16fe0d0878cfd52ab8138e0cc0c1b066f30d6806d194&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559253838433746994/Capture_decran_2026-10-12_191548.png?ex=6ace67cc&is=6acd164c&hm=57a2a8fd75f9d8673e6c7db44eeb600167a5949da9f578275b33c9dcf3ae3e61&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559253838903386172/Capture_decran_2026-10-12_191639.png?ex=6ace67cc&is=6acd164c&hm=a40db313d574d588626802c5fd6f187242116ca88dc54a0f7b0c197d8fc2f1c8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:19:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:18 - Dans le salon, Maud est au piano. Elle accompagne Antoine et Cameron qui chantent sur ''Quand je marche'' de Ben Mazué.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:20:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:19 - Maud, Antoine et Cameron chantent les uns après les autres.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:21:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:21 - Maud propose de changer de couplet, mais ça convient aux garçons de rester sur celui qu'ils chantaient.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:22:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559254882895003648/Capture_decran_2026-10-12_192107.png?ex=6ace68c5&is=6acd1745&hm=8c67adf14a9e2b37fc63dc166455ee9f74bbdf5381a9e63f9ae484a78c381143&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:23:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:23 - Antoine dit qu'il veut se concentrer sur son évaluation. Il a encore beaucoup de travail à faire.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:24:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:24 - Antoine vient de retrouver son MP3. Il est choqué et dit que sa vie va changer aujourd'hui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:25:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:25 - Nous retrouvons Philippine toujours en salle de chant pour la prise de tonalité sur ''One Track Mind'' de Naïka. Pour le moment, ça écoute surtout le titre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T19:27:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559256212384649347/Capture_decran_2026-10-12_192413.png?ex=6ace6a02&is=6acd1882&hm=ab65e9c075782fd8d8a5ff26483cbb01c9a462ee802a3285c86d082d7009b750&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559256212766326984/Capture_decran_2026-10-12_192555.png?ex=6ace6a02&is=6acd1882&hm=ab7757e04fdf0bb29d0fcf261ef6e6df3713197b120b2ddb670211f6826beb1f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559256213135556678/Capture_decran_2026-10-12_192559.png?ex=6ace6a02&is=6acd1882&hm=71dd7efd42dcf7b727a852205ada2ec0a762ce1f5f969ee733531fd3ea9a9a56&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559256213479235605/Capture_decran_2026-10-12_192717.png?ex=6ace6a02&is=6acd1882&hm=9c9ea479a3933cc1d0e16a9dc3fcd59cfd8bc3ca409b0b2c90098f042b0a2a0e&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T19:28:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:27 - Philippine tient à rassurer les élèves présent. Elle cherche avant tout à trouver la personnalité de l'élève qui correspondra le plus à Naïka, et n'est pas là pour juger.",
       "image_urls": []
     }
   ]
