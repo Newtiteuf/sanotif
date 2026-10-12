@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Réveil avant les évaluations",
-  "summary": "Les académiciens se sont réveillés et préparés dans une ambiance tranquille, entre salle de bain, petit-déjeuner et quelques plaisanteries matinales. Le planning annonce un cours de chant à 13 h, tandis que le thème des évaluations doit être dévoilé vers 9 h 30. La prise de tonalités et l’annonce des artistes du prochain prime sont prévues à 17 h 30. Dans la cuisine, les élèves se rassemblent progressivement et se montrent déjà très attentifs à ne pas être en retard.",
+  "title": "🔴 Les évaluations se dévoilent",
+  "summary": "Le directeur a dévoilé le thème des premières évaluations : « Se mettre en valeur, vous et vos atouts ». Les élèves devront choisir parmi une vingtaine de chansons imposées, expliquer leur choix et révéler leur singularité, avec des paroles idéalement apprises par cœur. Le prochain prime comprendra aussi le premier autoportrait de la saison, un tableau chanté-dansé offrant une place en tournée et le top 3.",
   "kind": "half_hour_summary",
-  "period_start": "2026-10-12T02:00:05+02:00",
-  "period_end": "2026-10-12T09:30:03+02:00",
-  "updated_at": "2026-10-12T09:30:03+02:00"
+  "period_start": "2026-10-12T09:30:03+02:00",
+  "period_end": "2026-10-12T10:00:03+02:00",
+  "updated_at": "2026-10-12T10:00:03+02:00"
 }
