@@ -1,166 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T23:00:04+02:00",
-  "period_end": "2026-10-13T01:00:04+02:00",
-  "updated_at": "2026-10-13T01:00:04+02:00",
+  "period_start": "2026-10-12T23:30:04+02:00",
+  "period_end": "2026-10-13T01:30:04+02:00",
+  "updated_at": "2026-10-13T01:30:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T23:01:37+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h00 - Zoé demande à Cameron qui il va appeler.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:02:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h01 - Au théâtre, Mélina apprend à Noémie à bien contrôler sa respiration.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:04:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h03 - Noémie répète son évaluation devant Mélina, qui lui donne des conseils.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:04:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559310746603753472/image.png?ex=6ace9ccc&is=6acd4b4c&hm=e73800d836a746433baa0708e7ad77e183caa0b2b92e53f48704be1bc571faad&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:05:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h05 - Mélina conseille à Noémie d’y aller sans les paroles et d’inventer si elle se trompe.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:06:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559311272686788629/image.png?ex=6ace9d4a&is=6acd4bca&hm=070d9568da8c5a41e16d2361b7ed8b82d44d6c9dcf6304038256d141c079fe74&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559311273123119114/image.png?ex=6ace9d4a&is=6acd4bca&hm=5f2938c0dee9c39a6d2d6be93d221bd650c7ce1ee9fffc5b66cd8d35361258cc&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:09:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h07 - Noémie s’en sort bien. Mélina lui dit que c’était top et signale une note oubliée dans le troisième refrain.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:09:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h09 - Noémie reprend la chanson sous le regard bienveillant de Mélina.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:09:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559312169106022480/image.png?ex=6ace9e1f&is=6acd4c9f&hm=b2d6466c6a9a0b408ba3df71a995d5d1a514a0a405c516a7fbb14cb0ab8958f1&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:11:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h10 - Elija explique à Tracy, Leeloo, Zoé et Félix comment elle utilise les bons et mauvais moments de sa vie.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:12:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h11 - Leeloo dit ne pas avoir le timbre le plus reconnaissable mais veut que chaque mot compte.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:12:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h12 - Leeloo et Tracy parlent de leur goût pour la cuisine malgré le manque de temps.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:12:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559312934310649927/image.png?ex=6ace9ed6&is=6acd4d56&hm=2a9080db4c7a04195e5b73c050a392c794801780c7d0a4581cf9d6a0135e7573&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:15:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h14 - Après un bug de retransmission, Tracy range les restes au frigo et Leeloo mange. Relais à Kevin D.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:16:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h15 - Plan escalier pour l’accueil du nouveau rédacteur.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:18:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Transition vers un plan château.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:23:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h22 - Reprise du live : Cameron joue une composition personnelle à la guitare dans le salon, Tracy l’écoute.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:23:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559315648159686697/Screenshot_20261012_232230_TF1.jpg?ex=6acea15d&is=6acd4fdd&hm=56eb0be26b82d4cd72d5e703f0ee9ddcf8bec234f896cc26cd99885b92f14cba&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:24:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Avis du rédacteur : une jolie proposition.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:25:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h25 - Morgan prend la guitare et son carnet de textes pour jouer une composition personnelle.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:25:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559316183352746034/Screenshot_20261012_232445_TF1.jpg?ex=6acea1dc&is=6acd505c&hm=6e4e4efe55b710f5de1f772a28c54d6b531fd0c525d0582d2064d3897b3e943b&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:27:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "La composition de Morgan est également appréciée.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:28:09+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h27 - Plan coiffeuse.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:28:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Retour au plan château.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T23:32:38+02:00",
       "channel": "🔴・infos-live",
@@ -524,6 +367,133 @@
         "https://cdn.discordapp.com/attachments/1500850385567617196/1559339530472136735/IMG_7304.png?ex=6aceb79b&is=6acd661b&hm=4fe39c9bb622c85499185571557b450024525e9e0d4c2c94f3a9b3620c95864f&",
         "https://cdn.discordapp.com/attachments/1500850385567617196/1559339530991960194/IMG_7306.png?ex=6aceb79b&is=6acd661b&hm=d6c15812571315193b6a254bea36dc50f4828528eeb49d61905c10acd741170f&"
       ]
+    },
+    {
+      "timestamp": "2026-10-13T01:00:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h59 - Tracy s'installe dans son lit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:02:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h00 - On retrouve Antoine et Noémie dans le dressing qui parlent des évaluations, sur le fait qu'ils ont peur d'oublier les paroles avec le stress puis se demandent à quelle heure se réveiller demain matin pour être en forme",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:02:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559340605493092564/IMG_7309.png?ex=6aceb89b&is=6acd671b&hm=079a4c6ce8c9253816e43f46df69b6665451188e8b3a1325c82a4246be790fe6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T01:03:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan coiffeuse",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:06:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "petit changement de José avec le magnifique plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:07:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h06 - On retrouve Felix dans la salle de bain des garçons qui se brosse les dents et se prépare à aller se coucher",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:08:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:09:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "José veut nous montrer tous les plans avant de dormir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:13:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h10 - On voit Noémie dans la cuisine en train de se faire une tisane pour son inhalateur",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:13:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559343236848296028/IMG_7312.png?ex=6acebb0e&is=6acd698e&hm=26ca1a4b0ec824733c3eff3ca8963de66edad64c4c8329d003fe7b88428a614c&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559343237255274667/IMG_7313.png?ex=6acebb0e&is=6acd698e&hm=aac5a20b8b5eade43a57de4b4fe22b77fefc54735549bb38a7ab3d64ff7ba3de&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T01:13:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:18:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h17 - Kylian rejoint Noémie et lui dit que c'était vraiment bien, qu'elle chante bien",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:19:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:21:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h20 - Zoé remonte dans la chambre des filles, elle demande à Elija si elle a bien mis son réveil à 6h",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:22:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "le réveil sera tôt demain matin",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:22:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:27:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h26 - Les lumières de la chambre des garçons se sont éteintes",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:27:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559346744712761534/IMG_7316.png?ex=6acebe53&is=6acd6cd3&hm=9ccf38a4ca1693929567f640f13042774147e3c4cf79e45a90b2b1d81ac13499&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T01:27:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:29:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h29 - Les lumières sont aussi éteintes dans la chambre des filles",
+      "image_urls": []
     }
   ]
 }
