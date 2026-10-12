@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T08:00:03+02:00",
-  "period_end": "2026-10-12T10:00:03+02:00",
-  "updated_at": "2026-10-12T10:00:03+02:00",
+  "period_start": "2026-10-12T08:30:03+02:00",
+  "period_end": "2026-10-12T10:30:03+02:00",
+  "updated_at": "2026-10-12T10:30:03+02:00",
   "events": [
     {
       "timestamp": "2026-10-12T08:35:40.198+02:00",
@@ -506,6 +506,114 @@
       "channel": "🔴・infos-live",
       "content": "9h58 : Encore un flash back Zoé sur son lit qui écoute l'hymne sur son Mp3 .",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:04:28.670+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h04 :",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:09:19.804+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h07 : Il y a la chanson Dans un autre Monde pour les evals . Mais aussi Happyde Pharel williams  Amel partirais la dessus",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:11:14.128+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559116220052279336/IMG_8860.png?ex=6acde7a1&is=6acc9621&hm=fb85f8474822fb7e39782ef068176a8f4b6652dfa9f7256868b0a527e8c012a3&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T10:13:05.742+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Problème technique  me voici avec un écran noir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:15:02.612+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h15 : Khalil partirais sur la chanson de Luidji ou All of me Il commence a tester devant Cameron .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:16:45.973+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559117612552560691/IMG_8861.png?ex=6acde8ed&is=6acc976d&hm=581a9ba4f08de0fe1aee4a362dd0b80ea5eeda3fb861ea9012aae98934463154&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T10:18:22.174+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h17 : Il dit vouloir tester les tonalités . Il commence par Monde",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:20:10.575+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10 h 19 : Melina teste Anyone who loves me de Charlotte Cardin au theatre",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:22:53.682+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h21 : Kylian test All of me aux cotés de Idriss en salle de chant .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:23:38.811+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559119344443727974/IMG_8862.png?ex=6acdea8a&is=6acc990a&hm=4ca846b1adc5d499102ba6dc1dfe6f2007fca1c2cf6e7fef3182c159735c8bd6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T10:25:25.509+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h24 : Zoé semble opter pourSi j'avais su dea Claudio Cpeo elle révise sur son lit .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:26:03.498+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559119950982152262/IMG_8864.png?ex=6acdeb1b&is=6acc999b&hm=7c49a259ad961be5eec91e9e5e134e6c77bd249df9fa22bbf479ef3d133d7473&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T10:27:14.697+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h26 : Amel semble vouloir s'accompagner de la guitare pour l'évaluation .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:27:47.234+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559120385306402856/IMG_8865.png?ex=6acdeb82&is=6acc9a02&hm=34bd81ff3edab3b3b1752b58bb981559968060570a01f53dea9be6bd8208f527&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T10:28:39.332+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h27 : Dans la salle de danse Brieuc révise All of me .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T10:29:05.044+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559120712390942780/IMG_8866.png?ex=6acdebd0&is=6acc9a50&hm=ec5b74633b061c285b0f77152181150e13792a041533da3d2554944bb9951ee4&"
+      ]
     }
   ]
 }
