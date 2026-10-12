@@ -1,189 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T22:30:04+02:00",
-  "period_end": "2026-10-13T00:30:04+02:00",
-  "updated_at": "2026-10-13T00:30:04+02:00",
+  "period_start": "2026-10-12T23:00:04+02:00",
+  "period_end": "2026-10-13T01:00:04+02:00",
+  "updated_at": "2026-10-13T01:00:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T22:32:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h31 - Brieuc, Ydriss et Khalil discutent dans la cuisine du fait d’être dans le top 3 à l’issue des évaluations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:36:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h35 - Les garçons sont toujours dans la cuisine. Morgan dit qu’il ne sait cuisiner qu’italien, puis nouvelle coupure de son.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:36:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559303773963165787/image.png?ex=6ace964e&is=6acd44ce&hm=4b49f4543abc60a9d44d49b7ead38bdbb04ece213cf42cdf5829afba9d49f63f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:38:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h38 - Bref retour dans la cuisine, puis vue de l’escalier.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:40:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "À partir de 23h15, Kevin D prendra la rédaction.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:41:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h40 - Morgan demande à Ydriss de décrire chaque élève en un mot. Morgan est « réconfortant » et Noémie est « douceur ».",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:42:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h42 - Morgan dit que Cameron est la gentillesse incarnée.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:43:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h43 - Brieuc est qualifié d’énergie solaire ; Isabella est dynamique et électrique.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:44:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559305738260848731/image.png?ex=6ace9822&is=6acd46a2&hm=38152a42ede5c0f53a04b2405ca83cccc47a2788ccf120e768f3909a63c03c69&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:44:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h44 - Ydriss qualifie Khalil de distingué et poète.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:45:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h45 - Morgan raconte que sa première impression d’Ydriss a évolué et qu’il le trouve désormais adorable.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:46:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h45 - Ydriss est touché et Morgan vient le réconforter avec un câlin.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:48:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h47 - Elija et Isabella discutent au salon côté piano. Elija évoque sa capacité à se rappeler les bons et mauvais moments.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:49:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h48 - Elija raconte sa vie personnelle à Isabella, qui joue un air de guitare.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:50:20+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h49 - Elija dit que sa marque de fabrique est de chanter « Tata Yoyo » au piano.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:50:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559307304623546559/image.png?ex=6ace9997&is=6acd4817&hm=90718b50c26d19a4a50d2a1962fde27ff2f3a5464c371b8701397882d5ddb752&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:50:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h50 - Elija interprète « Tata Yoyo » en version lyrique avec Isabella à la guitare.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:51:52+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h51 - Une partie des élèves se retrouve dans la cuisine avant une nouvelle coupure de son.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:52:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559307686032576605/image.png?ex=6ace99f2&is=6acd4872&hm=a57e3cb406797dff33360f1007e4ac87d415b703b7f28b28f96efaad9bf9ecef&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:53:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h52 - Mélina imite Jonathan pendant le cours de danse, sa posture et sa musculature.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:54:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h53 - Kylian dit avoir oublié des mouvements de la chorégraphie en sortant du cours.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:54:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h54 - Khalil dit qu’il a appelé son meilleur ami.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:55:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h55 - Flashback : Isabella regarde Elija répéter son évaluation et trouve ce qu’elle fait très joli.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:56:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Les chansons choisies par les élèves sont disponibles dans 🚨・actualités.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:56:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559308783526740058/image.png?ex=6ace9af8&is=6acd4978&hm=f140568e41f1bf71bdf26dec170d4f84104b3408f90c7ab403db9e3f7c36f7f8&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:56:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559308891118895124/image.png?ex=6ace9b12&is=6acd4992&hm=95becb0eb7e6d4ee64fc95c887daf7c7cdd9f11b6c4898ed9f5e7ae58c52a563&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:57:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h57 - Mélina et Brieuc essaient de se rappeler la chorégraphie de l’hymne tout en chantant.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:58:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h58 - Félix fait des inhalations dans la cuisine.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T23:01:37+02:00",
       "channel": "🔴・infos-live",
@@ -568,6 +388,142 @@
       "channel": "🔴・infos-live",
       "content": "Zoé et Mélina estiment que le niveau est élevé et que l’essentiel est de se faire confiance et de donner le meilleur.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:32:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h30 - La discussion se poursuit sur le ressenti du corps professoral entre Mélina et Zoé. Elles se complimentent mutuellement sur leur voix. Relais à Bastien.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:33:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bonjour à tous, je prends la relève pour cette fin de soirée.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:36:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h35 - Zoé et Mélina discutent dehors de leur ressenti pour les évaluations.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:38:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h36 - Elija les rejoint et leur demande comment elles se sentent face aux évaluations.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:38:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559334438008004659/IMG_7286.png?ex=6aceb2dd&is=6acd615d&hm=e10003fda36d6f0b0aeb102be309e3f13149eafd35d40541aa70cf12df33994e&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559334438574489630/IMG_7287.png?ex=6aceb2dd&is=6acd615d&hm=d27b6aac2ecb54cda823ad8ba27d5426ffb93f243b9eaa13678d9b8ba37e05f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:41:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h38 - Dans la chambre des filles, discussion sur la nécessité de ranger la cuisine, déjà en désordre au deuxième jour.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:41:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559335266236239972/IMG_7293.png?ex=6aceb3a2&is=6acd6222&hm=bbd7648f5872630b8c8a4303fa795c97f69ad526312c47b3e5b4543e288282fa&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:42:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h41 - Ils se préparent à dormir et se souhaitent bonne nuit.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:42:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559335595287912519/IMG_7295.png?ex=6aceb3f0&is=6acd6270&hm=948604ded1d6cfa32e7d19e46c5fe9a4c0ace05471dc20c24c560603f270d075&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:43:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plan coiffeuse.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:45:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h44 - Dans la chambre des garçons, Brieuc et Cameron ne savent pas qui sera nommé mais pensent que ce ne sera pas Isabella.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:46:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h45 - Cameron révise les paroles de sa chanson pour les évaluations.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:47:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h46 - Morgan demande les écouteurs de Brieuc pour écouter sa chanson une dernière fois avant de dormir.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:47:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559336839679184976/IMG_7297.png?ex=6aceb519&is=6acd6399&hm=0139bdbe9d943c1a650aa6b1b1527ac6edb63151a35244af8e65373ca93cbdb7&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559336840153272441/IMG_7298.png?ex=6aceb519&is=6acd6399&hm=7408127b48184a90fbe234d5b833b6fb1b82d77740f9db8abb6df04b889c6bb9&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:51:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h49 - Brieuc, Cameron et Morgan révisent puis vont dormir et espèrent que les autres seront discrets en revenant.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:52:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h51 - Les filles se préparent à se coucher.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:52:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559337922015010896/IMG_7300.png?ex=6aceb61b&is=6acd649b&hm=08476d81f479a3ffd5b7aa34d74714c4558dbada9e76e91e90b4ca1a9a2a719f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559337922526838934/IMG_7302.png?ex=6aceb61b&is=6acd649b&hm=7422ba58a13396dcf5a087323903ba8a8889c9320d264a26ccfde0f16c06560b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:54:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h53 - Une fille prépare son introduction pour les évaluations et Amel lui donne quelques conseils.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:58:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h57 - Amel et Isabella sont au lit : l’une révise en écoutant sa chanson et l’autre écrit dans son carnet.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:58:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559339530472136735/IMG_7304.png?ex=6aceb79b&is=6acd661b&hm=4fe39c9bb622c85499185571557b450024525e9e0d4c2c94f3a9b3620c95864f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559339530991960194/IMG_7306.png?ex=6aceb79b&is=6acd661b&hm=d6c15812571315193b6a254bea36dc50f4828528eeb49d61905c10acd741170f&"
+      ]
     }
   ]
 }
