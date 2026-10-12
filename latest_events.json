@@ -1,41 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T14:30:03+02:00",
-  "period_end": "2026-10-12T16:30:03+02:00",
-  "updated_at": "2026-10-12T16:30:03+02:00",
+  "period_start": "2026-10-12T15:00:03+02:00",
+  "period_end": "2026-10-12T17:00:03+02:00",
+  "updated_at": "2026-10-12T17:00:03+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T14:32:40+02:00",
-      "channel": "🎤・cours-de-chant",
-      "content": "PROBLEME TECHNIQUE COUPURE",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T14:52:19+02:00",
-      "channel": "🎤・cours-de-chant",
-      "content": "Isabella (Flashback)\n\nSofia a noté qu'il fallait lisser les registre. Elle chante sa chanson du prime Louis.\n\nElle lui demande si elle a fait de la musique, Isabella a fait de la guitare, elle sait donner du sens à la ligne mélodique. Elle voudrait qu'elle apprenne à respirer au niveau de la sangle abdominale.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T14:54:31+02:00",
-      "channel": "🎤・cours-de-chant",
-      "content": "Félix\n\nEn plein coaching, Sofia l'a corrigé. Félix n'a pas l'impression que c'est lui qui chante. Sofia note sa fiche finale : \"Le corps chante et la chilarie\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T14:54:46+02:00",
-      "channel": "🎤・cours-de-chant",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500852272559554624/1559187575216939038/IMG_9994.png?ex=6ace2a16&is=6accd896&hm=8c5c96c465992facaa6ef41f4c4b0eca855642b981721e17a02e0d569c5c0013&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T14:59:57+02:00",
-      "channel": "🎤・cours-de-chant",
-      "content": "Morgan\n\nSofia commence par dire : \"oh bah toi je t'ai vu dansé\". Elle a notée \"le souffle\" sur sa fiche lors du prime. Il chante Le temps. Sofia dit qu'il chante qu'avec le bas de la tête mais pas avec le corps. \"Eh Charly, ne me fait pas croire que je n'ai pas fait ce qu'il faut...\", il doit répéter cette phrase en chantant. Elle note sur sa fiche finale \"Prends le temps d'articulé\".",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T15:01:15+02:00",
       "channel": "🎤・cours-de-chant",
@@ -500,6 +468,235 @@
       "timestamp": "2026-10-12T16:29:48+02:00",
       "channel": "💃・cours-de-danse",
       "content": "C'est au tour du deuxième groupe !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:30:09+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Jonathan leur rappelle qu'ils feront cette chorégraphie samedi lors du prime. Ensuite ils n'auront qu'une autre répétition où ils devront chanter en même temps.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:31:24+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Il remontre à Kylian les bons mouvements.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559211893678153740/image.png?ex=6ace40bc&is=6accef3c&hm=6103e6a036671077c72e61ea0996dac2ea5b1ca01e5a7fbebdccba4493edb642&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:32:55+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Brieuc demande à Jonathan de lui remontrer le passage où ils doivent \"s'assoir\", ils relancent ensuite la musique pour un nouvel essai.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:33:17+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Tout le monde revient au centre de la salle pour passer à l'apprentissage des mouvements suivants !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:34:40+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Ils doivent faire comme s'ils avaient de l'eau sur les mains et qu'ils essayaient d'égoutter les gouttes ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:35:17+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "« Vous avez vu le chant ? Sofia ne peut rien faire pour moi... » dit Jonathan en rigolant.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:36:44+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559213236346421258/image.png?ex=6ace41fc&is=6accf07c&hm=4fc68fc2b03b5900b93a786f2ed771285e4d9978f200bea344ff84b7542566a7&",
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559213236853669938/image.png?ex=6ace41fc&is=6accf07c&hm=80eb2bfb942831b1612b6dc5cff85971cc18469d9bc534e4d4a9f5be6043322f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:37:30+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Pour expliquer le mouvement suivant, John leur dit de faire comme s'ils conduisaient une voiture.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:37:57+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Ne pas reproduire ces mouvements au volant...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:38:21+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Jonathan dit qu'ils ont donc toute la chorégraphie !\nIls vont tout reprendre dans l'ordre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:41:05+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Il repasse dans les rangs pour vérifier le passage du \"balancier\" avec les bras, puis Kylian lui demande de lui remontrer un passage.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:41:48+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Applaudissements dans la salle, ils connaissent l'hymne !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:41:56+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Bon maintenant, y a du travail ",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:42:15+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Ils le refont une fois en enchaînant toute la chorégraphie en musique.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:42:33+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559214701055844484/image.png?ex=6ace4359&is=6accf1d9&hm=768ee059c49b1090a6a92ccbca21933d864a831129a421f5f0773eb058a32dbb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:43:31+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "« Vous le faites sans moi, vous me montrez, vous me vendez du rêve » dit John.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:44:21+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Ils vont faire 5 groupes de 3 et un groupe de 2.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:45:39+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Le premier groupe est composé de Zoé, Ydriss et Khalil :",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559215480810766397/image.png?ex=6ace4413&is=6accf293&hm=daa56ca9e7b604d33144d59f56ba966b2856d2d8e9beaa45091494d6659962b1&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:46:19+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Le second est composé d'Isabella, d'Antoine et de Maud.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:46:57+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559215809367249057/image.png?ex=6ace4461&is=6accf2e1&hm=20a2d2f39d66875e312e886853df9678a09ce3e30fb86bf63b1fa3cd1b6b8f81&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:47:47+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "On passe au troisième avec Kylian, Mélina et Félix :",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559216019099230249/image.png?ex=6ace4493&is=6accf313&hm=16a3fed7305cf888d46df38c762fda2d1dc6f73998ff3b2e4a3178c141911fda&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:48:10+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "John dit aux élèves que ce n'est pas la pause, ensuite ils passeront un par un.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:48:48+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "C'est au tour de Leeloo, Morgan et Brieuc, puis Elija, Tracy et Noémie !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:49:38+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Et le dernier groupe avec Cameron et Amel. Ydriss les rejoint pour s'entraîner à nouveau.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:49:55+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559216552396726444/image.png?ex=6ace4512&is=6accf392&hm=2875c49794fdc3e80beb31004852993a471851e40bf4e8684b617e953a683cbc&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:50:52+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": "Ils doivent essayer de le vendre au maximum, « Fake it till you make it » dit John.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:51:49+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Félix se dévoue pour passer en premier seul, Jonathan lui conseille de plus regarder vers le haut. Il sera dans le groupe C.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:52:37+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Morgan se lance à son tour. Sans grande surprise, il est dans le groupe A. Il a déjà l'attitude et le flow, ainsi qu'une base solide. Il peut cependant garder en amplitude de mouvements.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:53:34+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Ydriss passe ensuite, John lui dit que c'est un peu timide, il va dans le groupe D.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559217472815767682/image.png?ex=6ace45ee&is=6accf46e&hm=50397e0397e66fcb88440f17321d893e39b6dcf30451e989b3efbc6439b8f695&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:54:28+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Melina, elle, a un super potentiel, on sent qu'elle aime danser, elle danse grand. Elle a modifié un peu trop les steps, mais va dans le groupe B.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:55:30+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Leeloo passe également, John dit qu'elle a de super bases, elle dit qu'elle a fait de la danse classique. Il le place dans le groupe B, mais à la limite du A. Elle doit être plus dans le sol.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:56:23+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Maud a bien appris la chorégraphie, elle a tous les mouvements mais doit un peu moins s'excuser et prendre confiance. Elle est pour le moment dans le groupe C.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500851917247746178/1559218181761933464/image.png?ex=6ace4697&is=6accf517&hm=1fdf483fd9a8026d240ebf767047700bca46271fc2686cae003e44975ed22eab&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T16:57:34+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Au tour d'Isabella, Jonathan la met dans le groupe B, il dit qu'elle s'éclate et sourit, et que ça fait une grande différence. Elle y met du sien, elle met son propre groove, la chorégraphie est carrée mais on voit son style.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:58:30+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Tracy passe ensuite, la chorégraphie est acquise mais elle a perdu le côté pétillant qu'elle avait au prime. Elle doit regarder en face d'elle. Elle a un bon potentiel et va dans le groupe C.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T16:59:46+02:00",
+      "channel": "💃・cours-de-danse",
+      "content": " Antoine passe, Jonathan pensait qu'il serait complètement à côté de son corps car il avait dit être \"D -\" au prime, il est donc agréablement surpris. Il y a du travail mais il va progresser très vite et va dans le groupe D.",
       "image_urls": []
     }
   ]
