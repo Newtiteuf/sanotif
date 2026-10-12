@@ -1,60 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T00:00:05+02:00",
-  "period_end": "2026-10-12T02:00:05+02:00",
-  "updated_at": "2026-10-12T02:00:05+02:00",
+  "period_start": "2026-10-12T00:10:05+02:00",
+  "period_end": "2026-10-12T02:10:05+02:00",
+  "updated_at": "2026-10-12T02:10:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T00:00:14.463+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Pas d'image, mais un magnifique son de la nature qui personnellement m'endors",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:01:05.241+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h00 - Et je profite de cette accalmie pour fêter officiellement sur ce salon le premier \"Joyeux Nouveau Jour de la saison\"",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:01:36.612+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Donc, Joyeux Lundi 12 Octobre à tous",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:02:31.467+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h01 - Dans le Foyer/Studio, le groupe d’́élèves fait des pronos sur le groupe de Danse dans lequel ils seront",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:03:49.017+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558963358680621156/Screenshot_20261012_000308_TF1.jpg?ex=6acd5944&is=6acc07c4&hm=723990542020058e5e1cd0d8275fbd77b4394b138c495d1d32e559ae58a16347&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558963359099920444/Screenshot_20261012_000311_TF1.jpg?ex=6acd5944&is=6acc07c4&hm=7d94c9f9c746c3b1361e108123824b3c9417f2738c8adc0826767739469690d1&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T00:04:13.014+02:00",
-      "channel": "🔴・infos-live",
-      "content": "ps, comme l'indique une photo, j’ai presque plus de batterie",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:04:43.538+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h03 - Plan château pour la .... je ne sais même plus combientième fois du soir",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:10:00.775+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h08 - Je ne me suis pas endormi, simplement le Live n’a pas repris.\nÇa doit être dur de trouver quelque chose a diffuser vu qu’ils ne sont plus que 17 dans ce petit château de province. \nOu alors, ils sont tous en ITV",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T00:18:05.742+02:00",
       "channel": "🔴・infos-live",
