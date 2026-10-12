@@ -1,47 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T00:40:05+02:00",
-  "period_end": "2026-10-12T02:40:05+02:00",
-  "updated_at": "2026-10-12T02:40:05+02:00",
+  "period_start": "2026-10-12T00:50:05+02:00",
+  "period_end": "2026-10-12T02:50:05+02:00",
+  "updated_at": "2026-10-12T02:50:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T00:42:30.078+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h41 On se retrouve dans la chambre des filles avec Maud, Amel, Tracy et Leeloo caché, en séance de stretching !",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558973094322896966/image.png?ex=6acd6256&is=6acc10d6&hm=537c3ad7146e3a2e7d69c4ceee71bb6cb4d449810f5452eead13ccad92b8a590&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T00:43:45.002+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Quelques douleurs ce font voir, alors qui a pas encore eu de séance de sport, courage !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:44:12.163+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h43 Retour plan château",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:45:36.732+02:00",
-      "channel": "🔴・infos-live",
-      "content": " Le célèbre château des Vives-Eaux, qui accueille les élèves de la Star Academy, a été construit entre 1760 et 1780, au XVIIIᵉ siècle.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:47:08.815+02:00",
-      "channel": "🔴・infos-live",
-      "content": "*le château a été victime d'un incendie en 1848, une reconstruction en 1911 qui donne naissance au bâtiment actuel.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:48:46.982+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h48 Toujours le plan château.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T00:53:00.311+02:00",
       "channel": "🔴・infos-live",
