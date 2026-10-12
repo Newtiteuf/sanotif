@@ -1,30 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T00:10:05+02:00",
-  "period_end": "2026-10-12T02:10:05+02:00",
-  "updated_at": "2026-10-12T02:10:05+02:00",
+  "period_start": "2026-10-12T00:20:05+02:00",
+  "period_end": "2026-10-12T02:20:05+02:00",
+  "updated_at": "2026-10-12T02:20:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T00:18:05.742+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h17 - Le live reprend, et on peut arrêter l'alerte enlèvement.\nCameron discute avec Antoine dans le salon",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:18:49.804+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558967137127759923/Screenshot_20261012_001715_TF1.jpg?ex=6acd5cc9&is=6acc0b49&hm=bfd5f7bf69c5b84619dbd3527a80d3c90aff3b1746e66a1b06be83d7ba32e495&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558967137656377494/Screenshot_20261012_001810_TF1.jpg?ex=6acd5cc9&is=6acc0b49&hm=2ba16067eb0589a0062b685aa1966e5862231ec94ba4038847cfa3c9d0710f34&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T00:19:53.046+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h19 - 20 minutes de plan château pour 2 minutes de discussion\nMerci le plan escalier.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T00:21:07.836+02:00",
       "channel": "🔴・infos-live",
