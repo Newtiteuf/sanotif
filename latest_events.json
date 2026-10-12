@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T07:30:03+02:00",
-  "period_end": "2026-10-12T09:30:03+02:00",
-  "updated_at": "2026-10-12T09:30:03+02:00",
+  "period_start": "2026-10-12T08:00:03+02:00",
+  "period_end": "2026-10-12T10:00:03+02:00",
+  "updated_at": "2026-10-12T10:00:03+02:00",
   "events": [
     {
       "timestamp": "2026-10-12T08:35:40.198+02:00",
@@ -364,6 +364,147 @@
       "timestamp": "2026-10-12T09:29:35.280+02:00",
       "channel": "🔴・infos-live",
       "content": "9h28 : Les élèves arrivent petit a petit dans la cuisine . Comme ca parle pate a tartiner José coupe",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:30:05.293+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559105865259155517/IMG_8852.png?ex=6acdddfd&is=6acc8c7d&hm=a455b84bc9cbe19f08bf5820bb44017c3142831e076249ea019c608e34129507&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:31:09.541+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h30 : Retour en cuisine ca parle série mais pas facile de suivre quand josé nous renvoie a la coiffeuse .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:32:14.284+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h31 : Dans la salle de bain Antoine se rase . Vite ca va bientôt sonner .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:32:41.863+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559106520187146386/IMG_8853.png?ex=6acdde99&is=6acc8d19&hm=61350c614d5a4060b7d9d7c616da8532176282d1f5c152c8cfa5114e7d6bd40d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:33:19.242+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h32 : Après avoir enfilé sa chemise Antoine quitte la salle de bain .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:34:55.096+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h33 : Retour dans la cuisine ca parle vibes et café .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:35:05.650+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559107125660356668/IMG_8854.png?ex=6acddf29&is=6acc8da9&hm=e994cbb44f954e2d765727c26d902f01fe582ab13eb2061d0aef6c5f5a1a3afd&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:38:07.293+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h35 : Tout le monde est réuni en cuisine , Felix est choquer de voir que certain mangent leur banane  encore verte . D'après Maud Mosi viens d'arriver il est dans la cour .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:39:23.371+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h38 : C'est l'heure de rejoindre le directeur pour la première annonce de la saison. Cela se passe au théâtre .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:39:52.700+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559108329270157352/IMG_8855.png?ex=6acde048&is=6acc8ec8&hm=f1a3758a6dabcef03d2ddd1cbf8d970ddda7732a8b097b45826c35011e3242af&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:41:15.146+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h40 : Mosi souhaite la bienvenue a tout le monde . Il demande si tout le monde a bien dormi ils se sont couchés vers 1h00.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:45:07.737+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h41 : Mosi parle du prime , il y aura le premier Autoportrait de la saison . Isabella explique de quoi il s'agit . Pour rappel il s'agit de se présenter en musique . Il y aura aussi le tableau chanté dansé même principe  que la saison précédente a la clé une place en tournée . Il y aura aussi le top3 .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:45:39.919+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559109785612329071/IMG_8856.png?ex=6acde1a3&is=6acc9023&hm=638953ec069c665158fa44a5cbef9fc89fb66496a92e7095f091ee3bf1b7942b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:49:40.445+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h45 : Le thème des évals  Se mettre en valeur vous et vos atouts  . Ils devront expliquer avant leur choix de chanson . Mosi veux voir leur singularité . Il y a une liste de chansons disponible c'est une liste imposer avec une vingtaine de titre  . Mosi préfère qu'ils apprennent les paroles par cœur . Le directeur veut être surpris c'est le moment de tout donner .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:50:16.694+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559110945144578068/IMG_8858.png?ex=6acde2b8&is=6acc9138&hm=73720617e8af1c304c6b2456bded30553343c120f079083b4de730d0d8027a76&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559110946457391165/IMG_8857.png?ex=6acde2b8&is=6acc9138&hm=f57d7c7c4a1a3ac02bbe936c37c9f5673c0fb3e18faf7b1d5149bf9cb0254888&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:53:28.107+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h51 : Fin de l'annonce les élèves se dirigent vers  le foyer pour voir la liste des musiques .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:53:34.926+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559111777973837824/IMG_8859.png?ex=6acde37e&is=6acc91fe&hm=674eb5d7a0bb81129bf07951154b9845e497863c3e126899d671513c7492829f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:55:17.882+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h53 : Il y a Si  j'avais sude Claudio Capeo  et* Monde *de Luidji",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:56:44.985+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h56 : Il ya aussi du Jacques brel apparemment .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:58:26.793+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h57 : José fais un flash back de Idriss et Khalil qui se réveillent puis amel qui joue un peu de guitare .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:59:48.406+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h58 : Encore un flash back Zoé sur son lit qui écoute l'hymne sur son Mp3 .",
       "image_urls": []
     }
   ]
