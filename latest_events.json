@@ -1,236 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T18:30:04+02:00",
-  "period_end": "2026-10-12T20:30:04+02:00",
-  "updated_at": "2026-10-12T20:30:04+02:00",
+  "period_start": "2026-10-12T19:00:04+02:00",
+  "period_end": "2026-10-12T21:00:04+02:00",
+  "updated_at": "2026-10-12T21:00:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T18:36:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "REPRISE DU LIVE",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:37:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:36 - Plus tôt dans la journée : Nous retrouvons les répétitrices dans le salon pour l'annonce des artistes. Philippine annonce qu'il y aura un invité d'honneur chaque semaine, qui viendra faire un duo pour le prime et qui viendra la semaine pour accompagner les élèves.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:38:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:38 - Ben Mazué est l'invité d'honneur de cette semaine.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:38:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559243953340022844/Capture_decran_2026-10-12_183639.png?ex=6ace5e97&is=6acd0d17&hm=1709104a7755a7f720b77cdbe7c1f8e74ea51466400a0dc5e6dc1782ad38d2f9&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559243953738354818/Capture_decran_2026-10-12_183800.png?ex=6ace5e97&is=6acd0d17&hm=269e8e701273358997bd2318bcd05e43acfd882d099ae829948efe4bfdeef79c&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:39:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:38 - 10 élèves ont été pressentis pour chanter avec lui.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:40:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:39 - La deuxième catégorie pour le prime est la carte blanche et l'invitée est Adèle Castillon. Pour rappel, il s'agit d'une des petites sœurs de cette saison.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:40:52+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:40 - Fanny annonce qu'il y aura un défi cette semaine : chanter avec une star internationale. Il s'agit de Naika.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:42:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:41 - Il y aura également un invité surprise pour le prime. Fanny et Philippine gardent le secret autour de l'identité de cette personne. Fanny annonce également une chanson challenge : un petit jeu entre élèves, où une personne impose une chanson à un élève de son choix dans laquelle il ne serait pas à l'aise.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:42:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559245008769646755/image.png?ex=6ace5f93&is=6acd0e13&hm=7fe2bc77dccb09a1e0c9b687b4d89a662d783282bb55773db50e6f7be1d62fbe&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:43:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:42 - Kylian est le premier élève qui choisira un autre élève pour un défi. Il semble peu convaincu.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:43:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Retour dans le présent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:44:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:43 - C'est l'heure de la prise de tonalité sur Quand je marche de Ben Mazué. Mélina chante, et Khalil prend sa place.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:45:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:44 - Philippine fait remarquer qu'il fait chaud, et qu'il a le droit d'enlever son pull.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:45:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559245660971343933/Capture_decran_2026-10-12_184343.png?ex=6ace602e&is=6acd0eae&hm=3b2034ec1ac47f76568063b92ee65cbac19055b4edec7133fabd4d14312fae54&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559245661365473320/Capture_decran_2026-10-12_184347.png?ex=6ace602f&is=6acd0eaf&hm=b2def1a6e33a96ea5a649b0f4b012da041ae5ef9e974d44ae09d4da912215e5e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:46:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:45 - Maud est la prochaine à passer sur le titre de Ben Mazué. Philippine insiste sur le fait de devoir lâcher prise pour cette chanson quand elle termine. C'est au tour d'Isabella.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:47:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:46 - Philippine félicite Isabella, puis c'est Amel qui prend sa place.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:47:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Philippine : Il ne va jamais réussir à choisir, en parlant de Ben Mazué.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:48:07+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559246298828243089/Capture_decran_2026-10-12_184548.png?ex=6ace60c7&is=6acd0f47&hm=a1388a96153d184f2596e7e1f890a4e235506929dc84261af6316d761795c88f&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559246299201540178/Capture_decran_2026-10-12_184656.png?ex=6ace60c7&is=6acd0f47&hm=4dca4612682f525f4b68beb1ae36173c2145bb03194c89da3dcb6defa4429b88&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559246299549798400/Capture_decran_2026-10-12_184752.png?ex=6ace60c7&is=6acd0f47&hm=43021bc39ff7aa08071aeec93135d5e1c3db1943a25e1a333441840d2218a126&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559246299998462114/Capture_decran_2026-10-12_184759.png?ex=6ace60c7&is=6acd0f47&hm=f52ccf80b45e250894581f8637046083dbe8e83907b408e8588bd085ee762359&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:48:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:48 - Amel semble avoir la voix cassée. Philippine ne veut pas insister davantage et recommande un peu de repos aux élèves, et des inhalations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:49:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:49 - Kylian passe. Philippine trouve que c'est mieux, et adore entendre les élèves sur ce titre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:50:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Pour retrouver toutes les informations liées aux artistes du premier prime, c'est par ici : 🚨・actualités",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:51:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:50 - Cameron passe également très rapidement sur le titre de Ben Mazué. Puis c'est à Elija. Philippine trouve qu'elle chante trop et lui demande de se lâcher.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:51:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559247173021868155/image.png?ex=6ace6197&is=6acd1017&hm=5b0ce3cbb4eaeff2e7a29594c46d12af8edf436a89370fb593b94cb48879574f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:52:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:51 - Au tour de Tracy, félicitée par Philippine.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:53:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:52 - Philippine propose de passer maintenant sur le couplet. Elle précise que ce sont les passages en bleu, et commence à jouer du piano en chantant un peu les paroles.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:54:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:53 - Antoine dit adorer les accords du titre de Ben Mazué. Philippine demande aux élèves de surligner les passages, pour plus d'efficacité.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:54:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559247927203856495/Capture_decran_2026-10-12_185142.png?ex=6ace624b&is=6acd10cb&hm=faf9e5e11ebdaebc8b3213f0603ecf1d843f10f4165f5bf45b81e14938c154ae&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559247927724085258/Capture_decran_2026-10-12_185239.png?ex=6ace624b&is=6acd10cb&hm=4981c8ea151b5cea3cfe7dca11c148b574c7dbf2b9aa19daa6c0057ab5ca00f7&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559247928089116853/Capture_decran_2026-10-12_185248.png?ex=6ace624b&is=6acd10cb&hm=0d6aa8abf5ddb2199ed6b01099f5567fd1fbb884c413d0be67a6195536e85389&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559247928479055994/Capture_decran_2026-10-12_185254.png?ex=6ace624b&is=6acd10cb&hm=e09e7227ecacaa2a1cd71a0ae3af72d251d44e7f7fd09d86db327ca4bcbabc3a&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:55:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Philippine : Qui se sent de le faire en solo ? Khalil : Moi.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:56:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:55 - Khalil fait un rapide passage sur une phrase. Philippine trouve que c'est super et il retourne s'asseoir.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:56:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:56 - Maud passe.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:57:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:57 - Philippine recadre gentiment les élèves. Elle ne veut pas qu'ils sur-chantent.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:58:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:58 - Kylian prend conscience qu'il chante trop le titre. Isabella et Antoine tentent de l'aider avant que cette première soit appelée pour chanter.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T18:59:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559249053655633961/Capture_decran_2026-10-12_185537.png?ex=6ace6357&is=6acd11d7&hm=ea1a01c593994416aad8e27f6ad251ae108ce979edca84e2030896ca8eae2def&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559249054045708448/Capture_decran_2026-10-12_185758.png?ex=6ace6357&is=6acd11d7&hm=19a71828960632e8274fef623e86f506ab9a708dc5086fd9a00515e21fdb2837&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T18:59:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "18:59 - Philippine trouve que les élèves arrivent à mettre de l'âme dans leur interprétation. Au tour de Tracy de chanter.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T19:00:09+02:00",
       "channel": "🔴・infos-live",
@@ -843,6 +616,164 @@
       "timestamp": "2026-10-12T20:29:23+02:00",
       "channel": "🔴・infos-live",
       "content": "Pour ceux qui disent que je raconte des craques",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:31:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:29 - Retour à la salle de danse, où Khalil interprète « All of Me » de John Legend. (Ça change d’Amel Bent)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:32:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Le saviez-vous ? À la fin du clip de « All of Me » de John Legend, les images du mariage avec Chrissy Teigen sont celles de leur vrai mariage ! Le souvenir de famille le mieux rentabilisé de l’histoire.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:32:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559272677900820620/image.png?ex=6ace7958&is=6acd27d8&hm=352bec03dc4a635d97985835c2410c65dff6156a53a249782af23518267dffd1&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T20:34:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:33 - Khalil a embauché OKLM Zoé comme danseuse pour son évaluation.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:36:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:35 - Khalil et Zoé répètent leurs mouvements. Elle propose des mouvements de bras qu’ils peuvent faire ensemble.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:37:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:36 - Khalil propose que Zoé intervienne plutôt aux moments marquants de la chanson.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:37:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559273829929324654/image.png?ex=6ace7a6a&is=6acd28ea&hm=e0dbfeced7040ecd8e8fbee842dcdf312bae60d50e137dcc0bfd1e0c859c701d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T20:37:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Aaaaaaaaall of me",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:38:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:37 - cuisine !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:39:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:38 - Non, foyer !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:40:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:39 - Noémie répète sa chanson. Devinez… Oui, c’est Amel Bent",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:41:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Le saviez-vous ? Amel Bent a écrit « Ma philosophie » avec Diam’s ! Derrière ce refrain que tout le monde connaît, il y a donc aussi la plume de l’interprète de « La Boulette ».",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:42:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:42 - cuisine !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:43:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:43 - Antoine parle à Elija, qui est occupée à cuisiner.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:44:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559275544741150800/image.png?ex=6ace7c03&is=6acd2a83&hm=8d9da1b54864108811c4698cc6b32a6cabc585e8f1c2cac42b6366fd983a862b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T20:44:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bon appétit Tabarnak !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:47:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée… Morgan joue « Je te laisserai des mots » de Patrick Watson au piano. Ydriss et lui font une photo sur l’appareil.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:49:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée… Deux pour le prix d’un ! Félix chante « Set Fire to the Rain » d’Adele.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:53:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée… Et de trois ! Isabella, Antoine et Khalil chantent « Quand je marche » de Ben Mazué devant la sono.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:53:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:53 - cuisine !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:55:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:54 - Brieuc et Antoine discutent de la prestation à venir avec Ben Mazué.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:56:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:55 - Antoine raconte qu’il a eu son père au téléphone. Celui-ci lui a dit que sa chanson d’évaluation lui allait très bien.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:58:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée… Maud interprète « Monde » de Luidji au piano.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T20:58:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559279046985125929/image.png?ex=6ace7f46&is=6acd2dc6&hm=e9279ea5388436e72aaaa0750ed4a0f89b40f56bd405f508b71f48e5b979bec7&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T20:59:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Le saviez-vous ? « Monde » figure sur « Saison 00 », l’album où Luidji remonte à son enfance. Comme dans une série, cette « saison zéro » raconte ce qui s’est passé avant le début de l’histoire !",
       "image_urls": []
     }
   ]
