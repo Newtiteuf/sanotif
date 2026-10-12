@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Nuit entre confidences et répétitions",
-  "summary": "La nuit a commencé dans une ambiance légère, entre pronostics sur les futurs groupes de danse, plaisanteries et longues coupures ponctuées de plans du château. À la reprise, Antoine et Cameron ont échangé sur leurs inspirations musicales et découvert plusieurs références communes, tandis que Tracy révisait l’hymne dans sa chambre. Leeloo et Zoé ont reparlé des évaluations, puis Isabella a rassuré Noémie sur sa prestation en lui donnant un retour très technique sur sa voix. Quelques élèves ont improvisé une séance de stretching puis une courte danse en haut des escaliers, pendant qu’Ydriss, Antoine, Tracy et Noémie continuaient à travailler les paroles de l’hymne. À mesure que la cuisine s’éteignait et que les lumières baissaient, les derniers échanges ont laissé place au calme. Le live s’est finalement arrêté vers 1 h 30, avec une reprise annoncée à 7 h 30.",
-  "kind": "night_summary",
-  "period_start": "2026-10-12T00:00:00+02:00",
-  "period_end": "2026-10-12T02:00:00+02:00",
-  "updated_at": "2026-10-12T02:00:05+02:00"
+  "title": "🔴 Réveil avant les évaluations",
+  "summary": "Les académiciens se sont réveillés et préparés dans une ambiance tranquille, entre salle de bain, petit-déjeuner et quelques plaisanteries matinales. Le planning annonce un cours de chant à 13 h, tandis que le thème des évaluations doit être dévoilé vers 9 h 30. La prise de tonalités et l’annonce des artistes du prochain prime sont prévues à 17 h 30. Dans la cuisine, les élèves se rassemblent progressivement et se montrent déjà très attentifs à ne pas être en retard.",
+  "kind": "half_hour_summary",
+  "period_start": "2026-10-12T02:00:05+02:00",
+  "period_end": "2026-10-12T09:30:03+02:00",
+  "updated_at": "2026-10-12T09:30:03+02:00"
 }
