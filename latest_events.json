@@ -1,117 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T10:00:03+02:00",
-  "period_end": "2026-10-12T12:00:03+02:00",
-  "updated_at": "2026-10-12T12:00:03+02:00",
+  "period_start": "2026-10-12T10:30:03+02:00",
+  "period_end": "2026-10-12T12:30:03+02:00",
+  "updated_at": "2026-10-12T12:30:03+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T10:04:28.670+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h04 :",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:09:19.804+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h07 : Il y a la chanson Dans un autre Monde pour les evals . Mais aussi Happyde Pharel williams  Amel partirais la dessus",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:11:14.128+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559116220052279336/IMG_8860.png?ex=6acde7a1&is=6acc9621&hm=fb85f8474822fb7e39782ef068176a8f4b6652dfa9f7256868b0a527e8c012a3&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T10:13:05.742+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Problème technique  me voici avec un écran noir",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:15:02.612+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h15 : Khalil partirais sur la chanson de Luidji ou All of me Il commence a tester devant Cameron .",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:16:45.973+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559117612552560691/IMG_8861.png?ex=6acde8ed&is=6acc976d&hm=581a9ba4f08de0fe1aee4a362dd0b80ea5eeda3fb861ea9012aae98934463154&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T10:18:22.174+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h17 : Il dit vouloir tester les tonalités . Il commence par Monde",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:20:10.575+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10 h 19 : Melina teste Anyone who loves me de Charlotte Cardin au theatre",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:22:53.682+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h21 : Kylian test All of me aux cotés de Idriss en salle de chant .",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:23:38.811+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559119344443727974/IMG_8862.png?ex=6acdea8a&is=6acc990a&hm=4ca846b1adc5d499102ba6dc1dfe6f2007fca1c2cf6e7fef3182c159735c8bd6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T10:25:25.509+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h24 : Zoé semble opter pourSi j'avais su dea Claudio Cpeo elle révise sur son lit .",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:26:03.498+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559119950982152262/IMG_8864.png?ex=6acdeb1b&is=6acc999b&hm=7c49a259ad961be5eec91e9e5e134e6c77bd249df9fa22bbf479ef3d133d7473&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T10:27:14.697+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h26 : Amel semble vouloir s'accompagner de la guitare pour l'évaluation .",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:27:47.234+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559120385306402856/IMG_8865.png?ex=6acdeb82&is=6acc9a02&hm=34bd81ff3edab3b3b1752b58bb981559968060570a01f53dea9be6bd8208f527&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T10:28:39.332+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h27 : Dans la salle de danse Brieuc révise All of me .",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T10:29:05.044+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559120712390942780/IMG_8866.png?ex=6acdebd0&is=6acc9a50&hm=ec5b74633b061c285b0f77152181150e13792a041533da3d2554944bb9951ee4&"
-      ]
-    },
     {
       "timestamp": "2026-10-12T10:31:27.713+02:00",
       "channel": "🔴・infos-live",
@@ -428,6 +320,209 @@
       "channel": "🔴・infos-live",
       "content": "11h59 - Noémie dit se reconnaitre beaucoup en Cameron, ils ont peur.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:00:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h00 - Il est 11h30 chez eux, Noémie mentionne qu'il faudra pas tarder à aller manger car ils ont cours de chant à 13h (soit 13h30 pour nous).",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:01:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h00 - Morgan arrive et mentionne ne pas trouver de place où chanter. Noémie et Isabella ayant déjà chanté, lui propose de rester ici.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:02:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h01 - L'académicienne qui chante en piano voix au foyer est Tracy.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:02:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h02 - Isabella veut entendre Cameron chanter. Il essaye d'y échapper, il demande à Morgan d'y aller.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:03:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Morgan dit qu'il va danser aussi pour son évaluation.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:03:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h03 - Morgan aurait visiblement choisi Ces gens là de Jacques Brel pour son évaluation.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:03:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559144584460767243/image.png?ex=6ace020c&is=6accb08c&hm=a4e7b0153ab1008b35643d0b27447afbf43f835c139ec545949775ceb4054e73&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559144585085849683/image.png?ex=6ace020c&is=6accb08c&hm=5d8c28cf1ec4fbd4a8a306199512b5edb56a388019c519c329d0e3ab4ccdbf36&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T12:05:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h05 - Zoé à rejoint le théâtre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:06:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h05 - Les élèves applaudissent. Isabella dit que c'est hyper cool. Morgan dit connaitre légèrement la musique mais il l'a apprit vraiment tout à l'heure.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:06:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h06 - Zoé dit ressentir des vagues d'émotion à certains moment. Morgan dit qu'il voudrait maintenant chorégraphier sa prestation.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:07:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h07 - Ydriss arrive au théâtre, il est muni d'une feuille et se balade de pièce en pièce pour noter qui mange de la viande pour préparer les repas.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:08:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h08 - Au tour de Cameron, il a choisi Ces gens là de Jacques Brel aussi.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559145812318101595/image.png?ex=6ace0331&is=6accb1b1&hm=c44b6675294048d29db0ecefde9c8cea8af084cefdf4a6c145ea445ce798671a&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559145812708294727/image.png?ex=6ace0331&is=6accb1b1&hm=f9eb08199877178ac3c39061fae50a60c43ad20d0f9be6679a88232265b2a493&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T12:10:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h10 - Isabella dit qu'en écoutant la version de Cameron et de Morgan c'est deux univers différents, elle trouve ça très beau.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:11:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h10 - Morgan dit a Cameron qu'il aime beaucoup la version qu'il a proposé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:11:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h11 - Isabella ajoute que personne n'est comparable ici, elle leur demande de ne pas se comparer car chacun à son univers.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:12:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h12 - Les élèves présent dans le foyer entendent encore Tracy jouer et chanter au piano, ils crient pour lui dire que c'est très bien. On entend Tracy répondre à Morgan en lui disant que c'était très bien aussi lui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:13:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h13 - Au tour de Zoé , elle aurait choisit Set Fire to the Rain de Adèle.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559147093577171014/image.png?ex=6ace0462&is=6accb2e2&hm=04c3a74a63695f6a2129f1052be19f0e54f3a380c87c2d809193218e43696a68&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559147094005252116/image.png?ex=6ace0462&is=6accb2e2&hm=0d9a2e3ee843dd191c053c552684f035ea532acf5fa42ca50f7a8efe2cead7d7&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T12:16:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h15 - Cameron dit à Zoé que c'était incroyable. Morgan ajoute à Zoé \"j'espère que t'es prête à faire la battle du Top 3\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:17:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h16 - Noémie dit à Zoé qu'il faut qu'elle fasse la musique à sa manière , il ne faut pas qu'elle copie qui que ce soit.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:17:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h17 - Cameron dit à Zoé d'utiliser les conseils de Lydia pour vivre à 100% les émotions de la musique.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:18:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h18 - Pendant que Zoé prend des conseils avec Cameron, Isabella récupère le micro pour chanter sa musique.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:19:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h19 - Morgan mentionne le fait d'avoir bien dormi et d'être reposé. Cameron et Zoé sont d'accord avec lui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:20:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h19 - Direction le foyer, on y retrouve Antoine, Mélina et Khalil.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:21:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h20 - Antoine est en train de chanter Monde de Luidji.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559148903364829286/image.png?ex=6ace0612&is=6accb492&hm=feab2a2f066ec6d30f6d4627fe17c1a0984e487783966d9508b2b0e0ba44cf85&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T12:22:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h21 - Antoine dit ne pas être encore à fond dans l’interprétation. Il dit que Luidji est un des artiste qui représente beaucoup son univers musical.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:23:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h22 - Melina dit qu’elle a choisit Anyone Who Loves Me de Charlotte Cardin.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:25:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h23 - Plus tôt dans la journée..., Leeloo se trouvait dans la chambre avec un piano en train de réviser la musique qu'elle a choisi.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:25:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559149985424080916/IMG_7929.png?ex=6ace0714&is=6accb594&hm=49c6e1724a90fa61f248717159902b8f20a0b5d78bd3c07a68cc6c2cd2edd9c6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T12:26:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h25 - Plus tôt dans la journée.. , Elija et Amel étaient dans la cuisine en train de faire à manger.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559150175057092689/image.png?ex=6ace0741&is=6accb5c1&hm=a9ae89525d1c33553a83457c97a89af934621ade315bc93beb6f74d14e86c1db&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T12:27:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h26 - Retour au foyer, avant qu'on me coupe le live sous le nez pour la pause ARCOM.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T12:27:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h27 - PAUSE ARCOM, les élèves reviennent dans 1h environ.\nBon appétit à tous !",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559150550736437348/image.png?ex=6ace079a&is=6accb61a&hm=bbf0ca56c76ca36555faca80110c38e70f449641484862a128e0c8a47c886198&"
+      ]
     }
   ]
 }
