@@ -1,167 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T20:30:04+02:00",
-  "period_end": "2026-10-12T22:30:04+02:00",
-  "updated_at": "2026-10-12T22:30:04+02:00",
+  "period_start": "2026-10-12T21:00:04+02:00",
+  "period_end": "2026-10-12T23:00:04+02:00",
+  "updated_at": "2026-10-12T23:00:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T20:31:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:29 - Retour à la salle de danse, où Khalil interprète « All of Me » de John Legend. (Ça change d’Amel Bent)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:32:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Le saviez-vous ? À la fin du clip de « All of Me » de John Legend, les images du mariage avec Chrissy Teigen sont celles de leur vrai mariage ! Le souvenir de famille le mieux rentabilisé de l’histoire.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:32:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559272677900820620/image.png?ex=6ace7958&is=6acd27d8&hm=352bec03dc4a635d97985835c2410c65dff6156a53a249782af23518267dffd1&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:34:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:33 - Khalil a embauché OKLM Zoé comme danseuse pour son évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:36:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:35 - Khalil et Zoé répètent leurs mouvements. Elle propose des mouvements de bras qu’ils peuvent faire ensemble.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:37:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:36 - Khalil propose que Zoé intervienne plutôt aux moments marquants de la chanson.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:37:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559273829929324654/image.png?ex=6ace7a6a&is=6acd28ea&hm=e0dbfeced7040ecd8e8fbee842dcdf312bae60d50e137dcc0bfd1e0c859c701d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:37:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Aaaaaaaaall of me",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:38:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:37 - cuisine !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:39:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:38 - Non, foyer !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:40:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:39 - Noémie répète sa chanson. Devinez… Oui, c’est Amel Bent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:41:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Le saviez-vous ? Amel Bent a écrit « Ma philosophie » avec Diam’s ! Derrière ce refrain que tout le monde connaît, il y a donc aussi la plume de l’interprète de « La Boulette ».",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:42:07+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:42 - cuisine !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:43:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:43 - Antoine parle à Elija, qui est occupée à cuisiner.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:44:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559275544741150800/image.png?ex=6ace7c03&is=6acd2a83&hm=8d9da1b54864108811c4698cc6b32a6cabc585e8f1c2cac42b6366fd983a862b&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:44:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Bon appétit Tabarnak !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:47:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée… Morgan joue « Je te laisserai des mots » de Patrick Watson au piano. Ydriss et lui font une photo sur l’appareil.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:49:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée… Deux pour le prix d’un ! Félix chante « Set Fire to the Rain » d’Adele.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:53:27+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée… Et de trois ! Isabella, Antoine et Khalil chantent « Quand je marche » de Ben Mazué devant la sono.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:53:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:53 - cuisine !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:55:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:54 - Brieuc et Antoine discutent de la prestation à venir avec Ben Mazué.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:56:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:55 - Antoine raconte qu’il a eu son père au téléphone. Celui-ci lui a dit que sa chanson d’évaluation lui allait très bien.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:58:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée… Maud interprète « Monde » de Luidji au piano.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:58:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559279046985125929/image.png?ex=6ace7f46&is=6acd2dc6&hm=e9279ea5388436e72aaaa0750ed4a0f89b40f56bd405f508b71f48e5b979bec7&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:59:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Le saviez-vous ? « Monde » figure sur « Saison 00 », l’album où Luidji remonte à son enfance. Comme dans une série, cette « saison zéro » raconte ce qui s’est passé avant le début de l’histoire !",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T21:00:26+02:00",
       "channel": "🔴・infos-live",
@@ -333,6 +175,186 @@
       "timestamp": "2026-10-12T22:28:53+02:00",
       "channel": "🔴・infos-live",
       "content": "22h28 - Retour au direct… finalement vue château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:32:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h31 - Brieuc, Ydriss et Khalil discutent dans la cuisine du fait d’être dans le top 3 à l’issue des évaluations.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:36:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h35 - Les garçons sont toujours dans la cuisine. Morgan dit qu’il ne sait cuisiner qu’italien, puis nouvelle coupure de son.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:36:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559303773963165787/image.png?ex=6ace964e&is=6acd44ce&hm=4b49f4543abc60a9d44d49b7ead38bdbb04ece213cf42cdf5829afba9d49f63f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:38:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h38 - Bref retour dans la cuisine, puis vue de l’escalier.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:40:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "À partir de 23h15, Kevin D prendra la rédaction.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:41:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h40 - Morgan demande à Ydriss de décrire chaque élève en un mot. Morgan est « réconfortant » et Noémie est « douceur ».",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:42:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h42 - Morgan dit que Cameron est la gentillesse incarnée.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:43:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h43 - Brieuc est qualifié d’énergie solaire ; Isabella est dynamique et électrique.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:44:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559305738260848731/image.png?ex=6ace9822&is=6acd46a2&hm=38152a42ede5c0f53a04b2405ca83cccc47a2788ccf120e768f3909a63c03c69&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:44:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h44 - Ydriss qualifie Khalil de distingué et poète.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:45:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h45 - Morgan raconte que sa première impression d’Ydriss a évolué et qu’il le trouve désormais adorable.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:46:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h45 - Ydriss est touché et Morgan vient le réconforter avec un câlin.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:48:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h47 - Elija et Isabella discutent au salon côté piano. Elija évoque sa capacité à se rappeler les bons et mauvais moments.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:49:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h48 - Elija raconte sa vie personnelle à Isabella, qui joue un air de guitare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:50:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h49 - Elija dit que sa marque de fabrique est de chanter « Tata Yoyo » au piano.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:50:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559307304623546559/image.png?ex=6ace9997&is=6acd4817&hm=90718b50c26d19a4a50d2a1962fde27ff2f3a5464c371b8701397882d5ddb752&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:50:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h50 - Elija interprète « Tata Yoyo » en version lyrique avec Isabella à la guitare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:51:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h51 - Une partie des élèves se retrouve dans la cuisine avant une nouvelle coupure de son.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:52:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559307686032576605/image.png?ex=6ace99f2&is=6acd4872&hm=a57e3cb406797dff33360f1007e4ac87d415b703b7f28b28f96efaad9bf9ecef&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:53:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h52 - Mélina imite Jonathan pendant le cours de danse, sa posture et sa musculature.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:54:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h53 - Kylian dit avoir oublié des mouvements de la chorégraphie en sortant du cours.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:54:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h54 - Khalil dit qu’il a appelé son meilleur ami.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:55:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h55 - Flashback : Isabella regarde Elija répéter son évaluation et trouve ce qu’elle fait très joli.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:56:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Les chansons choisies par les élèves sont disponibles dans 🚨・actualités.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:56:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559308783526740058/image.png?ex=6ace9af8&is=6acd4978&hm=f140568e41f1bf71bdf26dec170d4f84104b3408f90c7ab403db9e3f7c36f7f8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:56:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559308891118895124/image.png?ex=6ace9b12&is=6acd4992&hm=95becb0eb7e6d4ee64fc95c887daf7c7cdd9f11b6c4898ed9f5e7ae58c52a563&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:57:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h57 - Mélina et Brieuc essaient de se rappeler la chorégraphie de l’hymne tout en chantant.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:58:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h58 - Félix fait des inhalations dans la cuisine.",
       "image_urls": []
     }
   ]
