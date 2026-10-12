@@ -1,179 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T20:00:04+02:00",
-  "period_end": "2026-10-12T22:00:04+02:00",
-  "updated_at": "2026-10-12T22:00:04+02:00",
+  "period_start": "2026-10-12T20:30:04+02:00",
+  "period_end": "2026-10-12T22:30:04+02:00",
+  "updated_at": "2026-10-12T22:30:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T20:00:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:00 - Isabella interprète « Happy » de Pharrell Williams, sa chanson d’évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:01:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Le saviez-vous ? « Happy » de Pharrell Williams possède une version du clip qui dure 24 heures !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:02:55+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559265123175239770/image.png?ex=6ace724f&is=6acd20cf&hm=42cbb0ca1e1838bf0a39f6f0f22686d4ab29e4abf5e5e2d7e9219772484d779b&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559265123519037530/image.png?ex=6ace724f&is=6acd20cf&hm=5079712fb46656be966aaaf2ea417db5c6ec6b2d052cca25d28e612e86b74923&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:03:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:02 - Maud et Isabella testent différentes variations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:04:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559265642962616442/image.png?ex=6ace72cb&is=6acd214b&hm=ea7b0539fe9f2acdd620f8af45dcfbbe333b7f61f03cd31ccce3e7bae536b29c&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:06:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:05 - Maud fait un « Le saviez-vous ? » à Brieuc (copieuse !) et lui explique que le bruit d’un claquement de doigts vient du doigt qui frappe la paume, pas du frottement entre les deux doigts.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:08:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:07 - Isabella dit aux autres qu’elle va demander au jury de marquer la pulsation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:09:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:08 - Maud dit qu’elle tourne beaucoup en rond dans le château, concentrée.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:12:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:10 - Nous sommes à présent dans la salle de danse avec Ydriss, Mélina, Félix, Khalil et Amel. C’est Ydriss qui s’y colle !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:12:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:12 - Ydriss s’entraîne sur « Tu n’es plus là » d’Amel Bent. ✊",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:13:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559267793449386084/image.png?ex=6ace74cb&is=6acd234b&hm=6ebb938d8aadb0eaab1f0003c8be8a05cb3111df719557d67d01ab0ce857ed31&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:13:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Khalil est puni",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:15:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:14 - Amel donne des conseils de placement à Ydriss et lui dit de ne pas tourner le dos au jury. (Alors que c’était Khalil qui tournait le dos… Je dis ça, je dis rien.)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:16:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559268488957132950/image.png?ex=6ace7571&is=6acd23f1&hm=231b351ac42962afd57f4e7a4b4c59cb0e87ec6f37864aa57371899c854d2e73&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559268489510912060/image.png?ex=6ace7571&is=6acd23f1&hm=0779def3eb0fa2d3652d8386106f1b173b5761a6970d7ce9c4e2724df3644d19&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:16:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Amel et Khalil au bout du rouleau",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:18:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:16 - Hop ! À la cuisine avec Brieuc et Zoé.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:19:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée... Noémie répète au foyer, elle aussi sur du Amel Bent. Morgan fouille dans des papiers, on ne sait pas pourquoi. On dirait qu’il a un contrôle fiscal.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:21:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:20 - Retour à la salle de danse. Toujours Ydriss. Toujours Amel Bent. Mettez un Kendji, jsp",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:23:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:22 - Mélina reprend le micro. Ydriss reste avec elle. Inspiration 1 2",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:24:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559270432039895040/image.png?ex=6ace7740&is=6acd25c0&hm=368d14bcba44c47638cb1a58e454c198a3443af5964e72be47983bc4b0489673&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:24:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Allez on y croit !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:25:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Le saviez-vous ? « Anyone Who Loves Me » de Charlotte Cardin était au départ un morceau dance/rap façon années 80 !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:27:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:26 - Ydriss et Mélina se complimentent sur leurs timbres de voix.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:28:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "20:27 - On retrouve Amel au salon avec un piano ET une guitare. (Je suis choqué. Délichoqué.)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T20:29:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559271691404714064/image.png?ex=6ace786d&is=6acd26ed&hm=dddcf6ffe179e691395749448c16c63a53a02a9187c4bd5e4d72f3841f062757&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T20:29:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Pour ceux qui disent que je raconte des craques",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T20:31:12+02:00",
       "channel": "🔴・infos-live",
@@ -348,6 +178,161 @@
       "timestamp": "2026-10-12T21:02:34+02:00",
       "channel": "🔴・infos-live",
       "content": "21:02 - Même pas le temps de vous dire bonsoir, que nous sommes déjà séparés par la pause ! 😢",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:05:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h03 - Je vous retrouve pour ce milieu de soirée pendant 1h15. Nous démarrons avec Maud au piano dans le salon qui répète son évaluation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:06:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559296143010046132/image.png?ex=6ace8f32&is=6acd3db2&hm=a2c6ee439a95a5cedb71f3aa751597ea024253628953fe7dd47f9c91086727ee&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559296143656095874/image.png?ex=6ace8f32&is=6acd3db2&hm=aab29859d27d6b0ed43a54f94d713eb06ce78a5acf73ad1c7d2c09852a28dabf&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:07:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h07 - Zoé, Brieuc et Khalil se préparent pour aller répéter en salle de danse",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:08:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h08 - Brieuc demande à Antoine s’il va répéter, sans réponse audible.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:09:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h09 - Nouvelle coupure de son.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:09:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559297055837524109/image.png?ex=6ace900c&is=6acd3e8c&hm=7e77a70177648366a9ff067f5ed66a40982d4166292fefa9e3dd115bfd1180c6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:12:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h10 - Brieuc et Ydriss sortent du château vers la salle de chant, puis vont au foyer où Cameron répète son évaluation.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:13:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h12 - Ils quittent aussi le foyer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:14:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559298126223900713/image.png?ex=6ace910b&is=6acd3f8b&hm=1d2db5e16c1c6e0f7a7988dedba69263810af754309c2ea5758936e2bb89245e&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:14:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h14 - Tracy rejoint Cameron au foyer puis ressort pour travailler au calme.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:15:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h15 - Cameron dit qu’il doit continuer à travailler, notamment l’attitude.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:16:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559298638629441586/image.png?ex=6ace9185&is=6acd4005&hm=720f9b81c82b58265981d7b24a949ec2f423fe056ea6dc4a5336a423abdf0e88&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:17:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h17 - Vue sur l’escalier.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:18:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h17 - Flashback sur les répétitions d’Ydriss dans la salle de danse, sous les yeux de Brieuc et Zoé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:19:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559299411522355230/image.png?ex=6ace923e&is=6acd40be&hm=46ec77fca0046eca23fd336b1b615b9838abfb2ce18f5ca65c02e12d8295659f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559299412285587647/image.png?ex=6ace923e&is=6acd40be&hm=c66393f1ae6833f6bd6c06730ea976c91cc880307cc7af47555d6faa9c40e4cb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:20:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h20 - Vue château en attendant la suite.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:22:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h21 - Morgan et Tracy discutent dans le salon côté piano avant une nouvelle coupure du son.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:23:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h22 - Ydriss et Morgan écrivent « à ranger » sur des post-it et les posent dans le château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:23:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559300516834451546/image.png?ex=6ace9345&is=6acd41c5&hm=7773ea8eccd191c995bcfa3d59a0937fb01feb45cf7433c95126e3ffb9d4ef69&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:25:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h23 - Flashback : Félix révise « Set Fire to the Rain » d’Adele.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:27:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h26 - Flashback : Leeloo et Amel discutent du cours de danse dans la chambre des filles. Elles ont adoré ; c’était le premier cours de danse de la vie d’Amel.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T22:27:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559301568766017638/image.png?ex=6ace9440&is=6acd42c0&hm=c4d361fc4b9ca67eaad532cfa4809a1ec66896315222abdd78c66e9ceb04b1a7&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559301569231720548/image.png?ex=6ace9440&is=6acd42c0&hm=df793c141b7a33d698209fb47b53f88f98ae476d39bb33da0ec930c87e339633&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T22:28:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "22h28 - Retour au direct… finalement vue château.",
       "image_urls": []
     }
   ]
