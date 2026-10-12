@@ -1,323 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T11:30:03+02:00",
-  "period_end": "2026-10-12T13:30:03+02:00",
-  "updated_at": "2026-10-12T13:30:03+02:00",
+  "period_start": "2026-10-12T12:30:03+02:00",
+  "period_end": "2026-10-12T14:30:03+02:00",
+  "updated_at": "2026-10-12T14:30:03+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T11:30:38.210+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h30 - Changement de pièce, on retrouve Maud, Kylian et Ydriss autour du piano du salon !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:30:43.507+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559136225057570816/IMG_9960.png?ex=6acdfa43&is=6acca8c3&hm=cb2ec703364ae7f734f479d864ffa020466af1ab0e3b7c53d2487e6e5d5ee4b3&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T11:37:35.767+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Flashback : Tracy qui chante au piano.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:37:40.167+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559137972819988550/IMG_9961.png?ex=6acdfbe4&is=6accaa64&hm=0d4dc8483c60cfd26512b4a5a7681b8af6f80c2346549523227b49639488918d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T11:39:28.875+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h38 - Noémie au théâtre révise Tu n’es plus là d’Amel Bent, sous le regarde d’Isabella.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:39:35.100+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559138454384939008/IMG_9962.png?ex=6acdfc56&is=6accaad6&hm=834f98ff2cd746ed7fb47fed1f474cbbbd206eb04b675555036359c4bdacf50e&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559138454888251462/IMG_9963.png?ex=6acdfc57&is=6accaad7&hm=81dea2fafe708621da3f16a15eb4180034e7a103f3dffc57278971c7cc068c79&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T11:41:27.077+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h41 - Isabella la conseille sur sa tona.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:44:12.412+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h43 - Nouvelle tentative pour Noémie, suite à ses échanges avec Isabella sur les placements de voix. Elle hésitait ce matin avec un titre de Charlotte Cardin. Isabella semble avoir adoré alors que Noémie est dubitative.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:45:58.655+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h45 - Isabella lui dit qu'elle a un potentiel et une émotion de dingue, pour elle, le top 3 est jouable. On repart sur un troisième essai.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:49:52.517+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h48 - Isabella est devenue prof d'expression scénique et les conseils portent leurs fruits ! Noémie drop le mic' à sa coach du jour.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:52:00.716+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h50 – Inversion des rôles : Noémie est désormais aux premières loges pour le show d’Isabella, toujours sur le titre « Happy ».",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:54:07.306+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Bonjour les amiiiisssssss ! ^^",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:54:45.203+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h54 - Cameron rejoint les filles au théâtre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:55:35.817+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h55 - Noémie et Isabella chantent Happy de Pharell Williams.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559142484318363678/image.png?ex=6ace0017&is=6accae97&hm=caa258fc6e1ea35ee1fa8f7c9629e303f5ef906600e294453570d6d3c5a89198&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T11:56:58.548+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h56 - château et cuicui",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:58:54.798+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h58 - Cameron, Isabella et Noémie entendent depuis le château une des académiciennes chanter Happy en piano-voix.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T11:59:24.884+02:00",
-      "channel": "🔴・infos-live",
-      "content": "11h59 - Noémie dit se reconnaitre beaucoup en Cameron, ils ont peur.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:00:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h00 - Il est 11h30 chez eux, Noémie mentionne qu'il faudra pas tarder à aller manger car ils ont cours de chant à 13h (soit 13h30 pour nous).",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:01:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h00 - Morgan arrive et mentionne ne pas trouver de place où chanter. Noémie et Isabella ayant déjà chanté, lui propose de rester ici.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:02:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h01 - L'académicienne qui chante en piano voix au foyer est Tracy.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:02:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h02 - Isabella veut entendre Cameron chanter. Il essaye d'y échapper, il demande à Morgan d'y aller.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:03:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Morgan dit qu'il va danser aussi pour son évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:03:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h03 - Morgan aurait visiblement choisi Ces gens là de Jacques Brel pour son évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:03:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559144584460767243/image.png?ex=6ace020c&is=6accb08c&hm=a4e7b0153ab1008b35643d0b27447afbf43f835c139ec545949775ceb4054e73&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559144585085849683/image.png?ex=6ace020c&is=6accb08c&hm=5d8c28cf1ec4fbd4a8a306199512b5edb56a388019c519c329d0e3ab4ccdbf36&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T12:05:15+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h05 - Zoé à rejoint le théâtre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:06:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h05 - Les élèves applaudissent. Isabella dit que c'est hyper cool. Morgan dit connaitre légèrement la musique mais il l'a apprit vraiment tout à l'heure.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:06:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h06 - Zoé dit ressentir des vagues d'émotion à certains moment. Morgan dit qu'il voudrait maintenant chorégraphier sa prestation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:07:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h07 - Ydriss arrive au théâtre, il est muni d'une feuille et se balade de pièce en pièce pour noter qui mange de la viande pour préparer les repas.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:08:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h08 - Au tour de Cameron, il a choisi Ces gens là de Jacques Brel aussi.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559145812318101595/image.png?ex=6ace0331&is=6accb1b1&hm=c44b6675294048d29db0ecefde9c8cea8af084cefdf4a6c145ea445ce798671a&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559145812708294727/image.png?ex=6ace0331&is=6accb1b1&hm=f9eb08199877178ac3c39061fae50a60c43ad20d0f9be6679a88232265b2a493&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T12:10:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h10 - Isabella dit qu'en écoutant la version de Cameron et de Morgan c'est deux univers différents, elle trouve ça très beau.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:11:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h10 - Morgan dit a Cameron qu'il aime beaucoup la version qu'il a proposé.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:11:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h11 - Isabella ajoute que personne n'est comparable ici, elle leur demande de ne pas se comparer car chacun à son univers.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:12:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h12 - Les élèves présent dans le foyer entendent encore Tracy jouer et chanter au piano, ils crient pour lui dire que c'est très bien. On entend Tracy répondre à Morgan en lui disant que c'était très bien aussi lui.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:13:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h13 - Au tour de Zoé , elle aurait choisit Set Fire to the Rain de Adèle.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559147093577171014/image.png?ex=6ace0462&is=6accb2e2&hm=04c3a74a63695f6a2129f1052be19f0e54f3a380c87c2d809193218e43696a68&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559147094005252116/image.png?ex=6ace0462&is=6accb2e2&hm=0d9a2e3ee843dd191c053c552684f035ea532acf5fa42ca50f7a8efe2cead7d7&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T12:16:27+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h15 - Cameron dit à Zoé que c'était incroyable. Morgan ajoute à Zoé \"j'espère que t'es prête à faire la battle du Top 3\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:17:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h16 - Noémie dit à Zoé qu'il faut qu'elle fasse la musique à sa manière , il ne faut pas qu'elle copie qui que ce soit.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:17:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h17 - Cameron dit à Zoé d'utiliser les conseils de Lydia pour vivre à 100% les émotions de la musique.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:18:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h18 - Pendant que Zoé prend des conseils avec Cameron, Isabella récupère le micro pour chanter sa musique.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:19:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h19 - Morgan mentionne le fait d'avoir bien dormi et d'être reposé. Cameron et Zoé sont d'accord avec lui.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:20:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h19 - Direction le foyer, on y retrouve Antoine, Mélina et Khalil.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:21:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h20 - Antoine est en train de chanter Monde de Luidji.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559148903364829286/image.png?ex=6ace0612&is=6accb492&hm=feab2a2f066ec6d30f6d4627fe17c1a0984e487783966d9508b2b0e0ba44cf85&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T12:22:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h21 - Antoine dit ne pas être encore à fond dans l’interprétation. Il dit que Luidji est un des artiste qui représente beaucoup son univers musical.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:23:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h22 - Melina dit qu’elle a choisit Anyone Who Loves Me de Charlotte Cardin.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:25:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h23 - Plus tôt dans la journée..., Leeloo se trouvait dans la chambre avec un piano en train de réviser la musique qu'elle a choisi.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:25:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559149985424080916/IMG_7929.png?ex=6ace0714&is=6accb594&hm=49c6e1724a90fa61f248717159902b8f20a0b5d78bd3c07a68cc6c2cd2edd9c6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T12:26:09+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h25 - Plus tôt dans la journée.. , Elija et Amel étaient dans la cuisine en train de faire à manger.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559150175057092689/image.png?ex=6ace0741&is=6accb5c1&hm=a9ae89525d1c33553a83457c97a89af934621ade315bc93beb6f74d14e86c1db&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T12:27:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h26 - Retour au foyer, avant qu'on me coupe le live sous le nez pour la pause ARCOM.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T12:27:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "12h27 - PAUSE ARCOM, les élèves reviennent dans 1h environ.\nBon appétit à tous !",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559150550736437348/image.png?ex=6ace079a&is=6accb61a&hm=bbf0ca56c76ca36555faca80110c38e70f449641484862a128e0c8a47c886198&"
-      ]
-    },
     {
       "timestamp": "2026-10-12T13:27:16+02:00",
       "channel": "🔴・infos-live",
@@ -335,6 +21,156 @@
       "channel": "🔴・infos-live",
       "content": "Deuxième flashback, Kylian révise sa chanson Tu n'es plus là d'Amel Bent.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:30:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559166307742646333/IMG_9966.png?ex=6ace1647&is=6accc4c7&hm=82d2b98101973267f1df3d861d72897e306c4c04bd22ca5ac9ecbc7fa1b506c9&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T13:32:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Troisième flashback, Kylian révise All of me de John Legend avec Zoé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:33:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "13h32 - Leeloo est au foyer, elle joue quelques notes de piano en écoutant dans son MP3.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:33:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559167124826750976/IMG_9969.png?ex=6ace170a&is=6accc58a&hm=827a3386baa35801ba21b384f3978eddd87129eee6300aceed9d2a6d141a1993&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T13:34:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "13h34 - Elle commence à chanter sa chanson pour les évaluations A la vie de Suzanne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:35:55+02:00",
+      "channel": "🔴・infos-live",
+      "content": "13h35 - Elle récupère ses affaires et quitte le foyer en direction du château, elle capte quelqu'un dehors, elle dit avoir eu peur d'être en retard et d'avoir loupé la sonnerie.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:36:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": ":escalier:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:38:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "13h37 - Tracy joue au piano et chante sa chanson d'éval dans le petit salon.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:39:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559168719425507378/IMG_9970.png?ex=6ace1886&is=6accc706&hm=8346b12e4dc6e187f771cd41d3fdfb9dbe901829f31e41658916fdfa675f7a34&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T13:45:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "13h44 - Elija prends place dans le petit salon, elle révise A la vie de Suzanne. Du monde la regarde, Noémie, Tracy, Brieuc...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:45:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": ":escalier:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:47:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Flashback, Kylian qui révise All of me de John Legend, Noémie qui le regarde, il dit vouloir être accompagné au piano par Maud.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T13:49:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "13h50 - SONNERIE - Direction le 🎤・cours-de-chant",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:03:24+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Amel\n\nElle chante Killing Me Softy With His Song, sa chanson du prime, Sofia a noté lors du prime : \"Frais, waw. Ca grouve\".\n\nAmel indique avoir la voix cassée, la prof de chant s'adresse à tous et leur dit que la technique va les sauver dans ce type de situation, ils doivent boire beaucoup d'eau.\n\nAmel fait un premier passage. Sofia trouve qu'elle manque de dynamisme, elle doit capter le public et pour ça elle doit se faire plaisir à elle, elle doit chanter avec une urgence corporelle. Elle refait un passage là-dessus, Sofia lui demande comment elle s'est sentie, Amel dit beaucoup mieux. Elle doit corriger son corps.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:03:31+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559174679254663239/IMG_9976.png?ex=6ace1e13&is=6acccc93&hm=a6c2c2e83d2495b4bc0468ef37aed72a7ca0bd9ab375c03d5d7d82b727fbd9b7&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T14:12:25+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Cameron\n\nSofia dit qu'elle adore ce qu'il fait, car il fait \"de la chialerie\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:12:41+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "PROBLEME TECHNIQUE COUPURE",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:14:34+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Brieuc\n\nOn reprend en plein coaching. Brieuc doit mettre son doigt dans sa bouche en répétant \"Maman s'inquiète, Maman s'inquiète, ça fait rouler les larmes sur ses joues\" pour qu'il prononce mieux les mots. Puis il reprend en chantant, elle trouve ça beaucoup mieux.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:14:39+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559177481460785203/IMG_9979.png?ex=6ace20af&is=6acccf2f&hm=24806dada68308aaf74fe003504a5409e09c514db66d21f2e037de8581a0eea5&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T14:18:40+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Ydriss\n\nSofia a noté lors du prime : \"Grande voix avec beaucoup de possibilités\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:19:00+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "PROBLEME TECHNIQUE COUPURE",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:25:56+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Khalil\n\nReprise en plein coaching. Il chante sa chanson Un coup de soleil.\n\nSofia lui dit que c'est bien mais il ne respire jamais ; par contre, il a un très bon contrôle de l'air. Elle lui demande s'il a fait un sport : il faisait de la natation. Elle comprend pourquoi mais lui dit qu'il doit apprendre à respirer. Sofia lui demande de mettre ses mains sous les yeux et dire : \"Qui qué qua\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:26:25+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559180442547126303/IMG_9981.png?ex=6ace2371&is=6accd1f1&hm=a2a40e714a10c69626d7b5947f9436ce28c04b1c41f94d350dcd5e637a91a79e&"
+      ]
     }
   ]
 }
