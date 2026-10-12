@@ -1,85 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-11T23:50:05+02:00",
-  "period_end": "2026-10-12T01:50:05+02:00",
-  "updated_at": "2026-10-12T01:50:05+02:00",
+  "period_start": "2026-10-12T00:00:05+02:00",
+  "period_end": "2026-10-12T02:00:05+02:00",
+  "updated_at": "2026-10-12T02:00:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-11T23:50:45.877+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h49 - Elle se rend dans la cuisine, où les autres elèves sont aussi solidaires pour la réconforter. \nTous sont là pour elle et pour lui redonner le sourire.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:51:27.287+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558960247668744352/Screenshot_20261011_234901_TF1.jpg?ex=6acd565f&is=6acc04df&hm=aff52fd2eece3490764ab7f5c1e73a9a8606a24334899c3216e4a53faa08a2a2&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558960248058810530/Screenshot_20261011_235058_TF1.jpg?ex=6acd565f&is=6acc04df&hm=0645eac9fa8bb8c21b2fb76b04d4654f97e705c1459277909285ffdf84761166&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:51:40.033+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h51 - Plan Escalier",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:51:59.041+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Reprise des images, toujours dans la cuisine",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:53:39.726+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Dans la chambres des filles, nous assistons à une chasse aux \"bestioles\" de Khalil avec son aspirateur à main. Elija est là pour le soutenir.... moralement",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:53:44.902+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558960825270538240/Screenshot_20261011_235208_TF1.jpg?ex=6acd56e8&is=6acc0568&hm=486fbd30b788f6d255bd7df6a8d656a290a1ae1ada6dbcd8f47110638ccff134&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:55:01.688+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h53 - Après un petit passage plan château, les images reviennent dans la cuisine. Les élèves présent continuent de discuter du premier prime et du fait qu’il faut être fier de ce qui a été proposé par chacun d’entre eux",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:57:15.597+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558961708805128352/Screenshot_20261011_235607_TF1.jpg?ex=6acd57bb&is=6acc063b&hm=97f8d75651735e674e330d0458e2e1b7fc2cece6f4414f36b33469505dab18c5&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:58:22.814+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h57 - Petite session photo dans le Foyer/Studio pour un petit groupe d'élèves. (Morgan, Kylian, Maud, Melina et Felix)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-11T23:58:28.974+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558962016033579228/Screenshot_20261011_235619_TF1.jpg?ex=6acd5804&is=6acc0684&hm=56380af97c748377a00e3d309b93be6fc11782b8e9523fc4b8cd8b0b072669be&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558962016633229423/Screenshot_20261011_235641_TF1.jpg?ex=6acd5804&is=6acc0684&hm=40977a45a75db66569ff3448e0bd35de8807a2dfa3ab5e83d887f4ddf7221fd1&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T23:58:43.310+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Nouveau plan château",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T00:00:14.463+02:00",
       "channel": "🔴・infos-live",
