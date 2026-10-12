@@ -1,27 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T12:30:03+02:00",
-  "period_end": "2026-10-12T14:30:03+02:00",
-  "updated_at": "2026-10-12T14:30:03+02:00",
+  "period_start": "2026-10-12T13:30:03+02:00",
+  "period_end": "2026-10-12T15:30:03+02:00",
+  "updated_at": "2026-10-12T15:30:03+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T13:27:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "REPRISE DU LIVE DE L'APRES-MIDI\nHeureuse de vous retrouver pour 2h30 ensemble, j'espère vous allez me tenir compagnie !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T13:28:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Flashback, révision d'Elija au théâtre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T13:30:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Deuxième flashback, Kylian révise sa chanson Tu n'es plus là d'Amel Bent.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T13:30:15+02:00",
       "channel": "🔴・infos-live",
@@ -171,6 +153,130 @@
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500852272559554624/1559180442547126303/IMG_9981.png?ex=6ace2371&is=6accd1f1&hm=a2a40e714a10c69626d7b5947f9436ce28c04b1c41f94d350dcd5e637a91a79e&"
       ]
+    },
+    {
+      "timestamp": "2026-10-12T14:32:40+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "PROBLEME TECHNIQUE COUPURE",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:52:19+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Isabella (Flashback)\n\nSofia a noté qu'il fallait lisser les registre. Elle chante sa chanson du prime Louis.\n\nElle lui demande si elle a fait de la musique, Isabella a fait de la guitare, elle sait donner du sens à la ligne mélodique. Elle voudrait qu'elle apprenne à respirer au niveau de la sangle abdominale.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:54:31+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Félix\n\nEn plein coaching, Sofia l'a corrigé. Félix n'a pas l'impression que c'est lui qui chante. Sofia note sa fiche finale : \"Le corps chante et la chilarie\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T14:54:46+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559187575216939038/IMG_9994.png?ex=6ace2a16&is=6accd896&hm=8c5c96c465992facaa6ef41f4c4b0eca855642b981721e17a02e0d569c5c0013&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T14:59:57+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Morgan\n\nSofia commence par dire : \"oh bah toi je t'ai vu dansé\". Elle a notée \"le souffle\" sur sa fiche lors du prime. Il chante Le temps. Sofia dit qu'il chante qu'avec le bas de la tête mais pas avec le corps. \"Eh Charly, ne me fait pas croire que je n'ai pas fait ce qu'il faut...\", il doit répéter cette phrase en chantant. Elle note sur sa fiche finale \"Prends le temps d'articulé\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T15:01:15+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559189207061237800/IMG_9996.png?ex=6ace2b9b&is=6accda1b&hm=bbf3562e46bbf36cea723c519f5f3afef6a440a314546f84bdd80c3d1c25a87a&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:03:51+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Tracy\n\nSofia a notée : \"voix solaire\" lors du prime. Elle chante sa chanson du prime Stop!.\n\nLa conclusion de Sofia est qu'elle est trop au dessus de sa voix. Elle doit prendre une voix grave et répéter \"Wow, génial\". Tracy reprends un passage de sa chanson, en respirant bien et en travaillant sur les chemins résidentiels de sa voix. \"Chanter avec sa voix de poitrine pour libérer le larynx\" est la phrase sur sa fiche.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T15:04:00+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559189901273079958/IMG_9997.png?ex=6ace2c40&is=6accdac0&hm=dbaa6e867c29824db4c821f255f4c30399d88e9f9eb342e4c83e5983f8b50906&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:08:21+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Zoé\n\nSofia a notée : \"fraicheur, voix fraiche, apprendre à soutenir\". Elle chante sa chanson du prime S'il suffisait d'aimer.\n\nLa prof de chant veut trouver de l'engagement dans le corps comme Leeloo, elle doit trouver les consonnes. Elle doit s'imaginer d'avoir pris une pastille à la menthe et répéter \"Je rêve son visage\". Zoé trouve plus de hauteur dans sa voix. Elle doit penser à ce mettre au niveau du masque, c'est sa phrase pour la fiche.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T15:08:54+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559191132800290936/IMG_9998.png?ex=6ace2d66&is=6accdbe6&hm=ee537d2f330d736ab8eccc1ca797ac4a10711e468936bd2519235163302cf2b5&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:11:53+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Antoine\n\nSofia a notée : \"J'aime bien...\" COUPURE. Il chante un passage de sa chanson du prime Le temps.\n\nIl doit prendre le temps, il ne doit pas être dans l'urgence et trouver de l'énergie au niveau de ses muscles. Sofia note \"Attention les attaques\" sur sa fiche.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T15:12:51+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559192126728704081/IMG_9999.png?ex=6ace2e53&is=6accdcd3&hm=5966a01dcd6bdce933d420b225f352068c3e89f3812529793bc826993f9d79fa&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:18:01+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Kylian\n\nSofia a notée : \"très beau timbre\". Il chante In The Stars;\n\nElle le reprends sur la tristesse et la nostalgie, il joue trop l'émotion car il plomb son engagement, ils doivent trouver de l'espoir dans la tristesse. Sofia le fait répéter plusieurs fois la même phrase dans la chanson, il doit abandonner tous les effets de voix. Kylian recommence plusieurs fois, il doit apprendre à déconstruire et chercher la simplicité. Sofia note \"simplicité du geste vocal\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T15:18:14+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559193481396879430/IMG_0001.png?ex=6ace2f96&is=6accde16&hm=7b39c438740216c74fb6dee003a49f3f115e09e3fc166b4f1fe672099c6dea36&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:23:02+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Maud\n\nSofia a noté : \"Waw rockeuse\". Elle chante sa chanson du prime Melodrama.\n\nSofia veut retrouver plus de souplesse dans sa voix, elle doit ouvrir sa cage thoracique. Elle note sur sa fiche \"respiration pneumocostodiaphragmatique\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T15:23:16+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559194747132977262/IMG_0002.png?ex=6ace30c4&is=6accdf44&hm=939cb5eefc6f19be237623d74b9dd636886ebc4084b7488d1f466a80fc7ba10b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:28:02+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "Noémie\n\nSofia a noté \"Enrichir le timbre\". Elle chante sa chanson The Stars.\nElle la reprend avec unn exercice BI RI DI.\nElle termine par féliciter Noémie et lui demande de chanter sur des BI RI DI pour travailler sa hauteur dans le chant.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500852272559554624/1559195947777527929/image.png?ex=6ace31e2&is=6acce062&hm=2fb153e69cd437b1c1e1193fe85f0595798c91652bd07e45e34d1600fe2d5b14&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:29:01+02:00",
+      "channel": "🎤・cours-de-chant",
+      "content": "15h28 - SONNERIE , le cours de chant est terminé. Sofia clôture ce cours par remercier les élèves et leurs donne les carnets oranges afin qu'ils puissent écrire dedans les conseils des professeurs.",
+      "image_urls": []
     }
   ]
 }
