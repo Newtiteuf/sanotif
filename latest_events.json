@@ -1,59 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T00:30:05+02:00",
-  "period_end": "2026-10-12T02:30:05+02:00",
-  "updated_at": "2026-10-12T02:30:05+02:00",
+  "period_start": "2026-10-12T00:40:05+02:00",
+  "period_end": "2026-10-12T02:40:05+02:00",
+  "updated_at": "2026-10-12T02:40:05+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T00:30:51.813+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h30 - Sur un beau plan Escalier, je céde ma place à la rédaction à @Ghost . \nBonne continuation info live en sa compagnie",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:31:59.792+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h31 Merci @Kevin D ! Bonsoir tout le monde ! On se retrouvent pour la dernière ligne droite de ce live, jusqu'à 2 heures du matin, go !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:34:05.972+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h32 On retrouve Isabella et Noémie dans  la sale de bain des filles elles discutent de la prestation de Noémie en disant qu'elle a sa place, qu'elle était vraiment dans sa prestation",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:34:24.210+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558971056377696407/image.png?ex=6acd6070&is=6acc0ef0&hm=82132029bb8d74178eaf03453d91300128c47f7d9a43038c8dff81bafa770e26&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T00:35:18.472+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Isabella précise qu'avec sa formation d'ingé son, elle parle technique en disant qu'elle à une voix avec une belle fréquence, contrairement à d'autres où c'est différent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:37:03.261+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h36",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:37:29.073+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T00:39:50.463+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h39 Plan château de Nuit",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T00:42:30.078+02:00",
       "channel": "🔴・infos-live",
