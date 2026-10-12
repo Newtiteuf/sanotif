@@ -1,121 +1,369 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T00:50:05+02:00",
-  "period_end": "2026-10-12T02:50:05+02:00",
-  "updated_at": "2026-10-12T02:50:05+02:00",
+  "period_start": "2026-10-12T07:30:03+02:00",
+  "period_end": "2026-10-12T09:30:03+02:00",
+  "updated_at": "2026-10-12T09:30:03+02:00",
   "events": [
     {
-      "timestamp": "2026-10-12T00:53:00.311+02:00",
+      "timestamp": "2026-10-12T08:35:40.198+02:00",
       "channel": "🔴・infos-live",
-      "content": "00h52",
+      "content": "Les années passent mais ça fait toujours aussi mal.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:37:26.143+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h36 - Apparemment Elija avait oublié d’éteindre son réveil qui a sonné à 2h du matin.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:38:01.679+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h37 - La lumière s’allume chez les garçons.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:38:06.455+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558975737317433344/image.png?ex=6acd64cc&is=6acc134c&hm=0e2e91debc0c731545ee1fde1e597719b617932583b2d5ae40a2d4f43c54affa&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559092783866712165/IMG_9938.png?ex=6acdd1ce&is=6acc804e&hm=5c687efac9fc4e1480df777f612c7c9863fb0363327195b2799a2d38a52962ad&"
       ]
     },
     {
-      "timestamp": "2026-10-12T01:01:56.756+02:00",
+      "timestamp": "2026-10-12T08:39:25.731+02:00",
       "channel": "🔴・infos-live",
-      "content": "01h01 : Toujours en présence du château",
+      "content": "08h39 - Les académiciennes se lèvent.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:04:50.036+02:00",
+      "timestamp": "2026-10-12T08:39:29.325+02:00",
       "channel": "🔴・infos-live",
-      "content": "01h04 Retour en haut des escaliers, avec Isabella, Brieuc, Felix, Kylian, Morgan en petite séance de dans improvisé",
+      "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558978714530877630/image.png?ex=6acd6791&is=6acc1611&hm=2c4f4f1ea40b47126d3622499d17c1efd329c9775cccf026f4cd0e116dfda3df&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559093132119908372/IMG_9940.png?ex=6acdd221&is=6acc80a1&hm=cbebac2db41d864a7dd1b9c847fab33a1ea27097aef8bb8af0db167ac423f189&"
       ]
     },
     {
-      "timestamp": "2026-10-12T01:06:35.113+02:00",
+      "timestamp": "2026-10-12T08:40:19.642+02:00",
       "channel": "🔴・infos-live",
-      "content": "Suivi de Ydriss dans son lit à réviser les paroles de l'hymne rejoins par Antoine",
+      "content": "08h40 - Zoom sur la fenêtre depuis le jardin.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:06:58.403+02:00",
+      "timestamp": "2026-10-12T08:40:22.392+02:00",
       "channel": "🔴・infos-live",
-      "content": "01h06 Ah, plan escalier",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T01:11:56.179+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h11 -",
+      "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558980501845446766/image.png?ex=6acd693c&is=6acc17bc&hm=7c27a9566d3bf83255e40ccd0cdec03a8281df736e53fe4fd8dd34cc9d0d89e9&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559093354971795486/IMG_9942.png?ex=6acdd256&is=6acc80d6&hm=06ee1c304ebac98f252a6676f8f933ea11617065adc6c00b8ac19ac06c8185d7&"
       ]
     },
     {
-      "timestamp": "2026-10-12T01:16:43.725+02:00",
+      "timestamp": "2026-10-12T08:40:33.702+02:00",
       "channel": "🔴・infos-live",
-      "content": "01h15 - En direct de la Chambre des filles avec Tracy, Noémie ? à côté à réviser les paroles de l'hymne",
+      "content": "Début de film d’horreur ça je reconnais.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:41:28.011+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:42:42.765+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h42 - Les filles comment a se lever et papotent : boutons, il fait froid….",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:42:48.163+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558981708135530567/image.png?ex=6acd6a5b&is=6acc18db&hm=e0eef0efbfd0002bac2b736b5dc0527d2df9e160aa358729318a1762f1125610&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559093966564237322/IMG_9943.png?ex=6acdd2e8&is=6acc8168&hm=0e14a6b23fcc0ce577f87829003db286c7e4e335eb070593e0f0e095e6d1b507&"
       ]
     },
     {
-      "timestamp": "2026-10-12T01:17:59.971+02:00",
+      "timestamp": "2026-10-12T08:43:19.390+02:00",
       "channel": "🔴・infos-live",
-      "content": "Une voix off prévient qu'elle va éteindre la cuisine !",
+      "content": "08h43 - Tracy et Leeloo se brossent les dents dans la salle de bain.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:20:13.130+02:00",
+      "timestamp": "2026-10-12T08:44:29.263+02:00",
       "channel": "🔴・infos-live",
-      "content": "Maud les rejoins en demandant si elles apprennent la totalité des paroles, ou si elles apprennent que leurs parties.",
+      "content": "Vous avez les prénoms des 17 académiciens en tête ? Perso non.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:21:06.774+02:00",
+      "timestamp": "2026-10-12T08:46:38.088+02:00",
       "channel": "🔴・infos-live",
-      "content": "Tracy répond qu'elle écoute toute la musique, mais qu'elle apprend surtout sa partie",
+      "content": "08h46 - Noémie et Brieuc sont dans le vestiaire, ils prennent leur vêtement.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:21:37.890+02:00",
+      "timestamp": "2026-10-12T08:46:42.136+02:00",
       "channel": "🔴・infos-live",
-      "content": "01h21 - Retour plan escalier",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T01:26:04.312+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h25 Plan escalier\nchercher dans l'image",
+      "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558984059177402368/c74ec1bc-c261-45bb-b517-d264aae4b893.png?ex=6acd6c8c&is=6acc1b0c&hm=d203cf1765f6d572ede6d233ff1e7ccd5e56f4b217b6ed1cfe5b29d785805174&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559094947850887218/IMG_9944.png?ex=6acdd3d2&is=6acc8252&hm=853b277a962469aaad8e096c03c9a21b37008eef3d55e3c8e456bbf0cb723371&"
       ]
     },
     {
-      "timestamp": "2026-10-12T01:26:44.892+02:00",
+      "timestamp": "2026-10-12T08:47:41.319+02:00",
       "channel": "🔴・infos-live",
-      "content": "Trouvé ?",
+      "content": "08h47 - Ils sont rejoint par Zoé, Leeloo, Antoine, une tête masculine bonnet cheveux brun.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:29:23.737+02:00",
+      "timestamp": "2026-10-12T08:49:39.602+02:00",
       "channel": "🔴・infos-live",
-      "content": "01h28 Extinction des lumières",
+      "content": "08h48 - Noémie, Maud, Tracy et Amel sont dans la salle de bain, elles se préparent. Noémie demande comment vont elle s’habiller. Amel dit qu’elle met directement sa tenue de danse.",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:30:41.128+02:00",
+      "timestamp": "2026-10-12T08:49:43.410+02:00",
       "channel": "🔴・infos-live",
-      "content": "Chambre des filles",
+      "content": "",
       "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1558985220076609546/image.png?ex=6acd6da1&is=6acc1c21&hm=9e1897717886b91c58817483d31ded2768d9eaf606e1c9581c797f9cd996b2ed&"
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559095707842117722/IMG_9945.png?ex=6acdd487&is=6acc8307&hm=e5f741c6f9ac4b55519faed893320359f139c285bd3844257833af60b5805f80&"
       ]
     },
     {
-      "timestamp": "2026-10-12T01:31:54.362+02:00",
+      "timestamp": "2026-10-12T08:52:46.719+02:00",
       "channel": "🔴・infos-live",
-      "content": "01H30 Fin du live du coup,",
+      "content": "08h52 - Changement de salle de bain direction chez les mecs. On y retrouve Ydriss et ?",
       "image_urls": []
     },
     {
-      "timestamp": "2026-10-12T01:32:40.671+02:00",
+      "timestamp": "2026-10-12T08:52:50.431+02:00",
       "channel": "🔴・infos-live",
-      "content": "Bonne nuit à toutes et tous et à demain 7h30 avec @Nantaise44 🩷 !",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559096492252336218/IMG_9946.png?ex=6acdd542&is=6acc83c2&hm=a2ca1aecbcdb4c5359e75d98c2f2b47308a8f2c0793b79ad271cf7cf8b4f3ce8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T08:53:53.718+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h53 - ? (Un mec) dit que c’est chaud de se laver le matin.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:54:42.396+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h54 - Elija explique aux garçons qu’hier aucun lave vaisselle n’a été lancé, elle leur demande d’y veiller car elle a du faire de la vaisselle.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:54:45.795+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559096976446988339/IMG_9947.png?ex=6acdd5b5&is=6acc8435&hm=87628404ca28c35ada86555a5a45b289c59d4bc231f5384a91aa45787b3ec364&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T08:54:56.686+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:56:33.332+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h56 - Ils consultent le planning sur le frigo. Apparement cours de chant à 13h00 (heure château).",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:58:37.166+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h58 - Elija aime bien aller dehors le matin.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T08:59:51.851+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h59 - Ils galèrent avec le distributeur a céréales.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:00:01.921+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559098302081933433/IMG_9950.png?ex=6acdd6f1&is=6acc8571&hm=634f48384c816deca1a288298bb24f6ffaf17973077d6afffdd474aab974136a&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:00:06.079+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Je ne connais pas le prénom de ce Monsieur.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:00:45.581+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h00 - Ils ont mit des céréales partout, Antoine (j’ai appris le prénom entre temps), prends l’aspirateur.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:01:37.178+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h01 - Un inconnu et Briac terminent de se préparer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:01:43.175+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559098726755205120/IMG_9952.png?ex=6acdd757&is=6acc85d7&hm=721731a014d8f45716097edc0af7f39e0afe848c9d83a4e044216446dc67b49b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:02:09.692+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Je vous fait le relai habituel et je vous laisse avec @Aurélia💜 ! À toute pour chanter avec Sofia.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:02:48.881+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bonjour la team",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:04:13.711+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h02 : Idriss cherche sa gourde dans le salon en révisant du Celine dion, Direction dans la salle de bain ou Kylian se brosse les dents.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:04:47.197+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559099498423263232/IMG_8846.png?ex=6acdd80f&is=6acc868f&hm=f8ef605c151e6ec51cc2b31d42e1538ef8979b2d148f21bd646169cbc335c676&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:05:47.392+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h04 : Petite discussion de Kylian et Antoine sur les bonnets . Kylian avoue ne jamais en mettre .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:08:03.719+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h06 : Idriss cherche toujours sa gourde , Cameron dit que l'on va savoir le thème des évaluations a 9h00 donc 9h30 pour nous . La prise de tonalités  et l'annonce des artistes pour le prime se fera pour 17h30.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:10:05.871+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h08 :Dans la salle de bain des filles on accelere la preparation au programme brossage de dents , maquillage et coiffure . On parle de brosse a cheveux en poils de sanglier .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:10:15.790+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559100876499591198/IMG_8847.png?ex=6acdd957&is=6acc87d7&hm=6797993ad5fc09c1a826c08b2818f1dc1fa843ebaa90eda8b951dbecfc509c05&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:12:03.666+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h11 : Ca parle de ref t'es dans le monde de la musique  mais José coupe",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:13:45.248+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h12 : Retour dans la salle de bain ou Zoé s'amuse a chanter Mourir sur scène. Dans la salle de bain des garcons c'est atelier coiffure et rasage .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:16:02.646+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h14 : Cameron , Morgan et Felix discutent dans la cuisine sur le theme des evaluations . Ils veulent partir en avance pour ne surtout pas être en retard .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:16:10.354+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559102363405525092/IMG_8848.png?ex=6acddaba&is=6acc893a&hm=341e5e6abcddd71367f2cabfcaa0fc07b28243dad0f9ff7b32cc244ae727b6be&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:17:47.572+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h16 : Morgan veut se balader avec son réveil partout pour ne pas être en retard . Cameron dit que Mosi est a cheval la dessus pas de retard possible",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:18:18.440+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559102901060632656/IMG_8849.png?ex=6acddb3a&is=6acc89ba&hm=7e713dfe381c0d8e8e372eb6aec25445bc0c07ba061a72be95d36ac64e17aabe&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:19:26.003+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h18 : Ca parle de sonnerie du lycée . Pour rigoler Morgan dit que la sonnerie sera du Jul .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:20:21.351+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h19 : Ca parle de l'artiste internationale peu être Adela personne ne sais .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:21:46.036+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559103771018264576/IMG_8850.png?ex=6acddc09&is=6acc8a89&hm=7539c39972dd429dc1e83f5eedaf8193dda918283421c32b45bbf47d79c61480&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:23:19.518+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h22 : Melina arrive dans la cuisine pour se faire un thé . Morgan a voulu ouvrir le lave vaisselle mais il s'est pris une piscine car il était en route .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:24:51.094+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h23 : Tout le monde s'active dans la cuisine l'annonce de Mosi approche . Idriss semble concentrer dans son carnet .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:25:02.292+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559104594641158154/IMG_8851.png?ex=6acddcce&is=6acc8b4e&hm=2de0dfb94353fec076205ae9ecd47be15b6b3e69d4fe8cfcf09f397371c987cc&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T09:26:40.444+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h25 :",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-12T09:29:35.280+02:00",
+      "channel": "🔴・infos-live",
+      "content": "9h28 : Les élèves arrivent petit a petit dans la cuisine . Comme ca parle pate a tartiner José coupe",
       "image_urls": []
     }
   ]
