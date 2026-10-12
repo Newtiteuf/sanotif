@@ -1,164 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T22:00:04+02:00",
-  "period_end": "2026-10-13T00:00:04+02:00",
-  "updated_at": "2026-10-13T00:00:04+02:00",
+  "period_start": "2026-10-12T22:30:04+02:00",
+  "period_end": "2026-10-13T00:30:04+02:00",
+  "updated_at": "2026-10-13T00:30:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T22:05:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h03 - Je vous retrouve pour ce milieu de soirée pendant 1h15. Nous démarrons avec Maud au piano dans le salon qui répète son évaluation",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:06:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559296143010046132/image.png?ex=6ace8f32&is=6acd3db2&hm=a2c6ee439a95a5cedb71f3aa751597ea024253628953fe7dd47f9c91086727ee&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559296143656095874/image.png?ex=6ace8f32&is=6acd3db2&hm=aab29859d27d6b0ed43a54f94d713eb06ce78a5acf73ad1c7d2c09852a28dabf&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:07:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h07 - Zoé, Brieuc et Khalil se préparent pour aller répéter en salle de danse",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:08:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h08 - Brieuc demande à Antoine s’il va répéter, sans réponse audible.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:09:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h09 - Nouvelle coupure de son.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:09:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559297055837524109/image.png?ex=6ace900c&is=6acd3e8c&hm=7e77a70177648366a9ff067f5ed66a40982d4166292fefa9e3dd115bfd1180c6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:12:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h10 - Brieuc et Ydriss sortent du château vers la salle de chant, puis vont au foyer où Cameron répète son évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:13:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h12 - Ils quittent aussi le foyer.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:14:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559298126223900713/image.png?ex=6ace910b&is=6acd3f8b&hm=1d2db5e16c1c6e0f7a7988dedba69263810af754309c2ea5758936e2bb89245e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:14:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h14 - Tracy rejoint Cameron au foyer puis ressort pour travailler au calme.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:15:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h15 - Cameron dit qu’il doit continuer à travailler, notamment l’attitude.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:16:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559298638629441586/image.png?ex=6ace9185&is=6acd4005&hm=720f9b81c82b58265981d7b24a949ec2f423fe056ea6dc4a5336a423abdf0e88&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:17:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h17 - Vue sur l’escalier.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:18:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h17 - Flashback sur les répétitions d’Ydriss dans la salle de danse, sous les yeux de Brieuc et Zoé.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:19:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559299411522355230/image.png?ex=6ace923e&is=6acd40be&hm=46ec77fca0046eca23fd336b1b615b9838abfb2ce18f5ca65c02e12d8295659f&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559299412285587647/image.png?ex=6ace923e&is=6acd40be&hm=c66393f1ae6833f6bd6c06730ea976c91cc880307cc7af47555d6faa9c40e4cb&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:20:52+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h20 - Vue château en attendant la suite.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:22:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h21 - Morgan et Tracy discutent dans le salon côté piano avant une nouvelle coupure du son.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:23:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h22 - Ydriss et Morgan écrivent « à ranger » sur des post-it et les posent dans le château.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:23:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559300516834451546/image.png?ex=6ace9345&is=6acd41c5&hm=7773ea8eccd191c995bcfa3d59a0937fb01feb45cf7433c95126e3ffb9d4ef69&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:25:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h23 - Flashback : Félix révise « Set Fire to the Rain » d’Adele.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:27:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h26 - Flashback : Leeloo et Amel discutent du cours de danse dans la chambre des filles. Elles ont adoré ; c’était le premier cours de danse de la vie d’Amel.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T22:27:44+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559301568766017638/image.png?ex=6ace9440&is=6acd42c0&hm=c4d361fc4b9ca67eaad532cfa4809a1ec66896315222abdd78c66e9ceb04b1a7&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559301569231720548/image.png?ex=6ace9440&is=6acd42c0&hm=df793c141b7a33d698209fb47b53f88f98ae476d39bb33da0ec930c87e339633&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T22:28:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "22h28 - Retour au direct… finalement vue château.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-12T22:32:45+02:00",
       "channel": "🔴・infos-live",
@@ -637,6 +482,92 @@
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500850385567617196/1559324677720248482/Screenshot_20261012_235904_TF1.jpg?ex=6acea9c6&is=6acd5846&hm=5b5650a8b4256abdbcd6acf80db0f8e1e492eb8c11ebc2b8212eed114b8d6637&"
       ]
+    },
+    {
+      "timestamp": "2026-10-13T00:01:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h00 - Le flashback avec Amel se poursuit. Joyeux mardi 13 octobre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:04:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h04 - Fin du flashback et plan château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:17:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h17 - Le live reprend avec Zoé qui révise en salle de théâtre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:18:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559329419653283871/Screenshot_20261013_001755_TF1.jpg?ex=6aceae30&is=6acd5cb0&hm=d7c70a8acd58917cee349f5c69f94b0a84d4e78dab425642eb424f44f7dce2f6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:18:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Zoé se casse la voix sur un passage de la chanson d’Adèle choisie pour les évaluations.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:20:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h19 - Le live revient avec des problèmes d’image.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:23:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h23 - Bref passage en cuisine où Amel et Khalil discutent, puis changement de plan.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:23:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559330756403269722/Screenshot_20261013_002212_TF1.jpg?ex=6aceaf6f&is=6acd5def&hm=16a4b8f4b820b4ca7a05d849ac5307afd2a53ef31167f239e7150b1f3474a25f&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559330757082882229/Screenshot_20261013_002232_TF1.jpg?ex=6aceaf6f&is=6acd5def&hm=4c1783fc83cc4e381088452c7e5224ec118ac57e0bf012669c6fa9ac5ddb2004&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:25:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h23 - Amel et Khalil terminent leur discussion et annoncent qu’ils vont se coucher. Kylian arrive dans la cuisine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:27:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "00h26 - Elija cherche une prise pour recharger son lecteur MP3. Félix, Kylian et Amel sont encore dans la cuisine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:28:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Dehors, Zoé et Mélina prennent l’air et discutent des évaluations.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T00:28:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559332029022077028/Screenshot_20261013_002727_TF1.jpg?ex=6aceb09e&is=6acd5f1e&hm=6daa6ea41404863f73ce38f770585d8461574e1b28b6ae4c14da85456a0499b2&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559332029475196938/Screenshot_20261013_002745_TF1.jpg?ex=6aceb09e&is=6acd5f1e&hm=99ce8843f92592c9490308846a726c1025a7bf71d233bb8dd03537298acc43c6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T00:30:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Zoé et Mélina estiment que le niveau est élevé et que l’essentiel est de se faire confiance et de donner le meilleur.",
+      "image_urls": []
     }
   ]
 }
