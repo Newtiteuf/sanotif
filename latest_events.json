@@ -1,95 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T00:00:04+02:00",
-  "period_end": "2026-10-13T02:00:04+02:00",
-  "updated_at": "2026-10-13T02:00:04+02:00",
+  "period_start": "2026-10-13T00:30:04+02:00",
+  "period_end": "2026-10-13T02:30:04+02:00",
+  "updated_at": "2026-10-13T02:30:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T00:01:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h00 - Le flashback avec Amel se poursuit. Joyeux mardi 13 octobre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:04:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h04 - Fin du flashback et plan château.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:17:44+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h17 - Le live reprend avec Zoé qui révise en salle de théâtre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:18:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559329419653283871/Screenshot_20261013_001755_TF1.jpg?ex=6aceae30&is=6acd5cb0&hm=d7c70a8acd58917cee349f5c69f94b0a84d4e78dab425642eb424f44f7dce2f6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T00:18:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Zoé se casse la voix sur un passage de la chanson d’Adèle choisie pour les évaluations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:20:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h19 - Le live revient avec des problèmes d’image.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:23:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h23 - Bref passage en cuisine où Amel et Khalil discutent, puis changement de plan.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:23:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559330756403269722/Screenshot_20261013_002212_TF1.jpg?ex=6aceaf6f&is=6acd5def&hm=16a4b8f4b820b4ca7a05d849ac5307afd2a53ef31167f239e7150b1f3474a25f&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559330757082882229/Screenshot_20261013_002232_TF1.jpg?ex=6aceaf6f&is=6acd5def&hm=4c1783fc83cc4e381088452c7e5224ec118ac57e0bf012669c6fa9ac5ddb2004&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T00:25:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h23 - Amel et Khalil terminent leur discussion et annoncent qu’ils vont se coucher. Kylian arrive dans la cuisine.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:27:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h26 - Elija cherche une prise pour recharger son lecteur MP3. Félix, Kylian et Amel sont encore dans la cuisine.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:28:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Dehors, Zoé et Mélina prennent l’air et discutent des évaluations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T00:28:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559332029022077028/Screenshot_20261013_002727_TF1.jpg?ex=6aceb09e&is=6acd5f1e&hm=6daa6ea41404863f73ce38f770585d8461574e1b28b6ae4c14da85456a0499b2&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559332029475196938/Screenshot_20261013_002745_TF1.jpg?ex=6aceb09e&is=6acd5f1e&hm=99ce8843f92592c9490308846a726c1025a7bf71d233bb8dd03537298acc43c6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T00:30:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Zoé et Mélina estiment que le niveau est élevé et que l’essentiel est de se faire confiance et de donner le meilleur.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-13T00:32:45+02:00",
       "channel": "🔴・infos-live",
