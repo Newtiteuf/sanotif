@@ -1,169 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T21:30:52+02:00",
-  "period_end": "2026-10-13T23:30:52+02:00",
-  "updated_at": "2026-10-13T23:30:52+02:00",
+  "period_start": "2026-10-13T22:02:01+02:00",
+  "period_end": "2026-10-14T00:02:01+02:00",
+  "updated_at": "2026-10-14T00:02:01+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T21:33:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Salutt à tous !!",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:34:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h33  - On est sur une reprise avec plus tot dans la journée avec Amel et Maud avec Sofia qui les entraînent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:36:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h35  - Amel et Morgan modifient le programme de la semaine",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:37:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h36  - Noémie veut une pizza au chèvre sans miel 🍕",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:38:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h37  -Vu sur Morgan qui a l’air fatigué",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:38:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559651468091592835/IMG_6918.png?ex=6acfda1e&is=6ace889e&hm=2e41875d35ebb8a23c90d118faf0edb62bec7d208d0fa56abeb18d0833844f70&=&format=webp&quality=lossless&width=640&height=350"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T21:39:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h38  Zoé fais des pâtes nature et Elija fait des pâtes avec des lardons oignon crème fraîche",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:39:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559651885940477992/IMG_6920.png?ex=6acfda82&is=6ace8902&hm=272482bf09be663ad3244451c1d7cafb77742f2282aee94a96c3778d68d6866c&=&format=webp&quality=lossless&width=640&height=336"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T21:41:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h40  - On ce retrouve avec un peu plus tôt dans la journée avec amel qui dit que elle stress un peu et qu’elle fait tout au feeling à Sofia et demande des conseils",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:41:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559652315898585089/IMG_6922.png?ex=6acfdae9&is=6ace8969&hm=bfac97d5675e9b2f1d42754cee432c115b2f6eecfca9255dc530201a34d30c03&=&format=webp&quality=lossless&width=640&height=328"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T21:43:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h42  - Maud demande des conseils au piano",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:45:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h44  -Plus tôt dans la journée avec Philippine et Isabella qui s’entraînent sur Suzanne avec sa musique Virile",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:48:07+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h48  - Philippine dit à Isabella qu’elle peut être + haute pour chanter la musique et que Isabella connaît bien cet chanson",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:49:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h49  - Isabella manque un peu de soutien pour chanter le refrain",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:50:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h50  - On a vu sur la cuisine avec Zoé qui a fini de cuire les pâtes",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:52:37+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h52  - Zoé va goûter les pâtes et les égoutter",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:53:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h53  - On a tout le monde en cuisine (Trop de bruit on arrive pas à comprendre ce qu’ils dissent)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:54:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h54  Plus tôt dans la journée -> Amel qui s’entraîne sur l’hymne avec Tracy",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:56:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h55  - Elles font la danse de l’hymne sans la musique",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:56:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559656100016693378/IMG_6930.png?ex=6acfde6f&is=6ace8cef&hm=5d72b9cb88022bd2ef421ab3f7160ee0f42f1a85ba81f24a47ae0dcdb51e6f59&=&format=webp&quality=lossless&width=640&height=348"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T21:56:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h56  - Tatatatatata de Stacy et de Amel 🕺",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:57:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h57  - Elles refont la danse de l’hymne avec la musique et ont réussi à la gérer",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:58:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "21h58  - Vu sur Amel et Elija qui danse sur Champagne de Suzane",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T21:58:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559656550954696718/IMG_6931.png?ex=6acfdeda&is=6ace8d5a&hm=acec68db21538758775321751dcf2d6838ba5bd1209bf2212158a76a772e3309&=&format=webp&quality=lossless&width=640&height=323"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T22:01:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Bonsoir tout le monde! On se retrouve jusque 23h pour ma première session de l'année !",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-13T22:03:11+02:00",
       "channel": "🔴・infos-live",
@@ -445,6 +285,176 @@
       "timestamp": "2026-10-13T23:29:51+02:00",
       "channel": "🔴・infos-live",
       "content": "23h29 - On les retrouve dans la salle de danse toujours pour répéter cette chorèe",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:29:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559679618599096520/IMG_7344.png?ex=6acff456&is=6acea2d6&hm=b878c9998a6de7a7a03b331c2afc74a564dcbcabb302ea8239226bae5230ece4&=&format=webp&quality=lossless&width=640&height=389"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T23:30:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "On va vite la connaître par coeur à ce rythme là",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:30:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:32:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h31 - On est maintenant dans la cuisine, ils sont en train de ranger et de nettoyer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:32:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "retour au direct",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:34:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h32 - Toujours dans la cuisine, ils sont en train de débattre sur Morgan comme quoi il n'y croit pas et qu'il ne se rend pas compte de son niveau en danse. Ils se demandent qui va être dans le top 3",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:34:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plus de son et plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:36:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:37:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h36 - Morgan est en train d'apprendre le moonwalk à Zoé mais elle était tellement à fond qu'elle s'est prise la caméra",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:37:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:42:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Toujours Plus tôt dans la journée...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:43:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h42 - Dans la cuisine Zoé chante du lyrique avec Ydriss, les deux ont des voix d'opéra",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:44:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:46:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h45 - Morgan fait un petit cours de danse à Leeloo qui veut apprendre de nouveaux mouvements",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:46:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h46 - Il lui montre les pas de base de breakdance",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:47:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h47 - Maud les rejoint et donne des conseils à Leeloo, qu'elle doit être complètement relâchée",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:48:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:49:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "ah enfin le retour au direct",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:50:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h50 - On retrouve Khalil et Noémie en train de ranger et nettoyer le reste du bordel dans la cuisine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:51:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:52:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h51 - Leeloo et Khalil discutent de leurs évaluations dans la cuisine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:53:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h52 Leeloo taquine Morgan sur sa façon de marcher",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:53:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:54:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:55:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h54 - On retrouve le prof de breakdance avec son assistante Maud et son élève Leeloo",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:56:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h56 - Chaque jour, il va lui apprendre un pas",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:58:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h57 - Ils ont deux styles de danse différentes mais qui peut bien se compléter",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:59:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h58 - RETOUR AU DIRECT avec Cameron qui chante en s'accompagnant de sa guitare dans la chambre des garçons",
       "image_urls": []
     }
   ]
