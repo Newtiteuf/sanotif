@@ -1,234 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T09:32:04+02:00",
-  "period_end": "2026-10-13T11:32:04+02:00",
-  "updated_at": "2026-10-13T11:32:04+02:00",
+  "period_start": "2026-10-13T10:03:36+02:00",
+  "period_end": "2026-10-13T12:03:36+02:00",
+  "updated_at": "2026-10-13T12:03:36+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T09:32:15+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h31 - Ydriss Amel et Khalil se dirigent dans la salle de theatre",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559468801148588123/FED95691-C67A-499C-8343-B8532B6550DC.jpg?ex=6acf2fff&is=6acdde7f&hm=a8cb2d13f61afb7598e52c810307bda93068c82cbe655b1c9ffb7fd933fb8a32&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:32:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559468901123760239/EAE5BF32-8AC7-414E-B690-7C1FD091B8FC.jpg?ex=6acf3017&is=6acdde97&hm=eb9f3cddd0dda3bf41c0cb64cc3d19d9d880a8f4367a08833a1d4d14a5b86ed4&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:33:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h31 - Elija et Tracy discutent des ongles, manucures",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559469160403177472/61E66D69-BB11-4A86-A8F0-8D8C78E6248B.jpg?ex=6acf3055&is=6acdded5&hm=d9470d0f28fffcfb3ffa7175aed64e55aafa327fc99919b36ecaffd4859f4e8d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:34:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h33 - plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:35:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h34 - du beau monde dans le salon",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559469544693829633/E982EAD1-C6D9-41C1-8AB2-6531BC188BEA.jpg?ex=6acf30b0&is=6acddf30&hm=2a636f24996a11b22efbfa1ab57243ede00e30d7dd9b9d64c62ae5cc1160a9cf&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:35:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h35 - plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:37:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h36 - et c’est …. Amel qui ouvre le bal! \nLes premières évaluations de la saison 2026",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559470115580551229/712FA388-E2E3-491B-8245-837942543968.jpg?ex=6acf3139&is=6acddfb9&hm=af664475c072f40de0e5c3eb0ece51a2ecb77f9e637a0148e04db421c5544a87&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:38:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h37 - Amel se dirige dans la salle de danse avec sa guitare",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559470325236899871/CC08C1E2-1475-4FAD-AD0C-490F16D9DFA4.jpg?ex=6acf316b&is=6acddfeb&hm=a963b34d2e26d8f81b44d9eec6f832859db4bb30d201ca4f20c1c43c34961505&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:39:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h38 oh la jolie salle !",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559470514898993202/16EE2B59-D447-4546-92A9-1073B224F775.jpg?ex=6acf3198&is=6acde018&hm=e352485fcc487dfff257e2469aaafdc5b5c0ba92adcb22c089e1a8b624d9f0db&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:40:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h40 - on aperçoit le directeur",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559470847050391622/3FB4DA63-50F6-4981-B052-9BB22878BA38.jpg?ex=6acf31e7&is=6acde067&hm=0c3a3a82ecbcb622f54f2f463b7cdd705cd4dea64539635a2dd01e57af11bff6&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:41:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h40 - Amel explique pourquoi elle a choisi cette chanson , elle tiens fortement au top 3",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559471053573455944/F78B5023-5051-45CA-9BA6-8E03CB9A2ADA.jpg?ex=6acf3218&is=6acde098&hm=b4fdd3a9f60e9af24de881468ae57c90226bfa49992f04051df4af3e3dc5b7e3&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:41:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h41 - plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:43:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h43 - cui cui cui..",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:45:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h45 - les oiseaux s’échauffent pour les premières évaluations",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:46:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h46 - et c’est partie ! Amel débute la chanson monde - Luidji à la guitare",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559472428801990676/CE291021-DE86-4070-B5CF-56406D8247C6.jpg?ex=6acf3360&is=6acde1e0&hm=5e2deb3db7b47f4851293a13944460ff31fce1bd35e1d604f721ca88eb6a0c5d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:47:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559472558296793118/7EAEB591-EC9D-414A-B09D-1DF3ACE46C76.jpg?ex=6acf337f&is=6acde1ff&hm=0ba26849f73b84ffe8ec455e775db3ac7f2c13cd9fa87d8ea2df7b52a736511c&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:49:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h48 - Amel a terminé et le son a coupé",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559473239506288650/55027B8E-3D6E-4504-9F4D-85DA6D0C8582.jpg?ex=6acf3421&is=6acde2a1&hm=b4d2be36731aa45ac0dbf06bcb12b258a5a8f86613e588c6fe853e4d65685076&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559473239754022962/3051CBA9-8AE7-4D30-B90E-4458F624A101.jpg?ex=6acf3421&is=6acde2a1&hm=9c8db90eacf5e3d7ac4146a8b2f4cf7ea2b8a40bf4b1ffd19912d09c57ec958e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:51:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h50 - Ydriss accueil Amel et les restes des élèves l’applaudit et disent que c’était beau et que tout le monde était silencieux quand elle est passée",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559473577466667058/F6FCB4FA-D70C-48D3-AD58-E87D05B809CD.jpg?ex=6acf3472&is=6acde2f2&hm=d939c7717686e44270fe7635a2c2d71f81fe813a6496aec653ab7c1e5e9487d0&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:51:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "N’hésitez pas dans ⁠🛑・sondages  à notez les élèves  sur leur évaluations !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:52:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h52 - plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:55:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h54 - Zoé et Tracy disent qu’on voit déjà la DA d’Amel et que c’était beau et pensent que Amel sera dans le top 3",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559474644157861958/23B06AF9-DF56-467F-8890-CFB3E2778D52.jpg?ex=6acf3570&is=6acde3f0&hm=e28d62c8200b4b6145dd7525ff17cb2bf98f7099e2a309b03d025465d80a6b7d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:56:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h55 - et c’est au tour de …. Félix  !",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559474850001723412/C4C21B1A-FF78-4866-AE4E-145D82D62E44.jpg?ex=6acf35a1&is=6acde421&hm=fb8abcf5a2680d3a56d5798267a86c875fdde2d77a78226b9ae01ee461865967&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:58:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h57 - Félix explique pourquoi il a choisi set fire to the rain d’Adele il veut s’approprier la chanson d’Adele alors que ce n’est pas son style de base.",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559475367679369247/AA0AC25B-E7CB-422A-9684-53F3F5FB91B1.jpg?ex=6acf361d&is=6acde49d&hm=0cede743f372360db10a1e956558baa25ac6720d67cfcf7fe629dbbaaf29bebe&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559475367973228606/78B77AF5-2814-45F8-9827-9434B9E62607.jpg?ex=6acf361d&is=6acde49d&hm=d2dfa121e5f8524ea40ca684d2b98f83764e4ac6cc517f5b7d8fa3b23ceb48c7&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T10:00:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Et je vous laisse avec @Camilia💛   ! Bonne journée à vous et merci de m’avoir fait confiance \nC’était ma toute première rédaction, n’hésitez pas à me faire des retours",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T10:01:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Bonjour à tous j’espère que vous allez bien",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T10:01:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h01- Félix fini son eval et s’en va",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T10:01:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559476238584909854/Capture_decran_2026-10-13_a_10.01.43.png?ex=6acf36ec&is=6acde56c&hm=f8579f25c1f7f7d96f9f6982a6a6c6b77a9dd7017efded0679bdaf6a28c37ef7&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T10:02:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h02- les autres l’applaudissent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T10:02:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559476450006933634/Capture_decran_2026-10-13_a_10.02.22.png?ex=6acf371f&is=6acde59f&hm=1b381201bd5ae2ccbe050dee7e70280d9f4fea2ecc44cc4a75792f2493e3b4f5&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559476450468429885/Capture_decran_2026-10-13_a_10.02.34.png?ex=6acf371f&is=6acde59f&hm=b49e0907f28aab146356746be57e109662b119dc0f87e575576db03a3727a1f9&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T10:02:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Ils lui disent que c’était bien mais lui dit que non",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T10:03:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "10h03- il dit qu’il était trop stressé et ne respirait pas bien",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-13T10:05:23+02:00",
       "channel": "🔴・infos-live",
@@ -832,6 +607,212 @@
       "channel": "🔴・infos-live",
       "content": "Ydriss  les rejoint",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:31:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559498735086735410/Screenshot_20261013_113010_TF1.jpg?ex=6acf4be0&is=6acdfa60&hm=6ed2a62b56c179bfd2bbe0c6535243a938eed0943abd1ab21738cc5d602724df&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:32:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h31- Mélina  dit qu'elle va être nommée",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:33:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elle dit qu'elle a été envahie par le stress",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:33:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Leeloo  dit que tout le monde est tétanisé",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:35:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h34- Noémie  dit que Mélina  a mieux respirer qu'hier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:35:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "| plan sur la salle d'évaluation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:38:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h37- Khalil a rejoint les filles",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:39:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Amel  a rejoint le petit groupe et dit que c'était super",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:39:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Khalil dit a Mélina qu'elle est trop intelligente",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:40:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h40- Isabella  les a rejoint également",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:40:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Morgan également",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:41:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559501296090742824/Screenshot_20261013_114036_TF11.jpg?ex=6acf4e43&is=6acdfcc3&hm=2d58b769e0c300f68851d6a68296174f0682bf0c07877cac84b777166e8dc778&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:41:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h41- Ils rentrent tous à l'intérieur",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:42:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h42 - Mélina est parti ce moucher en haut",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:43:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h43- Antoine  ce dirige vers la salle d'évaluation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:44:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559502010951143444/Screenshot_20261013_114405_TF1.jpg?ex=6acf4eed&is=6acdfd6d&hm=d891e40729dd62d1bd8cf9c5f6f30e76d2d69547954fea9a0e7d20969885d807&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:45:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h44- Jonathan demande à Antoine qu'est-ce qu'il fait qu'il peut ce retrouver dans le top3? Antoine veut montrer qu'il peut chanter que ce soit avec sa guitare ou sans",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:47:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h45- * Antoine  commence a chanter Monde* de Luidji**",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:47:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559502951943503913/Screenshot_20261013_114733_TF1.jpg?ex=6acf4fcd&is=6acdfe4d&hm=082e9fd520ec3feca5a8ce7b6d6f14d119ba9970a2930148548ba534a36d2679&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:48:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h48 - ***Antoine a fini sa prestation et quelques élèves le rejoigne et le félicite",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:49:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h49- Tout le monde applaudit Antoine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:50:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559503567751221278/Screenshot_20261013_114911_TF1.jpg?ex=6acf5060&is=6acdfee0&hm=3c0b2d6459ff81cb26b2502422a97f2e8e67ccf85036438f364deae95d0cb529&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:51:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h50- Antoine est heureux",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:52:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h51- petite coupure de son",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:52:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Morgan dit qu'Antoine*** était dans l'émotion",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:53:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h53- Morgan dit qu'ils n'ont pas encore rencontrer papy",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:53:55+02:00",
+      "channel": "🔴・infos-live",
+      "content": "|plan escalier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:56:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h55- On retrouve Brieuc  qui ce dirige vers la salle d'évaluation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:56:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559505144201351299/Screenshot_20261013_115632_TF1.jpg?ex=6acf51d8&is=6ace0058&hm=797466fd5f1da9fd5c08bebc3a090f20130fc2d089a76b4abacfd183f4d7fd8d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:58:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h57- Brieuc dit que la chanson All Of Me est une chanson d'émotion",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:58:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Brieuc commence son évaluation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:59:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559505789427777566/Screenshot_20261013_115905_TF1.jpg?ex=6acf5272&is=6ace00f2&hm=94679d39bcba525c357ee5b0a21c5a12e8205cb46c9f0eb3298978b3c4e29a1c&"
+      ]
     }
   ]
 }
