@@ -1,7 +1,410 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T03:00:02+02:00",
-  "period_end": "2026-10-13T05:00:02+02:00",
-  "updated_at": "2026-10-13T05:00:02+02:00",
-  "events": []
+  "period_start": "2026-10-13T07:30:02+02:00",
+  "period_end": "2026-10-13T09:30:02+02:00",
+  "updated_at": "2026-10-13T09:30:02+02:00",
+  "events": [
+    {
+      "timestamp": "2026-10-13T07:31:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Hello, on se retrouve en ce mardi 13 octobre pour les premières évaluations. On commence la journée par un petit plan chateau",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:33:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h32 - la chambre est presque vide",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559438812155879454/image.png?ex=6acf1411&is=6acdc291&hm=fc7103aac3eb114a749e0f7b15e9c74be043d489c76d3759dd308a810fa16a31&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:33:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h33 - c'est l'heure du peti dej. Ydriss fait ses inhalation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:34:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:35:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h35 - Melina et Elija se demande si les autres promos se levaient si tot",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:35:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559439514080907304/image.png?ex=6acf14b9&is=6acdc339&hm=e3e0486b418329cc541967ebefd8e944327e44b0f21f795c74419acd97f1bbd6&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:36:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h35 - Félix et Cameron arrivent pour le petit dej",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:38:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h36 - Brieuc ecoute sa chanson d'evaluation. les eleves essaient de se rassurer les pour les evals",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:38:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559440163518681169/image.png?ex=6acf1553&is=6acdc3d3&hm=c0455072746dfae488beaadd587389060387f59ff5fbddf3b16a56552fe87bde&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:38:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "coupure son",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:39:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h39 -on se retrouve dans une des chambres encore plongés dans le noir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:42:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h40 - Melina ecoute les conseille d'Elija sur sa chanson d'evaluation. Elle prend des notes. Avant la chanson ils doivent dire pourquoi ils pensent etre dans le TOP3 par rapport à la chanson choisit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:42:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:43:55+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h43 - nous voyons maintenant les éleves dans la cuisine via la porte fenetre",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559441538579304448/image.png?ex=6acf169b&is=6acdc51b&hm=6e93525c17abd0f3808cbfc5df175445ca7c0ea9f7c42645090823e03f7fe2f8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:45:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:47:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h47 - Morgan dort toujours",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559442516418363472/image.png?ex=6acf1784&is=6acdc604&hm=73b68c3d93cda52298a68e2e0eec6c182fa7f8b87cab5a6d56dcf74e2a541e1f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:49:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h49 - Leeloo est dans le salon elle revise deja pour les evals",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:50:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559443093843873943/image.png?ex=6acf180e&is=6acdc68e&hm=4f6e8c9bd1e46f06c51d32e6feb946e3662b9c8fbcd90e4bafca1f5ec4f39df9&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:51:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h50 - Pour rappel Leeloo va chanter A la vie de Suzanne",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:52:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h51 - Morgan essaye d'emerger mais le reveil n'est pas facile pour lui ce matin",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:52:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559443645822803988/image.png?ex=6acf1892&is=6acdc712&hm=c6d8855b2836c9c5485e5fadcade04fc8ea825c5d4354e4c2ddca8ca012a263d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:52:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h52 - Morgan se lève (enfin)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:54:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h54 - Amel et Ydriss sont toujours en pleine discussion pendant leur petit dej (pas de son pour nous)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:56:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h55 -Brieuc revise dans le salon avec ses ecouteurs",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T07:57:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559444874305077338/image.png?ex=6acf19b7&is=6acdc837&hm=315efa923a1b5e7d35bd48826739d606790f810ca650a18b0755a8a3aaef8c76&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T07:58:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h57 - il est rejoint par Melina mais nous n'avons toujours pas le son",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:00:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h59 - Anroine revise dans son lit et Melina fait des echauffements dans le salon",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:02:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h00 -  Isabella joue de la guitare et Melina fait son sport matinal",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559446090304987176/image.png?ex=6acf1ad9&is=6acdc959&hm=e55a1f5cc577262930669dc4d785885fce0d3b4cb701e274b567d6fced2b6fad&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:03:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h02 - Bon reveil avec Isabella sur Happy de Pharrel Williams",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559446397093154906/image.png?ex=6acf1b22&is=6acdc9a2&hm=dfdb45e4f289945b5f06aa5c173e550e7c10d7ef50008c9b1218fcc8ce4b21a8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:05:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h04 - on entend les eleves chanter dans toutes la maisons. Isabella est contente elle se rappelle de toutes les paroles",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:06:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h05 - Melina explique à Elija qu'elle fait de la gym suedoise. Elija lui duit qu'elle est pas trop sportive. Melina dit que ca travail les muscles profond",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:07:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559447416548237312/image.png?ex=6acf1c15&is=6acdca95&hm=b8d3ca95b54b38daf3bf88c9e078a22c8823da7bb3d8dc504ca986946dc7ba64&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:08:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "je passe le relais à @Séb bonne journée à tous",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:09:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bonjour tout le monde, en route pour les premières évaluations !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:10:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h10 - Isabella, Amel et Tracy ont rejoint Melina pour le réveil musculaire.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559448281245818881/Capture_decran_2026-10-13_a_08.09.57.png?ex=6acf1ce3&is=6acdcb63&hm=22b60e0c17289c801478a00ce62523bf260215d47cdf620389d1e399ced59e5e&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:12:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elles annoncent que les évaluations commencent à 8h30 pour eux et à 9h pour elles : « Soyez prêts ! »",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:12:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "On retrouve Felix qui fait ses vocalises dans la chambre des mecs.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559448819517624400/Capture_decran_2026-10-13_a_08.12.24.png?ex=6acf1d63&is=6acdcbe3&hm=46a9d7f7ba613544ea951a94639d08e635054c33bd4b0e205b4ab5b6358a44c2&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:14:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h13 - Tracy court au foyer pour répéter sa chanson : « Happy » de Pharrell Williams.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559449271441301535/Capture_decran_2026-10-13_a_08.13.39.png?ex=6acf1dcf&is=6acdcc4f&hm=448736b76697daee871fee34cfb211a74cdec62b099a10729484112b5507b4cc&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:16:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h15 - Alors que le soleil ne s'est pas encore levé sur Dammarie-les-Lys, on retrouve Mélina qui fait des tours du château en courant !\n\nJe n'ai pas souvenir d'un début d'évaluation aussi tôt !",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559449734073028689/Capture_decran_2026-10-13_a_08.15.00.png?ex=6acf1e3d&is=6acdccbd&hm=02d73774f24035e9761e901f5e0fffdc6c42ba26046eb1ebe9449fed105f7e26&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559449734387863654/Capture_decran_2026-10-13_a_08.15.36.png?ex=6acf1e3d&is=6acdccbd&hm=acc298587105c0a45020b6af68d5eb350d10ac18a97bcff0be7f53b68f7dea0b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:19:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ils hésitent toujours sur l'horaire, entre 8h30 et 9h : aucun des élèves ne donne la même heure !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:20:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h20 - On se retrouve dans la cuisine avec Cameron et Antoine. Antoine raconte qu'un miracle s'est produit cette nuit, il a beaucoup répété hier... et José nous a coupé le micro !",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559450814035136542/Capture_decran_2026-10-13_a_08.20.22.png?ex=6acf1f3f&is=6acdcdbf&hm=ae66e63fcbdf4f734d102817943a634fc1ae8cc65f83f4009fbec00dd1042e72&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559450814399914124/Capture_decran_2026-10-13_a_08.19.31.png?ex=6acf1f3f&is=6acdcdbf&hm=cb579f61ed4ed8c5fc02f485688dc6f65effeca13ac880a0fe7f2b75e4573d30&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:21:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Et je passe le relai à @Ghost belle journée et on se retrouve ce soir !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:22:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Merci @Séb bonjour tout le monde ! J'espère que vous allez bien",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:27:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "08h25 - Leeloo répète sa chanson en se maquillant, alors que Isabella Noémie et Brieuc font des exercices de vocalises au piano dans la salle",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559452492763238450/image.png?ex=6acf20cf&is=6acdcf4f&hm=9b698e0b5f0c322c531f5bb713412bbb2793ecb09e93360be2db95eab440cb62&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:31:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h30 - L'exercice de vocalise dure, d'autres élèves passent et les rejoignent. \nun petit \"nei nei nei\" proposé par Maud",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:32:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559453833430704191/image.png?ex=6acf220f&is=6acdd08f&hm=cc6c0ef7bfa45ea7f63bb151ccb00922cef85e32e2e39f6d5a0b71c8f4276df4&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:35:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h34 - Maud prend place au piano",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:35:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elija termine de se maquiller dans le salon",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:38:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h37 - Maud répète sa chanson au piano en fond alors qu'on est en présence d'une séance maquillage toujours avec Elija",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:39:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h38 - Félix répète sa chanson également dans la chanbre des garçons",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:39:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559455545864495104/image.png?ex=6acf23a7&is=6acdd227&hm=07449ffe8105aedcfc854752f81c2357744a8520a494af55eedc04081cc01259&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:40:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Isabella, Brieuc et Ydriss sont dans le hall, Ydriss explique qu'il est stressé avec les tona de sa chanson",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:41:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Isabella entraine Ydriss sur un exercice de vocalise",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:45:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h44 - Isabella donne beaucoup de conseils de tona à Ydriss pour sa chanson",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:46:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Alors que Khalil fait quelques exercices de souffle avec une flûte à bec dans le salon",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:47:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Puis répète également sa chanson",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:48:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h47 - Retour de Maud au piano",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559457705326936124/image.png?ex=6acf25aa&is=6acdd42a&hm=aa6be32814bd1ff80335fc1854338712daa7c5aaa1b0b66ca9b7f9a629bc1235&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T08:50:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Sous les yeux d'Isabella",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:52:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Maud explique qui a des voix de tête qu'elle a du mal, elle n'arrive pas à les tenir, isabella lui explique avec un exercice de vocalise pour la conseiller",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T08:54:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h53 - Kylian répète sa chanson avec Maud",
+      "image_urls": []
+    }
+  ]
 }
