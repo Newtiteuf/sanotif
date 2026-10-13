@@ -1,160 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T19:31:26+02:00",
-  "period_end": "2026-10-13T21:31:26+02:00",
-  "updated_at": "2026-10-13T21:31:26+02:00",
+  "period_start": "2026-10-13T20:01:24+02:00",
+  "period_end": "2026-10-13T22:01:24+02:00",
+  "updated_at": "2026-10-13T22:01:24+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T19:31:55+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Oh merci Astrid 🤍 C'est tellement... spontané ! Je suis ému. \nSalut les mélomanes ! Vous avez survécu aux diiiiix-seeeept évals de ce matin ? Gardez un peu d’énergie : on passe la prochaine heure ensemble, sauf :CSA: :what:\nDu côté de Dammarie-les-Lys, les nuages sont au rendez-vous et il fait autour de 21 °C.\nBon, on en était où ? Oh mon Dieu ils sont tous là:help:",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:33:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:32 - Les élèves travaillent la répartition des paroles de l’hymne !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:33:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559620216579686560/image.png?ex=6acfbd03&is=6ace6b83&hm=32bb3daa0da3fb25063c0d408d5fa564aed55e5aba4b01903e5438235b9d4ad8&=&format=webp&quality=lossless&width=640&height=363"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T19:34:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "L'élève en haut à droite ne se sent pas bien, je crois",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:36:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:35 - Fanny :fanny: explique que cette répartition sera forcément modifiée au fil des éliminations.\n(Bizarre, l’ambiance.)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:37:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:36 - Fanny :fanny: explique aux élèves le sens de l’hymne de cette année.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:38:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "💡 Le saviez-vous ? « Dans un autre monde » de Céline Dion, écrite par Jean-Jacques Goldman, peut se lire comme une invitation à quitter ses habitudes et à saisir sa chance, même si cela implique de laisser des gens derrière soi.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:38:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:38 - Tout le monde debout !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:39:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Oui même toi au fond !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:40:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:39 - Les élèves reprennent l’hymne. Ils le maîtrisent de mieux en mieux !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:42:27+02:00",
-      "channel": "🔴・infos-live",
-      "content": "\"Qu'est ce que tu dis ?\"\n\"Je te dis qu'il faut appeler une ambulance pour cet élève !\"",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:43:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:42 - Fanny :fanny: explique aux élèves l’attitude à adopter lorsqu’ils interprètent l’hymne.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:44:52+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:43 - Les répétitrices demandent à voir un aperçu de la chorégraphie, qu’elles ne connaissent pas encore.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:45:52+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:44 - Fanny :fanny: encourage les élèves à profiter de leur soirée consacrée uniquement à l’hymne pour le travailler à fond.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:46:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:46 - Et c’est reparti pour un tour !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:48:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Ah ah ah ah oh oh",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:50:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:49 - Fanny :fanny: demande aux élèves de s’entraider pour apprendre l’hymne. Philippine :philippine: leur conseille de marcher et de sautiller dans la salle de répétitions pour travailler leur cardio.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:51:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:50 - Fin de la répétition ! Les élèves se dirigent vers le château.\nFÉLIX  ! Ton écharpe !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:52:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Brieuc, c'est valable pour toi aussi",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:55:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559625552422375505/image.png?ex=6acfc1fc&is=6ace707c&hm=8e8eea85311186a7015930645593fdf4fd1214fc793d2d586fab4078592a648a&=&format=webp&quality=lossless&width=640&height=360"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T19:55:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "19:53 - Analyse du four.\nFaudrait pas que ça prenne feu, hein, Héléna ?",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:58:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "⏰ Plus tôt dans la journée...\nAu théâtre, Lydia propose à Khalil :khalil: de retravailler sa chanson du prime autour de trois axes : l’ancrage dans le corps, l’accroche du regard et le travail du texte pour gagner en sincérité.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T19:59:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559626686641741894/image.png?ex=6acfc30a&is=6ace718a&hm=76393c8747ce2b207eb4a0f4577d04ff70d38bd4005ed514046a2f9aa950b0b4&=&format=webp&quality=lossless&width=320&height=320",
-        "https://media.discordapp.net/attachments/1500850385567617196/1559626687036260493/image.png?ex=6acfc30a&is=6ace718a&hm=f93755f0c1a23bedc954f5b7ebb7bde89096144d8a4f51f9b8920ce75f6c18e6&=&format=webp&quality=lossless&width=320&height=320"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T20:00:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Iiiiiinnnspireeeer.  Exxxxppiiiiirreeeerr.",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-13T20:02:35+02:00",
       "channel": "🔴・infos-live",
@@ -286,6 +135,160 @@
       "channel": "🔴・infos-live",
       "content": "Bonsoir, oui ?\n20h31 - PAUSE CSA, reprise dans 1h",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:33:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Salutt à tous !!",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:34:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h33  - On est sur une reprise avec plus tot dans la journée avec Amel et Maud avec Sofia qui les entraînent",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:36:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h35  - Amel et Morgan modifient le programme de la semaine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:37:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h36  - Noémie veut une pizza au chèvre sans miel 🍕",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:38:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h37  -Vu sur Morgan qui a l’air fatigué",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:38:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559651468091592835/IMG_6918.png?ex=6acfda1e&is=6ace889e&hm=2e41875d35ebb8a23c90d118faf0edb62bec7d208d0fa56abeb18d0833844f70&=&format=webp&quality=lossless&width=640&height=350"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T21:39:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h38  Zoé fais des pâtes nature et Elija fait des pâtes avec des lardons oignon crème fraîche",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:39:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559651885940477992/IMG_6920.png?ex=6acfda82&is=6ace8902&hm=272482bf09be663ad3244451c1d7cafb77742f2282aee94a96c3778d68d6866c&=&format=webp&quality=lossless&width=640&height=336"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T21:41:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h40  - On ce retrouve avec un peu plus tôt dans la journée avec amel qui dit que elle stress un peu et qu’elle fait tout au feeling à Sofia et demande des conseils",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:41:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559652315898585089/IMG_6922.png?ex=6acfdae9&is=6ace8969&hm=bfac97d5675e9b2f1d42754cee432c115b2f6eecfca9255dc530201a34d30c03&=&format=webp&quality=lossless&width=640&height=328"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T21:43:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h42  - Maud demande des conseils au piano",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:45:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h44  -Plus tôt dans la journée avec Philippine et Isabella qui s’entraînent sur Suzanne avec sa musique Virile",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:48:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h48  - Philippine dit à Isabella qu’elle peut être + haute pour chanter la musique et que Isabella connaît bien cet chanson",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:49:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h49  - Isabella manque un peu de soutien pour chanter le refrain",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:50:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h50  - On a vu sur la cuisine avec Zoé qui a fini de cuire les pâtes",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:52:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h52  - Zoé va goûter les pâtes et les égoutter",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:53:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h53  - On a tout le monde en cuisine (Trop de bruit on arrive pas à comprendre ce qu’ils dissent)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:54:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h54  Plus tôt dans la journée -> Amel qui s’entraîne sur l’hymne avec Tracy",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:56:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h55  - Elles font la danse de l’hymne sans la musique",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:56:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559656100016693378/IMG_6930.png?ex=6acfde6f&is=6ace8cef&hm=5d72b9cb88022bd2ef421ab3f7160ee0f42f1a85ba81f24a47ae0dcdb51e6f59&=&format=webp&quality=lossless&width=640&height=348"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T21:56:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h56  - Tatatatatata de Stacy et de Amel 🕺",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:57:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h57  - Elles refont la danse de l’hymne avec la musique et ont réussi à la gérer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:58:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "21h58  - Vu sur Amel et Elija qui danse sur Champagne de Suzane",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T21:58:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559656550954696718/IMG_6931.png?ex=6acfdeda&is=6ace8d5a&hm=acec68db21538758775321751dcf2d6838ba5bd1209bf2212158a76a772e3309&=&format=webp&quality=lossless&width=640&height=323"
+      ]
     }
   ]
 }
