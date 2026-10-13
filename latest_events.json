@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T14:31:07+02:00",
-  "period_end": "2026-10-13T16:31:07+02:00",
-  "updated_at": "2026-10-13T16:31:07+02:00",
+  "period_start": "2026-10-13T15:01:32+02:00",
+  "period_end": "2026-10-13T17:01:32+02:00",
+  "updated_at": "2026-10-13T17:01:32+02:00",
   "events": [
     {
       "timestamp": "2026-10-13T15:25:29+02:00",
@@ -451,6 +451,176 @@
       "timestamp": "2026-10-13T16:28:42+02:00",
       "channel": "🔴・infos-live",
       "content": "16h28 - Il leur dit que c'est mille fois mieux qu'hier. Ils vont maintenant le faire devant lui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:30:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h30 - Jonathan explique qu'il faut danser grand en s'imaginant qu'ils sont à Bercy, et qu'il y a des personnes tout au fond de la salle, ils doivent mettre de l'énergie et de l'intention dans leurs mouvements pour que toute la salle puisse les voir.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:31:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h31 - Certains semblent se préparer pour un match de boxe",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559574422829015150/image.png?ex=6acf925d&is=6ace40dd&hm=012bc690c820458163b283f24f3a8d1a42f0788dbcda1b477632c93404fa1deb&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T16:32:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h32 - « On ne fait pas des erreurs parce qu'on essaie pas, on fait des erreurs parce qu'on essaie trop » - Jonathan, 13/10/2026 à 16h32, on prend note.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:33:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "FLASHBACK",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:34:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Félix, Morgan et Kylian jouent au foot dehors :",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559575069586624562/image.png?ex=6acf92f8&is=6ace4178&hm=9e7659bf6e40787a68a0d15b8b41ef5edd6a4f547560d756f1d34716d73c04b8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T16:35:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "FIN du flashback",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:35:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h35 - Après cet interlude foot, on retrouve nos danseurs",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:37:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h36 - Jonathan dit aux élèves de bien le regarder dans le miroir pour apprendre les bonnes positions.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:37:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h37 - S'ils voient qu'ils n'ont pas la même position que lui, ils peuvent se servir du miroir pour corriger ça !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:39:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h38 - Il faut bien ancrer les images, on pense à Avengers, on s'assoit, on a des gouttes d'eau sur les doigts, on conduit une voiture (en résumé)",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559576202828845136/image.png?ex=6acf9406&is=6ace4286&hm=5badbc24da1c5984407c569a2360cea75f4a84733c264edad7d4a53c8db62d9d&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T16:40:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h39 - Jonathan leur dit que ça peut être impressionnant d'avoir autant de détails à assimiler, mais ça fait partie du process. Ils doivent s'amuser, être funs, s'ils se trompent les gens auront plus d'empathie.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:40:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h40 - Ils font maintenant la chorégraphie en musique",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:41:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h41 - Jonathan dit que dans la chorégraphie de cette année il n'y a quasiment pas de jambes, mais qu'ils arrivent quand même à se tromper sur les jambes. Il leur remontre donc les mouvements. Kylian dit qu'il beug sur la transition, John dit que c'est déjà bien d'en être conscient, ça veut dire qu'il a analysé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:43:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h42 - Ils vont réessayer en musique, John les encourage en disant qu'ils ont bien progressé depuis hier car Kylian souffle de désespoir...",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559577241887834162/image.png?ex=6acf94fe&is=6ace437e&hm=7be95161998bdd9f48949cfbd6e726c0039067a66fe4eb9218cb5f4a6a37256c&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559577242382770226/image.png?ex=6acf94fe&is=6ace437e&hm=23607473d46b0874d78281d9e7e80d10d14648ca2f71011d58a839fd6ad29030&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T16:43:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h43 - Il ajoute qu'ils vont encore travailler, il n'y a pas de raisons que ça se passe mal.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:44:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h44 - Zoé et Morgan n'ont pas encore montré la version micro aux autres élèves car ils bossaient les évaluations, Jonathan leur montre donc maintenant.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:46:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h46 - Armés de bébés micros, ils testent cette version de la chorégraphie :",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559578157382766703/image.png?ex=6acf95d8&is=6ace4458&hm=e989664427de60f37f395257bb473eb715a899d943c2827eff39e5d9f53356ef&",
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559578158028824696/image.png?ex=6acf95d8&is=6ace4458&hm=b028ff240c7c6069282e24e2d85e2772c20100fcd34a4913cb9eeeb9c6dac3b0&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T16:48:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h47 - Jonathan n'est pas très content car les élèves modifient des positions, notamment celle où ils doivent s'assoir. Il leur remontre une fois de plus.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:49:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h48 - Jonathan leur rappelle qu'ils vont ajouter le chant d'ici le prime, ils doivent bien placer leur micro.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:51:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h50 - Noémie demande à John de contrôler un de ses mouvements (toujours le mouvement où il faut s'assoir), ce dernier explique qu'il faut basculer le poids du corps. Elle a compris, « voilà tu l'as ! » dit John.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:53:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h52 - Jonathan dit qu'ils vont avoir une autre version de la chanson pour l'hymne, là ils s'entraînent sur la version de Céline mais ce n'est pas la définitive. Il demande si c'est la version 123 bpm et le son est coupé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:54:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h53 - Jonathan dit qu'il n'a pas la nouvelle version. Ils reprennent une fois sur la version de Céline",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:55:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h54 - En fait c'était une feinte, il dit qu'ils n'ont même pas repéré que c'était une version plus rapide et ils ont été dans le rythme ! S'il leur avait dit que c'était plus rapide, ils auraient paniqué, là ils ont géré.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:57:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h56 - Ils se placent en quinconce pour reprendre encore une fois. John leur demande de s'imaginer ce qu'ils veulent pour y mettre un maximum d'énergie.",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559580787047923773/image.png?ex=6acf984b&is=6ace46cb&hm=f0444c2dd4546e9eeaab11f6b757b2c553170e33162ac6638312d9a9616888c8&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T16:58:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h57 - Il ajoute qu'ils ne doivent pas l'écouter pour les paroles car il ne les connaît pas, en effet il disait « Bienvenue dans un autre monde » à la place de « Rendez-vous dans un autre monde »",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:59:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h58 - Jonathan dit que pour le moment ils ne sont au top ni sur le chant, ni sur la chorégraphie, il va falloir travailler. Il dit à Kylian qu'il fait toujours les mêmes erreurs et  soutient qu'il a décidé qu'il n'y arriverait pas, alors qu'il en est totalement capable.",
       "image_urls": []
     }
   ]
