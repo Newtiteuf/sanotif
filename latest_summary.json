@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Dernières répétitions avant les évaluations",
-  "summary": "Après minuit, les élèves ont continué à préparer leurs premières évaluations, chacun affinant sa chanson, ses paroles ou son introduction. Zoé et Mélina ont échangé sur leur ressenti et sur le niveau élevé, en insistant sur la confiance en soi, tandis qu’Elija puis Amel ont apporté leur écoute et leurs conseils. Dans la chambre des garçons, Brieuc, Cameron et Morgan ont encore révisé avant de se coucher, sans parvenir à prédire les futurs nommés. Antoine et Noémie ont ensuite parlé du stress et de la peur d’oublier les paroles, tandis que plusieurs élèves ont réglé leur réveil très tôt, notamment à 6 h. Les lumières se sont éteintes dans les chambres puis dans tout le château vers 1 h 30. Le live s’est alors terminé, avec une reprise annoncée à 7 h 30 pour suivre le début des premières évaluations de la saison.",
-  "kind": "night_summary",
-  "period_start": "2026-10-13T00:00:00+02:00",
-  "period_end": "2026-10-13T02:00:04+02:00",
-  "updated_at": "2026-10-13T02:00:04+02:00"
+  "title": "🔴 Nuit calme après le live",
+  "summary": "Le live est resté terminé et aucun nouveau message n’a été publié pendant ces deux heures. Le château demeure silencieux avant la reprise annoncée à 7 h 30 pour les premières évaluations.",
+  "kind": "half_hour_summary",
+  "period_start": "2026-10-13T02:00:04+02:00",
+  "period_end": "2026-10-13T04:00:04+02:00",
+  "updated_at": "2026-10-13T04:00:04+02:00"
 }
