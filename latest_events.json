@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T21:01:21+02:00",
-  "period_end": "2026-10-13T23:01:21+02:00",
-  "updated_at": "2026-10-13T23:01:21+02:00",
+  "period_start": "2026-10-13T21:30:52+02:00",
+  "period_end": "2026-10-13T23:30:52+02:00",
+  "updated_at": "2026-10-13T23:30:52+02:00",
   "events": [
     {
       "timestamp": "2026-10-13T21:33:32+02:00",
@@ -332,6 +332,120 @@
       "image_urls": [
         "https://media.discordapp.net/attachments/1500850385567617196/1559672037096816690/Capture_decran_2026-10-13_a_22.59.08.png?ex=6acfed46&is=6ace9bc6&hm=cb1308127a3322bdf489f6aba9b550b30527c45f04da5911597a2492cd0dd0ef&=&format=webp&quality=lossless&width=640&height=346"
       ]
+    },
+    {
+      "timestamp": "2026-10-13T23:00:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Hello, j'espère que vous avez passé une bonne journée, on va continuer cette soirée ensemble, merci à @Séb !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:02:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h00 - On voit Elija, Brieuc, Zoé et Amel aller au théatre pour répéter la chorégraphie de l'hymne",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:05:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h05 - Tracy les rejoint et Zoé fait la prof de danse (elle peut le faire vu qu'elle est dans le groupe A)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:09:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h07 - Ils sont tous d'accord pour dire que c'est bizarre de danser sans le miroir en face d'eux, et se disent que ça peut être compliqué de danser avec le micro. Il ne faudra pas se le prendre en pleine tête pendant le prime",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:10:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h09 - Zoé prend son rôle de prof de danse très à coeur, elle dit qu'elle réalise un de ses rêves également",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:13:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h12 - Ils révisent la chorée et la font plusieurs fois pour bien mémoriser tous les pas",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:16:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "je trouve que c'est bien en place pour les 5",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:17:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h16 - Zoé leur dit qu'ils peuvent la refaire autant de fois qu'ils ont besoin",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:18:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h17 - Une autre ambiance au château avec Antoine et Morgan qui s'ambiance en écoutant de la musique",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:20:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h19 - On est de retour au théatre avec Zoé et ses élèves",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:21:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h21 - Elles disent qu'il faudra pas oublier de sourir sur scène",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:23:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h22 - Elija n'est plus avec eux. Zoé leur propose de faire l'hymne en entière avec la chorée",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:24:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h24 - Felix les rejoint sur scène",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:25:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h25 - José nous met un petit plan sur Leeloo",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:26:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:26:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h26 - Cameron et Antoine révisent aussi l'hymne dans le château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:27:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "plan",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:29:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T23:29:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "23h29 - On les retrouve dans la salle de danse toujours pour répéter cette chorèe",
+      "image_urls": []
     }
   ]
 }
