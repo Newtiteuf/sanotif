@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T18:01:09+02:00",
-  "period_end": "2026-10-13T20:01:09+02:00",
-  "updated_at": "2026-10-13T20:01:09+02:00",
+  "period_start": "2026-10-13T18:30:58+02:00",
+  "period_end": "2026-10-13T20:30:58+02:00",
+  "updated_at": "2026-10-13T20:30:58+02:00",
   "events": [
     {
       "timestamp": "2026-10-13T18:35:25+02:00",
@@ -492,6 +492,126 @@
         "https://media.discordapp.net/attachments/1500850385567617196/1559626686641741894/image.png?ex=6acfc30a&is=6ace718a&hm=76393c8747ce2b207eb4a0f4577d04ff70d38bd4005ed514046a2f9aa950b0b4&=&format=webp&quality=lossless&width=320&height=320",
         "https://media.discordapp.net/attachments/1500850385567617196/1559626687036260493/image.png?ex=6acfc30a&is=6ace718a&hm=f93755f0c1a23bedc954f5b7ebb7bde89096144d8a4f51f9b8920ce75f6c18e6&=&format=webp&quality=lossless&width=320&height=320"
       ]
+    },
+    {
+      "timestamp": "2026-10-13T20:00:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Iiiiiinnnspireeeer.  Exxxxppiiiiirreeeerr.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:02:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Lydia lance la reprise d'Angèle qu'a interprété Khalil :khalil: samedi dernier.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:03:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elle lui explique qu'il doit découvrir la phrase en même temps qu'il la dit.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:05:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elle lui fait expliquer la signification de chaque phrase et insiste sur les émotions de celles-ci",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:05:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:05 - Retour à la cuisine. Rien n’a cramé.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:07:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559628566801551473/image.png?ex=6acfc4ca&is=6ace734a&hm=9e8d0c751c4aa5027cfcfc09f1eac08366f00b9e739cf7bc6124df62ac280bae&=&format=webp&quality=lossless&width=640&height=358"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T20:07:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Pour le moment...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:09:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:08 - J’ai compté quatre ou cinq inhalateurs sortis du lave-vaisselle. Faites ce que vous voulez de cette info.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:10:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:10 - Chambre des garçons",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:11:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Range ta chambre, Brieuc.  Je vais devoir tout te dire, c'est ca ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:15:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "⏰ Plus tôt dans la journée...\nDans la salle de répétitions, Sofia et Amel :amel: écoutent « Killing Me Softly ». Sofia lui explique que son chant manque d’adresse et lui demande de reprendre avec davantage d’intention : « Quand on a une grande voix, on ne chante pas petit. »",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:18:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Autre exercice : Sofia lui demande qu'elle mime son chant.  En quelque sorte, de chanter en playback... sans la chanson !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:20:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Au tour de Maud :maud: de faire cet exercice",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:21:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:20 - Dans la salle de danse, Amel :amel: et Zoé :zoe: répètent la chorégraphie de l’hymne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:25:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "20:24 - Les pas rentrent petit à petit. On voit qu’elles s’amusent !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:26:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559633489953816706/image.png?ex=6acfc960&is=6ace77e0&hm=89d7e572671d64932b8ad785f0f409d19a0523d9e9a08e1e7e91cd25985c170a&=&format=webp&quality=lossless&width=640&height=358"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T20:27:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Oui, bon, juste pas là",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T20:28:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559633839410643064/image.png?ex=6acfc9b3&is=6ace7833&hm=bd47a30a97008d71951ac693810830827712c791c21efcf6725e43b18d7708f6&=&format=webp&quality=lossless&width=640&height=360"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T20:28:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Voila ! Là, on voit bien.",
+      "image_urls": []
     }
   ]
 }
