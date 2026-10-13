@@ -1,27 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T17:31:05+02:00",
-  "period_end": "2026-10-13T19:31:05+02:00",
-  "updated_at": "2026-10-13T19:31:05+02:00",
+  "period_start": "2026-10-13T18:01:09+02:00",
+  "period_end": "2026-10-13T20:01:09+02:00",
+  "updated_at": "2026-10-13T20:01:09+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T17:31:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "17h31 - Elle doit sentir des fourmis qui commencent à lui monter dans le dos pendant qu'elle chante.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T17:31:44+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Lydia je t'aime bien mais moi si j'imagine ça, j'arrête de chanter et je pars en courant...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T17:32:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "_\n\nFIN DU LIVE, REPRISE APRES LA QUOTIDIENNE\n\nDes bisouuuuus :teal_heart:",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-13T18:35:25+02:00",
       "channel": "🔴・infos-live",
@@ -359,6 +341,157 @@
       "channel": "🔴・infos-live",
       "content": "19:28 - Fanny propose de découper la salle en deux pour se partager des phrases de l'hymne.",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:30:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Fin de mon créneau :etoiles: \nC'est donc l'heure de vous passer mon relai de remplacement, le rédacteur le plus drôle (ou presque de la bande). Créateur du JDH si vous ne le savez pas encore, le roi des titres : @Christophe . Toujours le meilleur pour vous faire rire, attention à ne pas abuser de ses blagues. :cuute:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:31:55+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Oh merci Astrid 🤍 C'est tellement... spontané ! Je suis ému. \nSalut les mélomanes ! Vous avez survécu aux diiiiix-seeeept évals de ce matin ? Gardez un peu d’énergie : on passe la prochaine heure ensemble, sauf :CSA: :what:\nDu côté de Dammarie-les-Lys, les nuages sont au rendez-vous et il fait autour de 21 °C.\nBon, on en était où ? Oh mon Dieu ils sont tous là:help:",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:33:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:32 - Les élèves travaillent la répartition des paroles de l’hymne !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:33:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559620216579686560/image.png?ex=6acfbd03&is=6ace6b83&hm=32bb3daa0da3fb25063c0d408d5fa564aed55e5aba4b01903e5438235b9d4ad8&=&format=webp&quality=lossless&width=640&height=363"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T19:34:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "L'élève en haut à droite ne se sent pas bien, je crois",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:36:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:35 - Fanny :fanny: explique que cette répartition sera forcément modifiée au fil des éliminations.\n(Bizarre, l’ambiance.)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:37:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:36 - Fanny :fanny: explique aux élèves le sens de l’hymne de cette année.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:38:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "💡 Le saviez-vous ? « Dans un autre monde » de Céline Dion, écrite par Jean-Jacques Goldman, peut se lire comme une invitation à quitter ses habitudes et à saisir sa chance, même si cela implique de laisser des gens derrière soi.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:38:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:38 - Tout le monde debout !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:39:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Oui même toi au fond !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:40:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:39 - Les élèves reprennent l’hymne. Ils le maîtrisent de mieux en mieux !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:42:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "\"Qu'est ce que tu dis ?\"\n\"Je te dis qu'il faut appeler une ambulance pour cet élève !\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:43:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:42 - Fanny :fanny: explique aux élèves l’attitude à adopter lorsqu’ils interprètent l’hymne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:44:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:43 - Les répétitrices demandent à voir un aperçu de la chorégraphie, qu’elles ne connaissent pas encore.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:45:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:44 - Fanny :fanny: encourage les élèves à profiter de leur soirée consacrée uniquement à l’hymne pour le travailler à fond.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:46:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:46 - Et c’est reparti pour un tour !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:48:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ah ah ah ah oh oh",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:50:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:49 - Fanny :fanny: demande aux élèves de s’entraider pour apprendre l’hymne. Philippine :philippine: leur conseille de marcher et de sautiller dans la salle de répétitions pour travailler leur cardio.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:51:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:50 - Fin de la répétition ! Les élèves se dirigent vers le château.\nFÉLIX  ! Ton écharpe !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:52:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Brieuc, c'est valable pour toi aussi",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:55:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559625552422375505/image.png?ex=6acfc1fc&is=6ace707c&hm=8e8eea85311186a7015930645593fdf4fd1214fc793d2d586fab4078592a648a&=&format=webp&quality=lossless&width=640&height=360"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T19:55:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19:53 - Analyse du four.\nFaudrait pas que ça prenne feu, hein, Héléna ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:58:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "⏰ Plus tôt dans la journée...\nAu théâtre, Lydia propose à Khalil :khalil: de retravailler sa chanson du prime autour de trois axes : l’ancrage dans le corps, l’accroche du regard et le travail du texte pour gagner en sincérité.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T19:59:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559626686641741894/image.png?ex=6acfc30a&is=6ace718a&hm=76393c8747ce2b207eb4a0f4577d04ff70d38bd4005ed514046a2f9aa950b0b4&=&format=webp&quality=lossless&width=320&height=320",
+        "https://media.discordapp.net/attachments/1500850385567617196/1559626687036260493/image.png?ex=6acfc30a&is=6ace718a&hm=f93755f0c1a23bedc954f5b7ebb7bde89096144d8a4f51f9b8920ce75f6c18e6&=&format=webp&quality=lossless&width=320&height=320"
+      ]
     }
   ]
 }
