@@ -1,137 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T23:00:37+02:00",
-  "period_end": "2026-10-14T01:00:37+02:00",
-  "updated_at": "2026-10-14T01:00:37+02:00",
+  "period_start": "2026-10-13T23:30:47+02:00",
+  "period_end": "2026-10-14T01:30:47+02:00",
+  "updated_at": "2026-10-14T01:30:47+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T23:02:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h00 - On voit Elija, Brieuc, Zoé et Amel aller au théatre pour répéter la chorégraphie de l'hymne",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:05:44+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h05 - Tracy les rejoint et Zoé fait la prof de danse (elle peut le faire vu qu'elle est dans le groupe A)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:09:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h07 - Ils sont tous d'accord pour dire que c'est bizarre de danser sans le miroir en face d'eux, et se disent que ça peut être compliqué de danser avec le micro. Il ne faudra pas se le prendre en pleine tête pendant le prime",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:10:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h09 - Zoé prend son rôle de prof de danse très à coeur, elle dit qu'elle réalise un de ses rêves également",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:13:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h12 - Ils révisent la chorée et la font plusieurs fois pour bien mémoriser tous les pas",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:16:18+02:00",
-      "channel": "🔴・infos-live",
-      "content": "je trouve que c'est bien en place pour les 5",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:17:20+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h16 - Zoé leur dit qu'ils peuvent la refaire autant de fois qu'ils ont besoin",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:18:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h17 - Une autre ambiance au château avec Antoine et Morgan qui s'ambiance en écoutant de la musique",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:20:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h19 - On est de retour au théatre avec Zoé et ses élèves",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:21:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h21 - Elles disent qu'il faudra pas oublier de sourir sur scène",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:23:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h22 - Elija n'est plus avec eux. Zoé leur propose de faire l'hymne en entière avec la chorée",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:24:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h24 - Felix les rejoint sur scène",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:25:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h25 - José nous met un petit plan sur Leeloo",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:26:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:26:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h26 - Cameron et Antoine révisent aussi l'hymne dans le château",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:27:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:29:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:29:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h29 - On les retrouve dans la salle de danse toujours pour répéter cette chorèe",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:29:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559679618599096520/IMG_7344.png?ex=6acff456&is=6acea2d6&hm=b878c9998a6de7a7a03b331c2afc74a564dcbcabb302ea8239226bae5230ece4&=&format=webp&quality=lossless&width=640&height=389"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T23:30:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "On va vite la connaître par coeur à ce rythme là",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:30:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-13T23:32:12+02:00",
       "channel": "🔴・infos-live",
@@ -486,6 +358,84 @@
       "timestamp": "2026-10-14T00:59:54+02:00",
       "channel": "🔴・infos-live",
       "content": "Zoé explique qu'elle prenait des cours de solfège, mais qu'elle arrive à ce repérer au piano avec l'oreille",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:01:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h00 - Maud explique qu'elle n'est pas souvent sur son tel, mais que le soir depuis quelques années elle ne passe pu une fin de soirée sans son tel sans scroller.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:03:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elle explique que dans son carnet, elle a un côté compo et un côté \"journal intime\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:05:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h04 - Zoé lui dit qu'elle a super bien interprétée sa chanson aux évals, Maud a commencé sont explication et....",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:05:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure coiffeuse",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:07:53+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h06 -  On retrouve Amel, Mélina et Elija au canapé sur un mini debrief des evals.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:09:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h07 - Vue de la cuisine avec un groupe d'élèves (Elija est face de Amel)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:14:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bonne nuit à celles et ceux qui vont dormir",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:16:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h15 -",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:21:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Petit rappel du planning de demain, les élèves commencent à 9h30 avec Expression scénique, suivi de Sport à 12h et enfin répétitions à 16h30. ⁠📅・planning",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:23:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h23 -",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:27:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "01h25 - On retrouve Noémie et Mélina dans la chambre des filles , Mélina explique qu'elle a peur d'être nommée avec les petites fautes qu'elle a fait, Noémie la rassure que l'année dernière la différence jouais sur les élèves qui prenais les paroles lors des évales.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:28:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Mélina s'attend à être nommée, elle se dit qu'elle a pas assurée, qu'elle préfère se dire ça.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:28:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "1h28 -",
       "image_urls": []
     }
   ]
