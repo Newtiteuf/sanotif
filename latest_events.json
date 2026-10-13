@@ -1,151 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-12T23:30:04+02:00",
-  "period_end": "2026-10-13T01:30:04+02:00",
-  "updated_at": "2026-10-13T01:30:04+02:00",
+  "period_start": "2026-10-13T00:00:04+02:00",
+  "period_end": "2026-10-13T02:00:04+02:00",
+  "updated_at": "2026-10-13T02:00:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-12T23:32:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h31 - Cameron, Antoine et Tracy écoutent Morgan jouer ses compositions dans le salon.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:33:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559318081933807626/Screenshot_20261012_233135_TF1.jpg?ex=6acea3a1&is=6acd5221&hm=430e397d10aaf5ecabbefbb614c61bf496614db8fcfe1249c468e85c5b920b80&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559318082353111070/Screenshot_20261012_233254_TF1.jpg?ex=6acea3a1&is=6acd5221&hm=5d3fa9934ff6cd06deef7b05fc7496cd3be30f5ec5bb1d220dfa2786b2a97bbd&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:34:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h34 - Antoine prend la guitare pour jouer une composition personnelle.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:35:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559318510977683536/Screenshot_20261012_233436_TF1.jpg?ex=6acea407&is=6acd5287&hm=75bd86bb220e699298746ab4410866146561cb4d8ac32592c295449cbcceb831&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:38:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h37 - Au foyer-studio, Leeloo est au piano.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:39:20+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Leeloo ne semble pas réviser sa chanson d’évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:40:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559319942464143472/Screenshot_20261012_233957_TF1.jpg?ex=6acea55d&is=6acd53dd&hm=142995d0be36ed90c9856998e75e245e691378ecae2e2e33c04cada506da0b77&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559319942954745997/Screenshot_20261012_234007_TF1.jpg?ex=6acea55d&is=6acd53dd&hm=f2926fde10378f1d833d56a8ac1778ae26933f860005a2508fab5dc0de3fe262&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:41:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h40 - Plan sur une salle.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:41:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Le plan reste peu de temps.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:43:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h42 - Félix a rejoint son lit avant le réveil matinal et la longue session d’évaluations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:43:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Félix lit un livre.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:43:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559320758604271707/Screenshot_20261012_234328_TF1.jpg?ex=6acea61f&is=6acd549f&hm=8ba65d212978e5365702402c88e4417ce31df799ebf7a0269b125f0da9d31431&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:46:19+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h45 - Dans la salle de chant, Maud est au piano et chante sa chanson d’évaluation.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:46:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Il s’agit de « Monde » de Luidji.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:47:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559321604239003688/Screenshot_20261012_234649_TF1.jpg?ex=6acea6e9&is=6acd5569&hm=f29c95376db796e22f651c4880e203959650071abcb10670d24bc9bcbf010c31&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:49:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h48 - Mélina rejoint Maud en salle de chant pour qu’elles s’auto-évaluent. Maud reprend la chanson au piano.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:50:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559322390725533796/Screenshot_20261012_235001_TF1.jpg?ex=6acea7a4&is=6acd5624&hm=5f30a146c030c991a18304f5ba98e180e5e2c4650967501087ccd07f102b41a1&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-12T23:52:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h51 - Dans la chambre des garçons, Khalil annonce que certains feront un réveil musculaire dans le jardin avant les évaluations.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:53:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Un plan château interrompt la discussion.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:59:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h58 - Flashback : Amel travaille elle aussi « Monde » de Luidji à la guitare avec son lecteur MP3.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-12T23:59:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559324677720248482/Screenshot_20261012_235904_TF1.jpg?ex=6acea9c6&is=6acd5846&hm=5b5650a8b4256abdbcd6acf80db0f8e1e492eb8c11ebc2b8212eed114b8d6637&"
-      ]
-    },
     {
       "timestamp": "2026-10-13T00:01:14+02:00",
       "channel": "🔴・infos-live",
@@ -493,6 +351,26 @@
       "timestamp": "2026-10-13T01:29:45+02:00",
       "channel": "🔴・infos-live",
       "content": "1h29 - Les lumières sont aussi éteintes dans la chambre des filles",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:30:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559347454497914930/IMG_7318.png?ex=6acebefc&is=6acd6d7c&hm=cb6719bd820f1381c543c7937b884c827e54b31ac388848419037f1718538ce4&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T01:30:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "les lumières du château s'éteignent complètement",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T01:31:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "C'est la FIN DU LIVE de ce lundi 12 octobre, merci à tous ! Passez une bonne nuit et vous retrouverez @Nantaise44 🩷 à 7h30 pour le début d'une nouvelle journée de live et surtout les premières évaluations de la saison",
       "image_urls": []
     }
   ]
