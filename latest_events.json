@@ -1,229 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T13:31:21+02:00",
-  "period_end": "2026-10-13T15:31:21+02:00",
-  "updated_at": "2026-10-13T15:31:21+02:00",
+  "period_start": "2026-10-13T14:01:31+02:00",
+  "period_end": "2026-10-13T16:01:31+02:00",
+  "updated_at": "2026-10-13T16:01:31+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T13:31:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h31 - Elija veut garder le pied.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:31:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559528980430979172/image.png?ex=6acf680b&is=6ace168b&hm=d10382222c8b05c056bd1922251befb3cdb02761a915d433e41db9fb71390cd3&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:32:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h31 - Elle veut être dans le top 3 car elle veut garder les bons comme les mauvais moments. Son point fort c'est l'interprétation et elle espère montrer son talent avec la musique de A la vie de Suzanne.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:33:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559529385692762112/image.png?ex=6acf686c&is=6ace16ec&hm=04810ea355e3461ade3b8042a55c616b8f222ef780b065b233067f429302cd14&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:36:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h35 - Elija remercie les profs et quitte la salle. Elle dit en sortant \"J'ai cru que j'allais casser le truc... La vie est plus belle quand on est passé.\"",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:37:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h36 - Les élèves applaudissent quand elle rentre et lui dit que c'était géniale.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:37:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559530560827949066/image.png?ex=6acf6984&is=6ace1804&hm=d07a4a9e682c413f3b2e8f16416a38a0a46164c32926b90b21b719f6718041ce&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:37:55+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h37 - Eljia sort dehors.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:38:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan coiffeur",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:39:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h38 - Les élèves sont dans Le salon entrain de discuter pendant que Cameron s'ennuie a la guitare .",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:39:15+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559530957571104839/image.png?ex=6acf69e2&is=6ace1862&hm=c982fb5134662af30628d6ed57203c58fdcabf7fe80a3083ac3100887103d226&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:39:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h39 - Cameron avait commencé un air de la chanson Believer avant de changer de chanson.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:41:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h39 - Zoé discute avec les garçons. L'un d'entre eux dit qu'il est fatigué. Zoé lui dit de se reposer et ajoute en rigolant \"Après ma prestation !\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:42:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559531674117611591/image.png?ex=6acf6a8d&is=6ace190d&hm=23fe1eae7f923efc32c38091b2f814f3b5f4cd221cd064625b7511fce0cec6ca&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:44:09+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h41 - Elle fait un calin à Elija et lui demande comment c'était sa prestation. Elija dit que ça allait même si elle aurait pu mieux faire sur une partie des paroles. Elle affirme que Sofia lui a complimenté sur sa tenue.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:44:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h44 - Zoé est sur le chemin de son évaluation et se rassure comme elle peut.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:45:42+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559532583367221248/image.png?ex=6acf6b66&is=6ace19e6&hm=e56e63459c98e373d8d96fe230a7aa1fb89c4e10873a8dce894f1e55bbd71e0d&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:45:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h44 - Elle a choisi Set fire to the Rain de Adele car elle espère être dans le top 3 grâce à sa puissance vocal et les trippes qu'elle met dans cette chanson.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:46:04+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h45 - Elle a choisi une tonalité normal.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:46:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559532831456239736/image.png?ex=6acf6ba1&is=6ace1a21&hm=3e96e748e3c3da763785a4f523ba88ea219b1b93e567f6f32dec752554d877a2&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:47:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h46 - Elle chante sa chanson.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:49:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h48 - Elle quitte la salle en buvant de l'eau.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:49:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559533547767992341/image.png?ex=6acf6c4c&is=6ace1acc&hm=1a68a0aa06a64e63c9f48a94347eb2b26197b4bb06790e49feac5189486aa910&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:51:11+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h49 - Tout le monde l'applaudissent quand elle rentre. Ils affirment qu'elle a dead et que c'était magnifique mais Zoé pleure en disant que \"ça la soule\".",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:51:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559533968888692736/image.png?ex=6acf6cb0&is=6ace1b30&hm=53f6b537405ebf3cdbe05df11e879dcd3d3a8142a2c652b031ec1f08be223a4e&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:51:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h51 - Les académiciens trouvent que c'était long.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:52:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h52 - Elija est super contente car Sofia a complimenter sa robe",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:52:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan coiffeur",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:53:37+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559534575581929594/image.png?ex=6acf6d41&is=6ace1bc1&hm=bf020da1c556b9a98b42d233ea34f21f6e3d2702690f61b3989265da72ad66bb&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T13:53:39+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h53 - flash-back de Antoine et Cameron. Antoine comprend pas comment les gens peuvent se lever à 6h du matin et avoir encore autant d'énergie.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:53:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan coiffeur",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T13:54:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "13h54 - On retrouve Antoine dans une énième flash-back. Le même flash-back, merci José",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T14:00:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559536239517114378/image.png?ex=6acf6ece&is=6ace1d4e&hm=9f381c2d87a4fd0180a92eb107cb14298ce049217f3abed23ca1d67e7bb6656f&"
-      ]
-    },
     {
       "timestamp": "2026-10-13T14:01:33+02:00",
       "channel": "🔴・infos-live",
@@ -380,6 +160,220 @@
       "timestamp": "2026-10-13T15:30:13+02:00",
       "channel": "🔴・infos-live",
       "content": "15h29 - Maud part en cuisine et semble choquée qu'il n'y ai plus de gouda",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:32:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h31 - Quand à Cameron, on le voit chante et faire du piano.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:32:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559559417723355207/Capture_decran_2026-10-13_a_15.31.20.png?ex=6acf8464&is=6ace32e4&hm=bba4ac24b56ca22a3d5166f7939cd4cffe57c48626e581d6ed71e3a51dbc3ebe&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:34:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Cameron chante Traverser l'hiver canadien de Gaël Faye",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:36:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h34 - Côté cuisine, Amel, Antoine et Mélina discutent sur le fait de potentiellement échanger des minutes entres eux pour pouvoir parfois avoir deux minutes au téléphone",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:36:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559560378814308483/Capture_decran_2026-10-13_a_15.34.38.png?ex=6acf8549&is=6ace33c9&hm=ae5535106d19b49a146369d5b455c6723acf9c6d75a623342855ecd6a523f837&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:36:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h36 - Antoine dit que s'il est nommé il aurait davantage tendance à appeler sa famille que ses amis.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:37:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Il dit qu'il voudrait absolument avoir les ingrédients pour faire du tiramisu",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:37:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h37 - Amel propose le principe de liste pour les courses",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:37:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559560800388124713/Capture_decran_2026-10-13_a_15.37.27.png?ex=6acf85ae&is=6ace342e&hm=e21404b1a698011447af9afe343310d76d36124a179ae7a3cbef20f8e9b35d28&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:38:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h38 - Amel et Maud se préparent pour aller à leur cours particulier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:39:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h39 - \"j'arrive pas à mettre ma chaussure, comme par hasard\" : Maud.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:39:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h40 - En salle de chant, les filles rejoignent Sofia Morgavi",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:40:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559561472575537202/Capture_decran_2026-10-13_a_15.40.06.png?ex=6acf864e&is=6ace34ce&hm=0df13f770158c9e2ae890d03c36a6370a1c90fdd69c89f065cd18ff3b20fa7db&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:40:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "\"on va chercher le maximum, on va aller chercher des choses exceptionnelles\" dit Sofia",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:41:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h41 - La professeure de chant propose aux deux académiciennes de revoir leurs prestations du prime et de réagir dessus",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:43:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h42 - Sofia commence par Maud. \"elle est bien ta proposition. on va l'épurer. On va simplifier. On libère cette charge et on la met à un endroit précis. Tu as un relachement à ta cage thoracique.\"",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559562169300033547/Capture_decran_2026-10-13_a_15.41.42.png?ex=6acf86f4&is=6ace3574&hm=e85175a1597f1cbd82fa367e1d5bceda357d478db8d6492fbccfaa2e7e65f7f5&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:44:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h43 - Sofia évoque la respiration pelvienne. Elle lui explique le principe et ce que ça doit apporter au corps. Elle lui demande plus d'encrage",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:45:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h44 - \"Tu vas respirer avec la sensation de déployer des ailes\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:47:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h46 - Sofia invite Maud à créer la respiration, ce à quoi elle voit directement le résultat. Maud continue cette respiration et l'utilise en chantant en même temps pour créer quelque chose de soufflé mais contrôlé",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559563292039708682/Capture_decran_2026-10-13_a_15.46.07.png?ex=6acf8800&is=6ace3680&hm=2cafb0a79b2f77edabfdd34cfbfde0c3372ba0322fd0fc0a887e0cf3ccb8d549&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:48:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h48 - Maud ressent la différence. Sofia dit qu'il faut épurer pour retrouver l'escence même de sa voix.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:49:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Lorsque l'on baille on sent son palais se relever. C'est important de ressentir cela quand on chante. Ca donne un effet \"cathédrale\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:50:17+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559563934200107089/Capture_decran_2026-10-13_a_15.49.44.png?ex=6acf8899&is=6ace3719&hm=f21c6b28ff5a35eaf4db14a19f8f0feb4dbd53f516c89d83fad764e4d8c4f038&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:50:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "\"Tu absorbes toutes les consignes et les exécutes très vite\" complimente Sofia",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:51:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Petit excercice : \"Je chante ici sur mon diaphragme, je chante là là là là là là là\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:52:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "(J'espère que les là là là sont clairs pour vous)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:53:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h52 - \"On va amorcer la contre-pression. Il faut que tu penses tes notes graves dans la hauteur de l'aigue, sinon tu vas être sur le larynxe\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:54:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559565000664817768/Capture_decran_2026-10-13_a_15.54.04.png?ex=6acf8997&is=6ace3817&hm=61514b2f790db511e127473db0f93ec0877dcaf1eb6d584513d42746906e3b33&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:55:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h55 - Autre exercice: ouh ouh ouh ouh ouh ouh ouh ouh ouh ouh",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:57:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "15h56 - Le but est de monter de plus en plus dans les aigues avec des \"ouh ouh ouh\" et connecter la sangle abdominale et tous les muscles du soutien de la voix",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:57:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "\"c'est la conscientisation des muscles qui vont être solicités. tu vas mettre en mémoire une agilité coorporelle.\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T15:59:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "C'est tout bon pour moi aujourd'hui, je vous retrouve demain soir ! Je vous laisse avec notre @Catampirespooky 🦇 bye bye",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:00:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Hello les ptits chats ! On est ensemble jusqu'à la quotidienne",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T16:00:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "16h00 - Maud explique à Sofia qu'il y a des passages de la chanson qu'elle n'ose pas faire en voix de tête, alors qu'elle pense en être capable.",
       "image_urls": []
     }
   ]
