@@ -1,106 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T09:10:11+02:00",
-  "period_end": "2026-10-13T11:10:11+02:00",
-  "updated_at": "2026-10-13T11:10:11+02:00",
+  "period_start": "2026-10-13T09:32:04+02:00",
+  "period_end": "2026-10-13T11:32:04+02:00",
+  "updated_at": "2026-10-13T11:32:04+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T09:10:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h09 - plan  \nJosé s’amuse sur différent plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:12:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h10 - dans la salle theatre nous pouvons voir Zoé et Khalil répéter  all of me",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559463793937879112/4A45F0BD-4D5C-4D3F-A37F-D941D5AD2AE5.jpg?ex=6acf2b55&is=6acdd9d5&hm=b3151206186955903da3830fd731f79096df93590ba3d1eba0be516fa0403ce3&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:15:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h14 - Zoé et Khalil s’entraînent et propose une chorée pour l’évaluation de Khalil",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559464469065769011/EC45425E-3CC9-43C8-AE58-70B311F136AC.jpg?ex=6acf2bf6&is=6acdda76&hm=3df1f061b8838726177337811f46f97862374e16c98a52699feb263b1b6963c5&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:17:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h17 - ils continuent de répéter la chanson et la chorée",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559465093970796564/86046944-AA2B-480F-B1C1-697E27A553FB.jpg?ex=6acf2c8b&is=6acddb0b&hm=fb0caf4968c4a8d5d4b8f5edaa64d3341283214b1b7de16b923e02af3a0bb152&",
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559465094411321405/404436BD-4D6E-4412-9270-CB9DD0E27161.jpg?ex=6acf2c8b&is=6acddb0b&hm=c09fadd84ce90119f37bf83e279b7fb9f9e03b276de249b565584f085aff83a3&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:20:17+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h19 -  changements de plan nous sommes en cuisine avec Félix , Morgan et Noémie",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559465788782411806/001762CD-7146-422C-842A-430E330346E6.jpg?ex=6acf2d31&is=6acddbb1&hm=eee37a7cc6482205b9588a4af09b69ee6fbb63b9eea1c01813f36e03baf62768&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:21:07+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h20 - Cameron joue à la guitare  dans le hall",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559465997558226974/7FD811DD-B822-4E5F-8A08-C1DA401BCC82.jpg?ex=6acf2d63&is=6acddbe3&hm=c21ce110268bb880f46f94d7e53754f1a79c0a078225eec8a2027f2fa9c7b142&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:22:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h21 - dans le salon avec les élèves et nous entendons Yriss réviser sa chanson  Amel - tu n’es plus la",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559466254119600188/62DD4A0A-5F5A-4D76-894F-A21022CB3C3F.jpg?ex=6acf2da0&is=6acddc20&hm=fefa5f63bae4470bebed40bab7000c3afc861ad556ce8d13e645bfc1eed94160&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:22:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h22 - plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:25:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h24 - Isabella et Kylian conseil Ydriss sur sa tonalité et Noémie jouer au piano",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559467180196630579/35FB571E-F833-47C0-9486-6ABE6C8EAED9.jpg?ex=6acf2e7d&is=6acddcfd&hm=e8927991473c4874113475a4a6a9e773de12213f8093bd0bf5a7d1da5266a61f&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:26:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h26 - plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:27:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h27 - cui cui cui cui",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T09:30:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h29 - Noémie au piano, Kylian chante all of me",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559468260486025247/ABAF82AA-391D-40C7-9B4B-E5B7F82F1238.jpg?ex=6acf2f7e&is=6acdddfe&hm=b641996271abd9b2222d378229b9bb88a1c96e0b4042829cea85949d2d795ea4&"
-      ]
-    },
-    {
-      "timestamp": "2026-10-13T09:31:06+02:00",
-      "channel": "🔴・infos-live",
-      "content": "9h30 Amel, Ydriss dans la Cuisine et Ydriss demande à Khalil de réviser avec",
-      "image_urls": [
-        "https://cdn.discordapp.com/attachments/1500850385567617196/1559468512437604362/299E66ED-42E8-4765-A3CE-5C3F3F345833.jpg?ex=6acf2fba&is=6acdde3a&hm=df5c22c42156431d3d9de455146e2b06d76a7250a93f2583ce02d17d85b5a6ab&"
-      ]
-    },
     {
       "timestamp": "2026-10-13T09:32:15+02:00",
       "channel": "🔴・infos-live",
@@ -781,6 +684,154 @@
       "image_urls": [
         "https://cdn.discordapp.com/attachments/1500850385567617196/1559492736946802739/image0.jpg?ex=6acf464a&is=6acdf4ca&hm=79cf71389868fa35a67b5e901c3afa6842cc937aa418838fd825582ff79d9896&"
       ]
+    },
+    {
+      "timestamp": "2026-10-13T11:09:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h09- Leeloo a fini et retourne au château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:11:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Les autres applaudissent et disent que c'était magnifique",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:11:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559493893546971317/Screenshot_20261013_111141_TF1.jpg?ex=6acf475e&is=6acdf5de&hm=a7c078e68dc8215a60411f87a5f6403e6af21b3bf3aaa481e8249e3ac3a4fc7c&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:13:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h12- Leeloo a peur les autres lui disent de de ce faire confiance",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:13:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h13- Leeloo est en pleure",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:14:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559494448826552411/Screenshot_20261013_111312_TF1.jpg?ex=6acf47e2&is=6acdf662&hm=98622e190aa82417471a4d0d297dac0473446e05a5d127938afd291e87aed5fa&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:15:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h14- ***Leeloo monte en haut",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:16:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h16- ***Mélina est en stress devant les portes du chateau",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:17:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559495216136724570/image0.jpg?ex=6acf4899&is=6acdf719&hm=9bb9491c0989898a02c451ebfd889eafb0ae5e733aa1f5cf354d453d3df5f91f&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:18:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h17 - Mélina part direction la salle d'évaluation",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:18:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559495627224653914/Screenshot_20261013_111841_TF1.jpg?ex=6acf48fb&is=6acdf77b&hm=75b6202cf99eb11b2ffea05a2c5f737d31d69f2d3d052bddbca016adae234ed0&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:20:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559495940614660096/Screenshot_20261013_111951_TF1.jpg?ex=6acf4946&is=6acdf7c6&hm=aa79d066f64aba3d3793bd4f563b38c61dcebedb01c75406fe3f46d2bd6b76c9&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:20:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h20- Sofia demande pourquoi Mélina veut être dans le top3",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:21:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Mélina dit qu'elle veut montrer la sauvagerie dans sa voix",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:22:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h21-Mélina commence a chanter la chanson de Charlotte Cardin je ne sais plus le titre",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:23:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559496689109176361/Screenshot_20261013_112140_TF1.jpg?ex=6acf49f8&is=6acdf878&hm=ce54aff6e763112bda4609037e47150146592ff58a616e3947ed958c8437800e&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:25:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h25 Mélina a terminer elle s'effondre en larme dehors",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:26:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559497502384988230/Screenshot_20261013_112553_TF1.jpg?ex=6acf4aba&is=6acdf93a&hm=4586a56f2e69cb9378629df87d4cad5cb766cf2046db8c2a4abdb81526a1a6da&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:27:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Noémie la rejoint et lui dit que c'était trop bien",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:28:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://cdn.discordapp.com/attachments/1500850385567617196/1559497991469924394/Screenshot_20261013_112711_TF1.jpg?ex=6acf4b2f&is=6acdf9af&hm=c5c04a627c6fa58f124d717eb20b77e493098150a91b5ccc462ac179d3778c8b&"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T11:30:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h29- Leeloo et Tracy rejoint Mélina etNoémie et leurs dit que c'etait trop bien et que les profs ont pas vu qu'elle a oubliée des paroles",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-13T11:30:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ydriss  les rejoint",
+      "image_urls": []
     }
   ]
 }
