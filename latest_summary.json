@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Sport terminé, pause lancée",
-  "summary": "Le cours de sport avec Ladji s’est terminé peu avant 14 h, avec des réactions très positives de Brieuc et Cameron, tandis qu’Amel l’a trouvé intense mais bénéfique. Les élèves ont ensuite reçu leur repas et se sont servis entre chili con carne, option végétarienne et guacamole préparé par Amel. Une pause CSA a été lancée à 14 h 10, avec une reprise annoncée dans une heure ou après la quotidienne.",
+  "title": "🔴 Pause prolongée au château",
+  "summary": "La pause CSA lancée à 14 h 10 s’est prolongée au château sans nouvelle activité annoncée dans infos-live. Aucun autre événement n’a été signalé pendant cette période.",
   "kind": "half_hour_summary",
-  "period_start": "2026-10-14T14:00:45+02:00",
-  "period_end": "2026-10-14T14:30:42+02:00",
-  "updated_at": "2026-10-14T14:30:42+02:00"
+  "period_start": "2026-10-14T14:30:42+02:00",
+  "period_end": "2026-10-14T16:30:32+02:00",
+  "updated_at": "2026-10-14T16:30:32+02:00"
 }
