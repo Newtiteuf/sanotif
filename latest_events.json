@@ -1,129 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T08:30:39+02:00",
-  "period_end": "2026-10-14T10:30:39+02:00",
-  "updated_at": "2026-10-14T10:30:39+02:00",
+  "period_start": "2026-10-14T09:00:49+02:00",
+  "period_end": "2026-10-14T11:00:49+02:00",
+  "updated_at": "2026-10-14T11:00:49+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-14T08:34:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h34 – Morgan a récupéré le coussin dans ses bras",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:35:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h35 – Et la lumière fût!!",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:36:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "À ne pas oublier qu'il y avait de gros ronflements avant l'allumage des lumières, on pense aux académiciens qui vivent en communauté avec tous ses ronflements",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:37:31+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h37 – Ydriss et Morgan se réveille doucement",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:38:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h38 – Ydriss se gratte le derrière directement après être sorti du lit",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:39:36+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h39 – Les filles se réveillent en douceur",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:40:33+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Coupure du son",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:41:49+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h41 – Très dur pour Mélina",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:43:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h42 – On a un plus tôt dans la journée avec le réveil de Brieuc et de Morgan, José a du oublier son café ce matin...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:45:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h45 – Félix et Khalil sortent du lit\nQui aurait cru que Khalil soit réveillé?",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:46:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Ce fut un faux espoir, Khalil s'est vite rendormi...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:47:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan château",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:49:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h48 – Antoine est réveillé et a fait son lit",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:49:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Coupure son",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:51:26+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h50 – Morgan et Felix sont de retour dans leur lit, le petit-déjeuner ne doit pas être encore servi",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:53:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h53 – Leeloo et Elija se préparent",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:54:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h54 – Elles sont entrain de repasser la chemise d'Elija",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:55:50+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h55 – Ydriss se met de l'huile dans les cheveux dans la salle de bain",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:57:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h57 - Maud dit qu'elle s'est fait mal à la hanche dans la nuit, elle suppose qu'elle a du dormir dans une position pas très confortable",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:59:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h59 – Noémie et Tracy cherchent leur outfit du jour",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-14T09:01:01+02:00",
       "channel": "🔴・infos-live",
@@ -480,6 +360,152 @@
       "timestamp": "2026-10-14T10:29:48+02:00",
       "channel": "🔴・infos-live",
       "content": "10h28 - Noémie dans sa Espagnol Era !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:29:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559845676446130196/image.png?ex=6ad08efd&is=6acf3d7d&hm=61b88ea1f3bdb83072970fca36a4e7a40dad10c7aa09a2f5b027858e24e061d1&=&format=webp&quality=lossless&width=640&height=347"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14T10:30:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h29 - Quelqu'un a dit que ça ressemblait a du Rosalya. José n'est pas d'accord et met un plan château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:31:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h30 - Les élèves se prépare à allé en cours d'expression scénique.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:33:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h32 - Leeloo et Isabella est en retard. Les élèves les attendent de l'extérieur.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:34:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "C'était pas le cours d'expression scénique mais la photo de classe improvisé ! \n\n\n10h33 - Elles arrivent. Le photographe leurs dit qu'ils vont faire sur le Perron (Comme l'année de Gregory). Le photographe leurs montre les directives pour la photo.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:36:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h35 - Les élèves se mettent aux places attitré par le photographe.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:38:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h36 - Même le photographe a autant du mal avec les noms que moi. Il confond Brieu et Kylian pour le changement de place.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:39:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h37 - Le photographe demande à Tracy de monter d'une marche. De même pour Cameron.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:39:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h39 - Ils font des tests photo. Le photographe demande à Leeloo de se resserrer avec les élèves.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:41:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h40 - Wistitiiiiiii !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:42:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h41 - Ydriss et Tracy échange de place. Ydriss a l'air dégoûter selon un académicien",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:42:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h42 - Le deuxième essaie photo.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:43:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h43 - Ils refont encore des changements (on va y arriver ).",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:47:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h45 - Attention le photographe a spam de photo et José n'aide pas pour cadré ! Alors je vous balance ce que j'ai comme photo  (exceptionnellement pour la photo de classe).",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:50:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h47 - Photo deuxième partie : On immortalise le moment !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:50:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "J'ai capturé une photo du photographe  est ce que ça veut dire que je suis bonne photographe ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:51:20+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Il y a encore des sessions photos",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:51:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h51 - Le photographe veut qu'ils fassent un gros calin collectif.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:54:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Rip le cours d'expression scénique. Lydia qui doit attendre depuis 1 heure",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:55:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Normalement c'est la photo finale !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:55:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h55 - Ils reviennent au château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:57:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h56 - Ils répètent la chorée (Les repetitrices et Jonathan doit être fière).",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:57:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h57 - Aba non flemme de faire l'hymne. Ça passe sur une musique de soirée",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:58:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ils changent d'avis autant que José ne change de plan château",
       "image_urls": []
     }
   ]
