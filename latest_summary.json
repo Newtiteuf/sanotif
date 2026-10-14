@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Planning et doutes nocturnes",
-  "summary": "La nuit s’est poursuivie en musique, avec Mélina et Maud au piano, puis Maud partageant sa composition et sa façon d’écrire. Les élèves ont ensuite débriefé leurs évaluations ; Mélina craint d’être nommée, tandis que Noémie a tenté de la rassurer. Le programme de mercredi prévoit l’expression scénique à 9 h 30, le sport à 12 h et des répétitions à 16 h 30.",
-  "kind": "half_hour_summary",
-  "period_start": "2026-10-14T00:02:01+02:00",
-  "period_end": "2026-10-14T01:30:47+02:00",
-  "updated_at": "2026-10-14T01:30:47+02:00"
+  "title": "🔴 Piano, doutes puis extinction",
+  "summary": "La nuit a commencé dans une ambiance musicale, avec Mélina interprétant plusieurs titres au piano avant que Maud ne prenne le relais. Maud a repris « Trop tard » d’Orelsan, testé de nouveaux accords et joué l’une de ses compositions, tout en échangeant avec Zoé sur sa manière d’écrire et de tenir son carnet. Quelques flashbacks ont aussi montré Morgan improvisant en danse et les élèves prolongeant une ambiance détendue. La discussion s’est ensuite tournée vers les évaluations : Mélina craint d’être nommée et Noémie a tenté de la rassurer. Le planning de mercredi prévoit l’expression scénique à 9 h 30, le sport à 12 h et des répétitions à 16 h 30. Le live s’est achevé à 1 h 30 et doit reprendre à 7 h 30.",
+  "kind": "night_summary",
+  "period_start": "2026-10-14T00:00:00+02:00",
+  "period_end": "2026-10-14T02:00:00+02:00",
+  "updated_at": "2026-10-14T02:00:46+02:00"
 }
