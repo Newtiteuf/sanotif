@@ -1,93 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T00:30:26+02:00",
-  "period_end": "2026-10-14T02:30:26+02:00",
-  "updated_at": "2026-10-14T02:30:26+02:00",
+  "period_start": "2026-10-14T01:00:41+02:00",
+  "period_end": "2026-10-14T03:00:41+02:00",
+  "updated_at": "2026-10-14T03:00:41+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-14T00:30:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h30 - Maud essaie d'imiter un pigeon à travers le micro.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:31:20+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h31 - Maud joue du piano et chante sur la chanson Trop tard de Orelsan.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:32:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h32 - Les filles la félicite pour son mashup.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:36:37+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h34 - Maud continue de jouer et chanter la même chanson sous le regard intrigué d'Antoine.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:39:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h36 - Antoine approuve l'interprétation et Maud continue de jouer.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:41:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h38 - Maud s'est trompé d'accord et s'arrête. Zoé dit que c'est une bonne idée ces nouvelles accords pour la chanson de Orelsan.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:43:20+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h42 - Maud joue une autre chanson. Elle joue cette fois sa composition !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:43:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plan château",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:45:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Sur ce magnifique plan château vue au moins 600000 fois, je vous laisse avec @Ghost pour la suite du live",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:46:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Merci @Karine🍫 ! \nEt bonsoir tout le monde j'espère que vous allez bien, on est partie jusqu'à la fin du live !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:49:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h48 -",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:53:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h53 - Toujours en présence du plan château.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:58:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "00h56 - Retour dans le salon , Zoé demande à Maud si elle aime écrire des texte sans forcément les chanter, elle répond que ça lui arrive, et qu'elle s'inspire également des messages qu'elle reçoit le matin, Zoé lui répond également",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T00:59:54+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Zoé explique qu'elle prenait des cours de solfège, mais qu'elle arrive à ce repérer au piano avec l'oreille",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-14T01:01:57+02:00",
       "channel": "🔴・infos-live",
