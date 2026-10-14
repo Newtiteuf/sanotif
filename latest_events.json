@@ -1,133 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T09:00:49+02:00",
-  "period_end": "2026-10-14T11:00:49+02:00",
-  "updated_at": "2026-10-14T11:00:49+02:00",
+  "period_start": "2026-10-14T09:31:29+02:00",
+  "period_end": "2026-10-14T11:31:29+02:00",
+  "updated_at": "2026-10-14T11:31:29+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-14T09:01:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "C'est une fin pour moi! \nOn se retrouve pour le cours de sport!\nC'était ma première rédaction n'hésitez pas à me faire votre retour\nEn attendant je passe la main à notre cher @Ghost \nÀ toute à l'heure!!",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:02:24+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Merci @hélène ! Et bravo à toi ! \nBonjour tout le monde j'espère que vous allez bien, on est ensemble pendant une heure, go !",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:04:00+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h03 - En direct de la chambre des garçons avec Cameron et Ydriss en trai de finir de se préparer",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:05:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Petit passage d'Antoine",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:07:08+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Dans la cuisine, avec Morgan, Ydriss qui préparent doucement leurs petit dej, Ydriss voit qu'il y a différents jus, ils sont en train de discuter du planning de la journée.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:07:38+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Ydriss aimerait que les nommés se facent dès le réveil comme ça c'est vite fait.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:08:37+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h08 - Félix qui se réveil doucement.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:10:07+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Petite discussion avec Antoine, et je n'arrive pas à voir qui est le garçon resté couché. (pas de son)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:11:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h10 - Retour en cuisine avec Cameron qui se fait un petit café et quelques vocalises.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:12:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "On remonte à l'étage maintenant dans la buanderie avec Mélina et Leeloo qui finissent de ce préparer.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:12:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Bonjour à Isabella qui fait son apparition en se brossant les dents.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:14:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée... \nOn retrouve les filles devant la coiffeuse en train de terminer de se préparer également.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:18:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h16 - Retour dans la cuisine avec Ydriss qui stress pour l'annonce des nommés, Mélina donne son avis que ça joue entre certaines personnes, Cameron répond que ça dépend car tout le monde a été bon dans l'ensemble.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:19:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée\nNous retrouvons Kylian qui se réveil doucement alors que tout le monde ce prépare.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:22:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h21 -",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:24:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h23 - Passage de Félix dans la chambre des garçons alors que Kylian est toujours couché.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:26:09+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Retour dans la cuisine avec Ydriss, Mélina, Brieuc, Cameron et antoine, qui reparle du passage de Ambre lors de son premier passage l'année dernière.",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559829653643071568/image.png?ex=6ad08011&is=6acf2e91&hm=cc2cbbb252c8f019e9dd47674bd5a3f0a34ef2992fad609e9e12e0456aaca4fc&=&format=webp&quality=lossless&width=640&height=357"
-      ]
-    },
-    {
-      "timestamp": "2026-10-14T09:28:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée\nPetit morceau de guitare et chant d'Antoine,  et Morgan.",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559830167692771338/image.png?ex=6ad0808c&is=6acf2f0c&hm=7df2aa8d069f0a2d4e9027a0bb86e8a3cb4ce80b3c39b0d26e63941e76e57dfd&=&format=webp&quality=lossless&width=640&height=357"
-      ]
-    },
-    {
-      "timestamp": "2026-10-14T09:29:05+02:00",
-      "channel": "🔴・infos-live",
-      "content": "c'est l'une des chanson préférés d'Antoine, et Morgan lui dit que c'est le genre de musique qu'il écoute dans sa voiture, et qu'il est amoureux de la voix d'Antoine.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T09:29:45+02:00",
-      "channel": "🔴・infos-live",
-      "content": "09h29 -",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-14T09:32:23+02:00",
       "channel": "🔴・infos-live",
@@ -506,6 +382,134 @@
       "timestamp": "2026-10-14T10:58:12+02:00",
       "channel": "🔴・infos-live",
       "content": "Ils changent d'avis autant que José ne change de plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:58:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559852994290393159/image.png?ex=6ad095ce&is=6acf444e&hm=d4546d14da0f00ee19b09d4dd42ff54036dc05eef2adcf590a49db0df9925e24&=&format=webp&quality=lossless&width=640&height=355"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14T11:01:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h59 - Ils mettent la chanson \"Breakin'Dishes\" de Rihanna.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:01:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Je vois des edits sur cette musique xD",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:02:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h01 - Changement de musique .",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:05:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h05 - Re changement de musique  sur une musique connu sur tik tok donc j'ignore le nom.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:06:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h05 - Il y a une musique de Gims.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:06:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Je connais toujours pas.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:08:04+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h07 - Ça part sur une musique Espagnol. D'après le public du live c'est notre très cher Bad Bunny.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:12:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h11 - Brieuc nous fait la danse fortnite sur une chanson anglaise.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:14:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h13 - Changement de plan : Salle coiffeur Elija se prépare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:15:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h14 - Retour sur le foyer où les élèves répètent l'hymne.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:15:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h15 - L'hymne devant la caméra.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:17:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h17 - Ils continuent d'apprendre la chorée en se donnant des conseils l'un à l'autre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:19:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h18 - Dans le hall les élèves demande quand il aura le cours d'expression scénique. Ce sera bientôt.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:20:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h19 - Mélina est tout seul dehors. Elle chante l'hymne en mode abeille .\n\n\nBrrr brrr brr",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:22:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Meuf pourquoi tu es dehors ?  Tu vas attraper froid..",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:24:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h23 - On a un flash-back des élèves qui sont dans la cuisine. Il y a l'hymne en fond. Kylian dit avoir du mal avec la montée de \"Et souffrirrrr, souffrirrr\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:25:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Fin du flash-back pour nous foutre un plan  merci José. On sait que tu es Châteauphile mais quand même...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:26:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h26 - On retrouve Cameron à la guitare dans la chambre.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:27:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "11h26 - Les élèves sont tous dans le hall et se dirige vers le cours d'expression d'expression scénique.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T11:28:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Sonnerie direction ⁠🙍・cours-d’expression-scénique pour la suite du live !",
       "image_urls": []
     }
   ]
