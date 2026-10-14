@@ -1,7 +1,52 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T11:30:24+02:00",
-  "period_end": "2026-10-14T13:30:24+02:00",
-  "updated_at": "2026-10-14T13:30:24+02:00",
-  "events": []
+  "period_start": "2026-10-14T12:00:45+02:00",
+  "period_end": "2026-10-14T14:00:45+02:00",
+  "updated_at": "2026-10-14T14:00:45+02:00",
+  "events": [
+    {
+      "timestamp": "2026-10-14T12:50:54+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h49 - Retour en cuisine avec Cameron qui se fait un petit café avant le cours de sport, nous avons eu également d'autres élèves qui se croises dans le couloir en haut pour se changer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T12:52:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h51 Différents plan dans le château, pour voir les élèves.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T12:53:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h53 - Dans la salle de bain des filles , Zoé se recoiffe en murmurant l'hymne.",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559881912628154389/image.png?ex=6ad0b0bd&is=6acf5f3d&hm=3643ea985e2dbab438f6c243f75e2cdc33a16836595b47bfeba46506711b19a4&=&format=webp&quality=lossless&width=640&height=360"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14T12:58:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h57 - En cuisine, on retrouve Maud, Isabella, Elija qui discutent.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T12:59:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ah, plan portail !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T12:59:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "12h59 - Arrivé de Ladji",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T13:00:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "La suite dans ⁠💪・cours-de-sport",
+      "image_urls": []
+    }
+  ]
 }
