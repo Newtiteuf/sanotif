@@ -1,167 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-13T23:30:47+02:00",
-  "period_end": "2026-10-14T01:30:47+02:00",
-  "updated_at": "2026-10-14T01:30:47+02:00",
+  "period_start": "2026-10-14T00:00:46+02:00",
+  "period_end": "2026-10-14T02:00:46+02:00",
+  "updated_at": "2026-10-14T02:00:46+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-13T23:32:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h31 - On est maintenant dans la cuisine, ils sont en train de ranger et de nettoyer",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:32:27+02:00",
-      "channel": "🔴・infos-live",
-      "content": "retour au direct",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:34:12+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h32 - Toujours dans la cuisine, ils sont en train de débattre sur Morgan comme quoi il n'y croit pas et qu'il ne se rend pas compte de son niveau en danse. Ils se demandent qui va être dans le top 3",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:34:47+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plus de son et plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:36:15+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:37:22+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h36 - Morgan est en train d'apprendre le moonwalk à Zoé mais elle était tellement à fond qu'elle s'est prise la caméra",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:37:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:42:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Toujours Plus tôt dans la journée...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:43:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h42 - Dans la cuisine Zoé chante du lyrique avec Ydriss, les deux ont des voix d'opéra",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:44:09+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:46:02+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h45 - Morgan fait un petit cours de danse à Leeloo qui veut apprendre de nouveaux mouvements",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:46:59+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h46 - Il lui montre les pas de base de breakdance",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:47:56+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h47 - Maud les rejoint et donne des conseils à Leeloo, qu'elle doit être complètement relâchée",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:48:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:49:40+02:00",
-      "channel": "🔴・infos-live",
-      "content": "ah enfin le retour au direct",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:50:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h50 - On retrouve Khalil et Noémie en train de ranger et nettoyer le reste du bordel dans la cuisine",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:51:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:52:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h51 - Leeloo et Khalil discutent de leurs évaluations dans la cuisine",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:53:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h52 Leeloo taquine Morgan sur sa façon de marcher",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:53:28+02:00",
-      "channel": "🔴・infos-live",
-      "content": "plan",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:54:41+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Plus tôt dans la journée...",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:55:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h54 - On retrouve le prof de breakdance avec son assistante Maud et son élève Leeloo",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:56:30+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h56 - Chaque jour, il va lui apprendre un pas",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:58:10+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h57 - Ils ont deux styles de danse différentes mais qui peut bien se compléter",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:59:27+02:00",
-      "channel": "🔴・infos-live",
-      "content": "23h58 - RETOUR AU DIRECT avec Cameron qui chante en s'accompagnant de sa guitare dans la chambre des garçons",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-13T23:59:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "",
-      "image_urls": [
-        "https://media.discordapp.net/attachments/1500850385567617196/1559687060002963456/IMG_7372.png?ex=6acffb44&is=6acea9c4&hm=e5ba477886613e4dc4f227620b895515b22889591742d319fe794ddff55a11fc&=&format=webp&quality=lossless&width=640&height=390"
-      ]
-    },
     {
       "timestamp": "2026-10-14T00:00:46+02:00",
       "channel": "🔴・infos-live",
@@ -437,6 +279,26 @@
       "channel": "🔴・infos-live",
       "content": "1h28 -",
       "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:30:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Mélina expliquait sur les votes extérieurs, qu'elle doit \"dead\" sa performance.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:31:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Fin du live, bonne nuit à toutes et tous ! (1h30 c'est 1h30 attention)\nRetour du live à 7h30 avec @Nantaise44 🩷",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T01:32:46+02:00",
+      "channel": "🔴・infos-live",
+      "content": "",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559710520364507307/fin.png?ex=6ad0111e&is=6acebf9e&hm=d57f3d917c1fe58730092b2e16cc5daaf8277b69ee2bbab9b350867cdc7ca270&=&format=webp&quality=lossless&width=640&height=230"
+      ]
     }
   ]
 }
