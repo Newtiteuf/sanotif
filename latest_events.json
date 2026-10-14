@@ -1,7 +1,56 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T16:30:12+02:00",
-  "period_end": "2026-10-14T18:30:12+02:00",
-  "updated_at": "2026-10-14T18:30:12+02:00",
-  "events": []
+  "period_start": "2026-10-14T17:00:42+02:00",
+  "period_end": "2026-10-14T19:00:42+02:00",
+  "updated_at": "2026-10-14T19:00:42+02:00",
+  "events": [
+    {
+      "timestamp": "2026-10-14T18:39:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h38 : Reprise du live avec Morgan qui répète Hier encore de Charles Aznavour avec Philippine au foyer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:41:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h40 : La répétitrice lui demande s’il se sent bien au niveau de la tonalité, qu’ils testent ensemble.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:45:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h43 : Philippine lui conseille de bien corriger ses graves, puis il recommence la chanson sous son regard attentif.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:49:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h46 : Philippine souligne de très belles choses et lui donne d’autres conseils, notamment d’alterner chant et parlé en justifiant chaque choix. Cette chanson semble destinée au battle du top 3.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:51:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h50 : Morgan craint que l’interprétation soit un peu trop plate ; ils réécoutent le dernier bloc.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:54:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h51 : Philippine explique le texte à Morgan et décrit une progression en crescendo ; la tonalité lui paraît correcte pour le moment.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:55:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h54 : Morgan recommence la chanson avec l’aide de Philippine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T18:58:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "18h56 : Philippine lui conseille de puiser dans sa vie pour interpréter la chanson, un texte difficile à porter alors qu’il n’a pas encore 20 ans.",
+      "image_urls": []
+    }
+  ]
 }
