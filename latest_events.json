@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T17:00:42+02:00",
-  "period_end": "2026-10-14T19:00:42+02:00",
-  "updated_at": "2026-10-14T19:00:42+02:00",
+  "period_start": "2026-10-14T17:30:47+02:00",
+  "period_end": "2026-10-14T19:30:47+02:00",
+  "updated_at": "2026-10-14T19:30:47+02:00",
   "events": [
     {
       "timestamp": "2026-10-14T18:39:37+02:00",
@@ -50,6 +50,168 @@
       "timestamp": "2026-10-14T18:58:38+02:00",
       "channel": "🔴・infos-live",
       "content": "18h56 : Philippine lui conseille de puiser dans sa vie pour interpréter la chanson, un texte difficile à porter alors qu’il n’a pas encore 20 ans.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:00:10+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Il est heure pour moi de vous laissez avec @Clara belle soirée a vous",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:00:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Salut à touss !! J’espère que votre journée c’est bien passée on est 30 minutes ensemble",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:02:13+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h01 - Morgan explique qu’il l’imagine chantait la chanson avec mélancolique et de la tendresse pour le passé",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:02:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h02 - Sur l’autre bloc il veut faire passer un message de désespérer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:03:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h03 - Philippine lui dit que c’est bien si ça l’aide et d’imaginer qu’il sois plus le Morgan pétillant",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:04:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h04 - Philippine veut qu’il nous surprend jusqu’à ce que ça procure des émotions à Morgan mais pas jusqu’au limites",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:05:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h05 - Philippine dis que ça va être géniale",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:05:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h05 - Morgan dis qu’il va chercher l’immunité",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:07:44+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h07 - Morgan rentre au château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:08:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h08 - On ce retrouve avec Fanny conseille de Amel de boire de 2l par jour et Kylian qui est à côté de Amel",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:09:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h09 - Amel et Kylian s’entraînent sur la chanson XY De Vitaa/Slimane",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:11:11+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h10 - Ils réécoutent la chanson",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:11:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h11 - Fanny aime bien la voix à Vitaa",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:12:39+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h12 - Fanny dis que ça va être canon",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:14:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h14 - On ce retrouve avec plus tôt dans la journée avec Brieuc, Maud, Cameron, Ydriss, Morgan et Antoine qui s’entraînent sur l’hymne",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:16:02+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h15 Ils dansent sur on va s’aimer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:17:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h16 - Vu sur le château (pas la musique de bastian)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:18:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h17 - On ce retrouve avec Fanny, Kylian et Amel qui répètent encore sur XY De Vitaa/Slimane",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:20:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h19 - Ils chantent la chanson tous les deux avec le piano en accompagnement",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:20:22+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h20 - Ils ont encore 15 minutes tous les trois pour réviser",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:20:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h20 - Amel a du mal à avoir les notes",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:21:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h21 - Fanny chante avec eux",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:22:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h22 - Amel s’inquiète pas elle dit que ça va le faire",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:24:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h23 - Fanny dit que ça va être CANON",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:25:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h24 - Fanny dit que Kylian c’est un génie de la musique et que sa marche trop bien",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:26:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h25 - Kylian aime bien (c’est rare)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T19:29:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "19h28 - Ils modifient les phrases désignée entre eux",
       "image_urls": []
     }
   ]
