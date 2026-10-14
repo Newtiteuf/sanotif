@@ -1,51 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T08:00:26+02:00",
-  "period_end": "2026-10-14T10:00:26+02:00",
-  "updated_at": "2026-10-14T10:00:26+02:00",
+  "period_start": "2026-10-14T08:30:39+02:00",
+  "period_end": "2026-10-14T10:30:39+02:00",
+  "updated_at": "2026-10-14T10:30:39+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-14T08:00:37+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Je vous laisse maintenant en compagnie d' @hélène . bonne journée à tous",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:02:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Merci @Nantaise44 🩷 \nBonjour à tous, une excellente journée aujourd'hui!",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:03:03+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h02 – Ils sont toujours entrain de dormir, si nous aussi on pouvait encore être au chaud dans notre lit",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:08:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h08 – Toujours entrain de dormir, on peut entendre des ronflements, qui ont vite été coupé par notre cher José",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:15:34+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h14 – On assiste au levé du soleil à Dammarie les Lys",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:20:43+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h20 – Des mouvements des garçons sont présents mais ils retournent tous sous la couette pour terminer leur nuit",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T08:27:32+02:00",
-      "channel": "🔴・infos-live",
-      "content": "8h26 – Morgan a lâché le coussin de ses bras, il a sûrement dû oublier d'emmener son doudou avec lui",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-14T08:34:40+02:00",
       "channel": "🔴・infos-live",
@@ -366,6 +324,162 @@
       "timestamp": "2026-10-14T09:59:26+02:00",
       "channel": "🔴・infos-live",
       "content": "On retrouve Leeloo et Elija devant la coiffeuse elles discutent sur le passage de Leeloo, elle aurait fait quelques fautes dans les paroles.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:00:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Je profite du plan Château pour laisser la place à @Karine🍫 on se retrouve plus tard !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:03:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h01 - Helloo tout le monde ! On retrouve Isabella au piano . Elle chante Virile de Suzane.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:05:55+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h03 - Noémie complimente la voix de Isabella. Isabella dit qu'elle pourrait parier que Noémie serait top 3. Elle mettrait sa main à couper.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:07:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h06 - Isabella demande ensuite à Noémie sa compo. Noémie montre quelques note au piano et par la suite, Isabella joue les accords.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:07:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h07 - Noémie chante sa composition ?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:09:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Très belle compo d'ailleurs ✨️",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:10:18+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h09 - Je vous met un extrait : \"Je voudrais y aller plus fort.... \nToujours plus fort....\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:12:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h10 - Après la fin de la chanson. Noémie lui tient le bras et lui dit que c'est trop belle. Alors que Isabella énonce tout les arguments pour dire qu'elle est très fan de la voix de Noémie.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:13:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:14:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h13 - Isabella énonce son envie de jouer du piano full bien. Noémie trouve qu'elle joue déjà super bien et qu'elle aimerait s'accompagner autant avec un instrument aussi.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:16:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h14 - Isabella demande quel chanson Noémie voudrait chanter. Elle poursuit en disant qu'elle aimerait chanter de l'Espagnol. Noémie lui propose de lui passer les accords de sa chanson en espagnol  !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:17:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h15 - Noémie montre les accords à Isabella sous le regard de Cameron.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:17:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coucou Cameron en passant !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:17:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Voici le texte",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:19:19+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h16 - Après la fin de la chanson, Noémie se plaint d'écouter toujours les même chansons (ses chansons préféré). Donc du Céline Dion.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:19:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h17 - On apprend que Cameron est Espagnol et Algérien.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:19:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:21:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h18 - flash-back de José le retour ! José nous montre Morgan qui discute avec les élèves des nominations. Il est triste pour celui ou celle qui va rester qu'une semaine au château. Alors qu'une autre académicienne est convaincu que c'est déjà une chance d'être au château.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:21:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h20 - Un autre académicien dit que ça dépend des objectifs de chacun.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:22:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:23:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h22 - On retrouve un autre flash-back de José, montrant cette fois-ci Elija qui discute de sport avec Kylian. Elle redoute les pompes car elle est en mode \"Survie\".",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:25:27+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h24 - On retrouve les filles dans la cuisine et dans un Flash-back toujours entrain de discuter des nominations. L'une d'entre elle demande si ils vont annoncés les nommés en premier ou le top 3. La réponse est le top 3.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:26:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h25 - Elle parle aussi du prochain cours. L'une d'elle apprend que c'est le cours d'expression scénique le prochain et pas sport.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:27:42+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h26 - Fin du flash-back, on retrouve Antoine, Isabella, Cameron, Maud et Noémie dans Le foyer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:28:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h27 - Ils écoutent une musique Espagnol. Celle de la gagnante de la Starac Espagnol. Noémie est allé la voir en concert.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T10:29:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "10h28 - Noémie dans sa Espagnol Era !",
       "image_urls": []
     }
   ]
