@@ -1,87 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T01:00:41+02:00",
-  "period_end": "2026-10-14T03:00:41+02:00",
-  "updated_at": "2026-10-14T03:00:41+02:00",
+  "period_start": "2026-10-14T01:30:12+02:00",
+  "period_end": "2026-10-14T03:30:12+02:00",
+  "updated_at": "2026-10-14T03:30:12+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-14T01:01:57+02:00",
-      "channel": "🔴・infos-live",
-      "content": "1h00 - Maud explique qu'elle n'est pas souvent sur son tel, mais que le soir depuis quelques années elle ne passe pu une fin de soirée sans son tel sans scroller.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:03:13+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Elle explique que dans son carnet, elle a un côté compo et un côté \"journal intime\"",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:05:14+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h04 - Zoé lui dit qu'elle a super bien interprétée sa chanson aux évals, Maud a commencé sont explication et....",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:05:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Coupure coiffeuse",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:07:53+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h06 -  On retrouve Amel, Mélina et Elija au canapé sur un mini debrief des evals.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:09:01+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h07 - Vue de la cuisine avec un groupe d'élèves (Elija est face de Amel)",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:14:20+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Bonne nuit à celles et ceux qui vont dormir",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:16:29+02:00",
-      "channel": "🔴・infos-live",
-      "content": "1h15 -",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:21:51+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Petit rappel du planning de demain, les élèves commencent à 9h30 avec Expression scénique, suivi de Sport à 12h et enfin répétitions à 16h30. ⁠📅・planning",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:23:46+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h23 -",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:27:16+02:00",
-      "channel": "🔴・infos-live",
-      "content": "01h25 - On retrouve Noémie et Mélina dans la chambre des filles , Mélina explique qu'elle a peur d'être nommée avec les petites fautes qu'elle a fait, Noémie la rassure que l'année dernière la différence jouais sur les élèves qui prenais les paroles lors des évales.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:28:23+02:00",
-      "channel": "🔴・infos-live",
-      "content": "Mélina s'attend à être nommée, elle se dit qu'elle a pas assurée, qu'elle préfère se dire ça.",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T01:28:48+02:00",
-      "channel": "🔴・infos-live",
-      "content": "1h28 -",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-14T01:30:31+02:00",
       "channel": "🔴・infos-live",
