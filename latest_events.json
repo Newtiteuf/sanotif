@@ -1,39 +1,9 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T07:32:05+02:00",
-  "period_end": "2026-10-14T09:32:05+02:00",
-  "updated_at": "2026-10-14T09:32:05+02:00",
+  "period_start": "2026-10-14T08:00:26+02:00",
+  "period_end": "2026-10-14T10:00:26+02:00",
+  "updated_at": "2026-10-14T10:00:26+02:00",
   "events": [
-    {
-      "timestamp": "2026-10-14T07:32:21+02:00",
-      "channel": "🔴・infos-live",
-      "content": "07h31 - Bonjour à tous on se retrouve en ce mercredi 14 octobre. Les élèvesdorment toujours",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T07:32:35+02:00",
-      "channel": "🔴・infos-live",
-      "content": "ça change d('hier",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T07:38:58+02:00",
-      "channel": "🔴・infos-live",
-      "content": "07h38 - Comme on peut le voir sur cette image. Antoine n'est pas pret de se reveiller",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T07:47:25+02:00",
-      "channel": "🔴・infos-live",
-      "content": "07h46 - la chambre des garçons est toujours plongée dans les bras de Morphée",
-      "image_urls": []
-    },
-    {
-      "timestamp": "2026-10-14T07:52:15+02:00",
-      "channel": "🔴・infos-live",
-      "content": "07h51 - dans la chambre des filles c'est la même chose",
-      "image_urls": []
-    },
     {
       "timestamp": "2026-10-14T08:00:37+02:00",
       "channel": "🔴・infos-live",
@@ -318,6 +288,84 @@
       "timestamp": "2026-10-14T09:29:45+02:00",
       "channel": "🔴・infos-live",
       "content": "09h29 -",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:32:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h31 - Visiblement pour Kylian qui est assis au bord de son lit, c'est compliqué ce matin, courage à lui.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:35:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h34 - On retrouve presque tout le monde dans la cuisine en train de prendre le petit dej.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:36:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "D'un côté ça chante, de l'autre ça parle de lait différents dans le frigo.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:38:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Antoine dit qu'il est à peine réveillé, il voit déjà Ydriss déjà debout prêt habillé, les lumière s'allume et il entend Ydriss dire \"OUI ?\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:39:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Côté fille à table ça discute de maquillage.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:40:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h40 - Petit aperçu de Kylian dans la salle de bain en train de se préparer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:46:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h46 - Retour en haut de l'escalier beaucoup de passage des élèves qui se croisent, on retrouve Ydriss et Noémie ou Zoé en train de repasser une chemise.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:48:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Petit arrivé de Elija devant la coiffeuse avec son blouson léopard.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:49:56+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elle retrouve Noémie dans la salle de bain pour une session \"makup\"",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:51:06+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Elles se partagent les avis maquillage.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:53:52+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h52 - Retour en cuisine avec Isabella qui se prépare une inhalation, mais Ydriss lui fait la remarque qu'elle c'est maquillée et qu'avec la vapeur c'est pas génial, elle le fera plus tard.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:55:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Apparemment Kylian se serais couché dans le lit d'Ydriss au lieu du sien, du coup il a dormi dans le lit à côté de Brieuc.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:59:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "On retrouve Leeloo et Elija devant la coiffeuse elles discutent sur le passage de Leeloo, elle aurait fait quelques fautes dans les paroles.",
       "image_urls": []
     }
   ]
