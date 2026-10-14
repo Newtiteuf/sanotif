@@ -1,7 +1,324 @@
 {
   "schema_version": 1,
-  "period_start": "2026-10-14T03:00:15+02:00",
-  "period_end": "2026-10-14T05:00:15+02:00",
-  "updated_at": "2026-10-14T05:00:15+02:00",
-  "events": []
+  "period_start": "2026-10-14T07:32:05+02:00",
+  "period_end": "2026-10-14T09:32:05+02:00",
+  "updated_at": "2026-10-14T09:32:05+02:00",
+  "events": [
+    {
+      "timestamp": "2026-10-14T07:32:21+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h31 - Bonjour à tous on se retrouve en ce mercredi 14 octobre. Les élèvesdorment toujours",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T07:32:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "ça change d('hier",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T07:38:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h38 - Comme on peut le voir sur cette image. Antoine n'est pas pret de se reveiller",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T07:47:25+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h46 - la chambre des garçons est toujours plongée dans les bras de Morphée",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T07:52:15+02:00",
+      "channel": "🔴・infos-live",
+      "content": "07h51 - dans la chambre des filles c'est la même chose",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:00:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Je vous laisse maintenant en compagnie d' @hélène . bonne journée à tous",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:02:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Merci @Nantaise44 🩷 \nBonjour à tous, une excellente journée aujourd'hui!",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:03:03+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h02 – Ils sont toujours entrain de dormir, si nous aussi on pouvait encore être au chaud dans notre lit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:08:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h08 – Toujours entrain de dormir, on peut entendre des ronflements, qui ont vite été coupé par notre cher José",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:15:34+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h14 – On assiste au levé du soleil à Dammarie les Lys",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:20:43+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h20 – Des mouvements des garçons sont présents mais ils retournent tous sous la couette pour terminer leur nuit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:27:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h26 – Morgan a lâché le coussin de ses bras, il a sûrement dû oublier d'emmener son doudou avec lui",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:34:40+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h34 – Morgan a récupéré le coussin dans ses bras",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:35:30+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h35 – Et la lumière fût!!",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:36:23+02:00",
+      "channel": "🔴・infos-live",
+      "content": "À ne pas oublier qu'il y avait de gros ronflements avant l'allumage des lumières, on pense aux académiciens qui vivent en communauté avec tous ses ronflements",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:37:31+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h37 – Ydriss et Morgan se réveille doucement",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:38:58+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h38 – Ydriss se gratte le derrière directement après être sorti du lit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:39:36+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h39 – Les filles se réveillent en douceur",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:40:33+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure du son",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:41:49+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h41 – Très dur pour Mélina",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:43:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h42 – On a un plus tôt dans la journée avec le réveil de Brieuc et de Morgan, José a du oublier son café ce matin...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:45:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h45 – Félix et Khalil sortent du lit\nQui aurait cru que Khalil soit réveillé?",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:46:59+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ce fut un faux espoir, Khalil s'est vite rendormi...",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:47:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plan château",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:49:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h48 – Antoine est réveillé et a fait son lit",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:49:41+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Coupure son",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:51:26+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h50 – Morgan et Felix sont de retour dans leur lit, le petit-déjeuner ne doit pas être encore servi",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:53:57+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h53 – Leeloo et Elija se préparent",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:54:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h54 – Elles sont entrain de repasser la chemise d'Elija",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:55:50+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h55 – Ydriss se met de l'huile dans les cheveux dans la salle de bain",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:57:48+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h57 - Maud dit qu'elle s'est fait mal à la hanche dans la nuit, elle suppose qu'elle a du dormir dans une position pas très confortable",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T08:59:32+02:00",
+      "channel": "🔴・infos-live",
+      "content": "8h59 – Noémie et Tracy cherchent leur outfit du jour",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:01:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "C'est une fin pour moi! \nOn se retrouve pour le cours de sport!\nC'était ma première rédaction n'hésitez pas à me faire votre retour\nEn attendant je passe la main à notre cher @Ghost \nÀ toute à l'heure!!",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:02:24+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Merci @hélène ! Et bravo à toi ! \nBonjour tout le monde j'espère que vous allez bien, on est ensemble pendant une heure, go !",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:04:00+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h03 - En direct de la chambre des garçons avec Cameron et Ydriss en trai de finir de se préparer",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:05:28+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Petit passage d'Antoine",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:07:08+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Dans la cuisine, avec Morgan, Ydriss qui préparent doucement leurs petit dej, Ydriss voit qu'il y a différents jus, ils sont en train de discuter du planning de la journée.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:07:38+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Ydriss aimerait que les nommés se facent dès le réveil comme ça c'est vite fait.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:08:37+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h08 - Félix qui se réveil doucement.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:10:07+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Petite discussion avec Antoine, et je n'arrive pas à voir qui est le garçon resté couché. (pas de son)",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:11:14+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h10 - Retour en cuisine avec Cameron qui se fait un petit café et quelques vocalises.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:12:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "On remonte à l'étage maintenant dans la buanderie avec Mélina et Leeloo qui finissent de ce préparer.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:12:47+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Bonjour à Isabella qui fait son apparition en se brossant les dents.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:14:51+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée... \nOn retrouve les filles devant la coiffeuse en train de terminer de se préparer également.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:18:01+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h16 - Retour dans la cuisine avec Ydriss qui stress pour l'annonce des nommés, Mélina donne son avis que ça joue entre certaines personnes, Cameron répond que ça dépend car tout le monde a été bon dans l'ensemble.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:19:16+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée\nNous retrouvons Kylian qui se réveil doucement alors que tout le monde ce prépare.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:22:35+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h21 -",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:24:29+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h23 - Passage de Félix dans la chambre des garçons alors que Kylian est toujours couché.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:26:09+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Retour dans la cuisine avec Ydriss, Mélina, Brieuc, Cameron et antoine, qui reparle du passage de Ambre lors de son premier passage l'année dernière.",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559829653643071568/image.png?ex=6ad08011&is=6acf2e91&hm=cc2cbbb252c8f019e9dd47674bd5a3f0a34ef2992fad609e9e12e0456aaca4fc&=&format=webp&quality=lossless&width=640&height=357"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14T09:28:12+02:00",
+      "channel": "🔴・infos-live",
+      "content": "Plus tôt dans la journée\nPetit morceau de guitare et chant d'Antoine,  et Morgan.",
+      "image_urls": [
+        "https://media.discordapp.net/attachments/1500850385567617196/1559830167692771338/image.png?ex=6ad0808c&is=6acf2f0c&hm=7df2aa8d069f0a2d4e9027a0bb86e8a3cb4ce80b3c39b0d26e63941e76e57dfd&=&format=webp&quality=lossless&width=640&height=357"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14T09:29:05+02:00",
+      "channel": "🔴・infos-live",
+      "content": "c'est l'une des chanson préférés d'Antoine, et Morgan lui dit que c'est le genre de musique qu'il écoute dans sa voiture, et qu'il est amoureux de la voix d'Antoine.",
+      "image_urls": []
+    },
+    {
+      "timestamp": "2026-10-14T09:29:45+02:00",
+      "channel": "🔴・infos-live",
+      "content": "09h29 -",
+      "image_urls": []
+    }
+  ]
 }
