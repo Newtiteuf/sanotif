@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Soirée toujours sans nouvelles",
-  "summary": "Aucun nouveau message n’a été publié dans infos-live depuis la fin des répétitions et des flashbacks diffusés avant 20 h. La soirée est donc restée calme sans nouvel événement signalé.",
-  "kind": "half_hour_summary",
-  "period_start": "2026-10-14T21:30:24+02:00",
-  "period_end": "2026-10-14T23:30:18+02:00",
-  "updated_at": "2026-10-14T23:30:18+02:00"
+  "title": "🔴 Répétitions et soirée sans reprise",
+  "summary": "Le live a repris à 18 h 38 avec Morgan répétant « Hier encore » de Charles Aznavour au foyer avec Philippine. La répétitrice l’a guidé sur la tonalité, les graves, la progression en crescendo et l’interprétation d’un texte difficile à porter à son âge. Morgan a poursuivi ses essais en cherchant davantage de mélancolie et de tendresse, puis a affirmé vouloir aller chercher l’immunité. Fanny a ensuite accompagné Amel et Kylian sur « XY » de Vitaa et Slimane, en travaillant leur harmonie et leur réunion sur la dernière phrase malgré les difficultés d’Amel sur certaines notes. Des flashbacks ont aussi montré plusieurs élèves répétant « On va s’aimer » ainsi que l’hymne avec leur chorégraphie. Après 20 h, aucun nouvel événement n’a été signalé dans infos-live jusqu’à minuit.",
+  "kind": "evening_summary",
+  "period_start": "2026-10-14T18:00:00+02:00",
+  "period_end": "2026-10-15T00:00:00+02:00",
+  "updated_at": "2026-10-15T00:00:30+02:00"
 }
