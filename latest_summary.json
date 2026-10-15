@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Silence prolongé cet après-midi",
-  "summary": "Depuis le point de 14 h 30, aucun nouveau message n’a été publié dans infos-live. Aucun changement d’activité ni nouvel événement n’a été signalé au château pendant cette tranche de l’après-midi. Le suivi reste donc entièrement calme à l’approche du bilan de 18 h.",
-  "kind": "half_hour_summary",
-  "period_start": "2026-10-15T14:30:20+02:00",
-  "period_end": "2026-10-15T17:00:00+02:00",
-  "updated_at": "2026-10-15T17:00:21+02:00"
+  "title": "🔴 Après-midi entièrement silencieuse",
+  "summary": "Entre midi et 18 h, aucun nouveau message n’a été publié dans infos-live. Le flux est resté silencieux durant toute la période, sans annonce de reprise. Aucun changement d’activité ni événement supplémentaire n’a été signalé au château. Les dernières informations disponibles restent celles des répétitions de la veille au soir. L’après-midi s’achève donc sur une situation entièrement calme.",
+  "kind": "afternoon_summary",
+  "period_start": "2026-10-15T12:00:00+02:00",
+  "period_end": "2026-10-15T18:00:00+02:00",
+  "updated_at": "2026-10-15T18:00:25+02:00"
 }
