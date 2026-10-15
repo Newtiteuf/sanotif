@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "title": "🔴 Nuit toujours entièrement calme",
-  "summary": "Depuis le bilan de 2 h, aucun nouveau message n’a été publié dans infos-live. Le live n’a pas repris et aucun changement d’activité n’a été signalé au château. Les dernières informations disponibles restent celles des répétitions de la soirée précédente, terminées avant 20 h.",
+  "title": "🔴 Matin toujours sans reprise",
+  "summary": "Depuis le dernier point de 4 h 30, aucun nouveau message n’a été publié dans infos-live. Aucune information supplémentaire ni changement d’activité n’a été signalé au château. Le suivi reste donc calme en attendant une éventuelle reprise des nouvelles en direct.",
   "kind": "half_hour_summary",
-  "period_start": "2026-10-15T02:00:27+02:00",
-  "period_end": "2026-10-15T04:30:00+02:00",
-  "updated_at": "2026-10-15T04:30:35+02:00"
+  "period_start": "2026-10-15T04:30:35+02:00",
+  "period_end": "2026-10-15T09:30:00+02:00",
+  "updated_at": "2026-10-15T09:30:37+02:00"
 }
